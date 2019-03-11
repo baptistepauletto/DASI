@@ -12,6 +12,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
+import javax.persistence.ManyToOne;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
@@ -35,6 +36,12 @@ public abstract class DemandeIntervention {
     
     private String descriptionClient;
     private String descriptionEmployé;
+    
+    @ManyToOne
+    private Client client;
+    
+    @ManyToOne
+    private Employe employe;
 
     public DemandeIntervention(Integer id, Date dateDeb, Date dateFin, String descriptionClient, String descriptionEmployé) {
         this.id = id;
