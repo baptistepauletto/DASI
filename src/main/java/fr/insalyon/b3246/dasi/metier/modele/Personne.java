@@ -36,20 +36,18 @@ public abstract class Personne implements Serializable {
     private Date date;
 
     private String adresse;
-    private Integer codePostal;
     private String ville;
     private String numTelephone;
     private String adresseMail;
     private String motDePasse;
     //TODO : COORDS GPS
 
-    public Personne(String nom, String prenom, String civilite, Date date, String adresse, Integer codePostal, String ville, String numTelephone, String adresseMail, String motDePasse) {
+    public Personne(String nom, String prenom, String civilite, Date date, String adresse, String ville, String numTelephone, String adresseMail, String motDePasse) {
         this.nom = nom;
         this.prenom = prenom;
         this.civilite = civilite;
         this.date = date;
         this.adresse = adresse;
-        this.codePostal = codePostal;
         this.ville = ville;
         this.numTelephone = numTelephone;
         this.adresseMail = adresseMail;
@@ -84,10 +82,6 @@ public abstract class Personne implements Serializable {
 
     public String getAdresse() {
         return adresse;
-    }
-
-    public Integer getCodePostal() {
-        return codePostal;
     }
 
     public String getVille() {

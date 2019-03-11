@@ -18,8 +18,8 @@ import javax.persistence.Id;
 @Entity
 public class Client extends Personne {
 
-    public Client(String nom, String prenom, String civilite, Date date, String adresse, Integer codePostal, String ville, String numTelephone, String adresseMail, String motDePasse) {
-        super(nom, prenom, civilite, date, adresse, codePostal, ville, numTelephone, adresseMail, motDePasse);
+    public Client(String nom, String prenom, String civilite, Date date, String adresse, String ville, String numTelephone, String adresseMail, String motDePasse) {
+        super(nom, prenom, civilite, date, adresse, ville, numTelephone, adresseMail, motDePasse);
     }
 
     public Client(String nom, String adresseMail, String motDePasse) {

@@ -24,8 +24,8 @@ public class Employe extends Personne{
     private Integer heureDebTravail;
     private Integer heureFinTravail;
 
-    public Employe(Integer heureDebTravail, Integer heureFinTravail, String nom, String prenom, String civilite, Date date, String adresse, Integer codePostal, String ville, String numTelephone, String adresseMail, String motDePasse) {
-        super(nom, prenom, civilite, date, adresse, codePostal, ville, numTelephone, adresseMail, motDePasse);
+    public Employe(Integer heureDebTravail, Integer heureFinTravail, String nom, String prenom, String civilite, Date date, String adresse, String ville, String numTelephone, String adresseMail, String motDePasse) {
+        super(nom, prenom, civilite, date, adresse, ville, numTelephone, adresseMail, motDePasse);
         this.heureDebTravail = heureDebTravail;
         this.heureFinTravail = heureFinTravail;
         this.estDisponible = true;

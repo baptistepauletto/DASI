@@ -7,8 +7,12 @@ package fr.insalyon.b3246.dasi.vue;
 
 import fr.insalyon.b3246.dasi.dao.JpaUtil;
 import fr.insalyon.b3246.dasi.metier.modele.Client;
+import fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionAnimal;
+import fr.insalyon.b3246.dasi.metier.modele.Employe;
 import fr.insalyon.b3246.dasi.metier.modele.Personne;
 import fr.insalyon.b3246.dasi.metier.service.ClientService;
+import fr.insalyon.b3246.dasi.metier.service.DemandeInterventionService;
+import fr.insalyon.b3246.dasi.metier.service.EmployeService;
 import fr.insalyon.b3246.dasi.metier.service.PersonneService;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -25,12 +29,16 @@ public class Main {
         JpaUtil.init();
         
         Client client = new Client("Chungus Jr.","a@b.com","abc");
-        
         ClientService.inscrireClient(client);
-
-        Personne a = PersonneService.authentifier("a@b.com", "abc");
         
-        System.out.println(a.getNom());
+        Employe employe = new Employe("Gelus", "abc@mail", "bcd");
+        EmployeService.inscrireEmploye(employe);
+        
+        DemandeInterventionAnimal DIA = new DemandeInterventionAnimal();
+        DemandeInterventionService.ajouterDemandeInvervention(DIA);
+
+        /*Personne a = PersonneService.authentifier("a@b.com", "abc");
+        System.out.println(a.getNom());*/
         
         JpaUtil.destroy();
      }
