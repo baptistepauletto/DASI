@@ -23,7 +23,7 @@ public class JpaUtil {
      * <br><strong>Vérifier le nom de l'unité de persistance
      * (cf.&nbsp;persistence.xml)</strong>
      */
-    public static final String PERSISTENCE_UNIT_NAME = "XXXXXXXXXXXXXXXX";
+    public static final String PERSISTENCE_UNIT_NAME = "DASI-TP1-PU";
     /**
      * Factory de Entity Manager liée à l'unité de persistance.
      * <br/><strong>Vérifier le nom de l'unité de persistance indiquée dans
