@@ -1,4 +1,4 @@
-package dao;
+package fr.insalyon.b3246.dasi.dao;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

@@ -23,6 +23,10 @@ public class Employe extends Personne{
         super(nom, prenom, civilite, date, adresse, codePostal, ville, numTelephone, adresseMail, motDePasse);
     }
 
+    public Employe(String nom, String adresseMail, String motDePasse) {
+        super(nom, adresseMail, motDePasse);
+    }
+
     public Employe(String nom) {
         super(nom);
     }

@@ -56,6 +56,58 @@ public abstract class Personne implements Serializable {
         this.motDePasse = motDePasse;
     }
 
+    public Personne(String nom, String adresseMail, String motDePasse) {
+        this.nom = nom;
+        this.adresseMail = adresseMail;
+        this.motDePasse = motDePasse;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public String getNom() {
+        return nom;
+    }
+
+    public String getPrenom() {
+        return prenom;
+    }
+
+    public String getCivilite() {
+        return civilite;
+    }
+
+    public Date getDate() {
+        return date;
+    }
+
+    public String getAdresse() {
+        return adresse;
+    }
+
+    public Integer getCodePostal() {
+        return codePostal;
+    }
+
+    public String getVille() {
+        return ville;
+    }
+
+    public String getNumTelephone() {
+        return numTelephone;
+    }
+
+    public String getAdresseMail() {
+        return adresseMail;
+    }
+
+    public String getMotDePasse() {
+        return motDePasse;
+    }
+
+    
+    
     public Personne(String nom) {
         this.nom = nom;
     }
