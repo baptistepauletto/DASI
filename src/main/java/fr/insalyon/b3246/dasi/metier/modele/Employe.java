@@ -10,6 +10,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Transient;
 
 /**
  *
@@ -17,10 +18,17 @@ import javax.persistence.Id;
  */
 @Entity
 public class Employe extends Personne{
+    @Transient
+    private boolean estDisponible;
+    
+    private Integer heureDebTravail;
+    private Integer heureFinTravail;
 
-
-    public Employe(String nom, String prenom, String civilite, Date date, String adresse, Integer codePostal, String ville, String numTelephone, String adresseMail, String motDePasse) {
+    public Employe(Integer heureDebTravail, Integer heureFinTravail, String nom, String prenom, String civilite, Date date, String adresse, Integer codePostal, String ville, String numTelephone, String adresseMail, String motDePasse) {
         super(nom, prenom, civilite, date, adresse, codePostal, ville, numTelephone, adresseMail, motDePasse);
+        this.heureDebTravail = heureDebTravail;
+        this.heureFinTravail = heureFinTravail;
+        this.estDisponible = true;
     }
 
     public Employe(String nom, String adresseMail, String motDePasse) {
@@ -33,7 +41,5 @@ public class Employe extends Personne{
     
     public Employe() {
     }
-    
-    
     
 }

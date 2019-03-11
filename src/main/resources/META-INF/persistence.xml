@@ -5,6 +5,10 @@
     <class>fr.insalyon.b3246.dasi.metier.modele.Client</class>
     <class>fr.insalyon.b3246.dasi.metier.modele.Employe</class>
     <class>fr.insalyon.b3246.dasi.metier.modele.Personne</class>
+    <class>fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention</class>
+    <class>fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionAnimal</class>
+    <class>fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionIncident</class>
+    <class>fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionLivraison</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/DASI_BD_TP1"/>
       <property name="javax.persistence.jdbc.user" value="route"/>
