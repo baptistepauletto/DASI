@@ -22,6 +22,11 @@ public class Client extends Personne {
         super(nom, prenom, civilite, date, adresse, ville, numTelephone, adresseMail, motDePasse);
     }
 
+    public Client(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail) {
+        super(nom, prenom, civilite, date, adresse, numTelephone, adresseMail);
+    }
+
+
     public Client(String nom, String adresseMail, String motDePasse) {
         super(nom, adresseMail, motDePasse);
     }

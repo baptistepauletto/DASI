@@ -1,0 +1,9000 @@
+<tr>
+<td>M.</td>
+<td>BORROTI MATIAS DANTAS</td>
+<td>Raphaël</td>
+<td>1976-07-10</td>
+<td>8 Rue Arago, Villeurbanne</td>
+<td align="right">0328178508</td>
+<td>rborrotimatiasdantas4171@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>OLMEADA MARAIS</td>
+<td>Nor</td>
+<td>1983-12-09</td>
+<td>5 Rue Léon Fabre, Villeurbanne</td>
+<td align="right">0418932546</td>
+<td>nolmeadamarais1551@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>RAYES GEMEZ</td>
+<td>Olena</td>
+<td>1992-08-28</td>
+<td>12 Rue de la Prevoyance, Villeurbanne</td>
+<td align="right">0532731620</td>
+<td>orayesgemez5313@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SING</td>
+<td>Ainhoa</td>
+<td>1982-11-09</td>
+<td>4 Rue Phelypeaux, Villeurbanne</td>
+<td align="right">0705224200</td>
+<td>asing8183@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ABDIULLINA</td>
+<td>David Alexander</td>
+<td>1975-01-07</td>
+<td>8 Rue Wilhelmine, Villeurbanne</td>
+<td align="right">0590232772</td>
+<td>david-alexander.abdiullina@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WOAGNER</td>
+<td>Moez</td>
+<td>1984-08-16</td>
+<td>6 Rue Camille Koechlin, Villeurbanne</td>
+<td align="right">0832205629</td>
+<td>moez.woagner@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HONRY</td>
+<td>Matteo</td>
+<td>1996-02-17</td>
+<td>9 Impasse Guillet, Villeurbanne</td>
+<td align="right">0482381862</td>
+<td>matteo.honry@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CECCANI</td>
+<td>Kevin</td>
+<td>1982-02-16</td>
+<td>20 Rue Decomberousse, Villeurbanne</td>
+<td align="right">0664426037</td>
+<td>kevin.ceccani@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>VOYRET</td>
+<td>Alice</td>
+<td>1988-08-13</td>
+<td>1 Rue d'Alsace, Villeurbanne</td>
+<td align="right">0486856520</td>
+<td>alice.voyret@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RINERD</td>
+<td>Julien</td>
+<td>1989-05-16</td>
+<td>4 Rue de la Jeunesse, Villeurbanne</td>
+<td align="right">0727252485</td>
+<td>jrinerd5241@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WOSTPHOL</td>
+<td>Olivier</td>
+<td>1983-05-24</td>
+<td>7 Rue de la Cloche, Villeurbanne</td>
+<td align="right">0860680312</td>
+<td>owostphol@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GIYRAUD</td>
+<td>Vincent</td>
+<td>1994-12-07</td>
+<td>4 Rue Marcel Doret, Villeurbanne</td>
+<td align="right">0518940604</td>
+<td>vincent.giyraud@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KLOEN</td>
+<td>Benjamin</td>
+<td>1997-07-07</td>
+<td>16 Rue Jules Kumer, Villeurbanne</td>
+<td align="right">0220989602</td>
+<td>benjamin.kloen@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>UNLU</td>
+<td>Adrien</td>
+<td>1986-04-09</td>
+<td>4 Rue du Luxembourg, Villeurbanne</td>
+<td align="right">0367699654</td>
+<td>adrien.unlu@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIE</td>
+<td>Romain</td>
+<td>1994-11-17</td>
+<td>1 Rue Denis Papin, Villeurbanne</td>
+<td align="right">0307363387</td>
+<td>romain.mie@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BEUOLLOT</td>
+<td>Audrey-Laure</td>
+<td>1993-04-10</td>
+<td>8 Rue Leo Lagrange, Villeurbanne</td>
+<td align="right">0202294489</td>
+<td>audrey-laure.beuollot@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DALMARRE</td>
+<td>Jose Luis</td>
+<td>1994-05-17</td>
+<td>18 Rue Baudelaire, Villeurbanne</td>
+<td align="right">0549997540</td>
+<td>jose-luis.dalmarre@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOUTILIB</td>
+<td>Stéfan</td>
+<td>1987-09-17</td>
+<td>6 Rue du Perou, Villeurbanne</td>
+<td align="right">0552505347</td>
+<td>stefan.boutilib@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOGUOLLOT</td>
+<td>Rémy</td>
+<td>1987-06-03</td>
+<td>3 Rue Leo Lagrange, Villeurbanne</td>
+<td align="right">0477151696</td>
+<td>rgoguollot@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CRAPAN</td>
+<td>Louis</td>
+<td>1977-12-16</td>
+<td>3 Rue des 2 Frères, Villeurbanne</td>
+<td align="right">0351726095</td>
+<td>lcrapan8910@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LAAZEZ</td>
+<td>Julien</td>
+<td>1991-03-03</td>
+<td>4 Avenue de la Rize, Villeurbanne</td>
+<td align="right">0789257237</td>
+<td>julien.laazez@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOUOCHRANA</td>
+<td>Xavier</td>
+<td>1976-01-17</td>
+<td>1 Avenue Jean Capelle, Villeurbanne</td>
+<td align="right">0507002403</td>
+<td>xbouochrana@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SIDAR</td>
+<td>Criti</td>
+<td>1986-05-26</td>
+<td>16 Rue du Docteur Rollet, Villeurbanne</td>
+<td align="right">0942244718</td>
+<td>criti.sidar@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RALLOND</td>
+<td>Antoine</td>
+<td>1985-11-18</td>
+<td>15 Impasse Comby, Villeurbanne</td>
+<td align="right">0300853587</td>
+<td>antoine.rallond@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THEE THIEN NGHIA</td>
+<td>Yann</td>
+<td>1975-12-16</td>
+<td>1 Rue Alexandre Dumas, Villeurbanne</td>
+<td align="right">0998247431</td>
+<td>ytheethiennghia8688@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PARTEER</td>
+<td>Lucas</td>
+<td>1991-06-25</td>
+<td>18 Rue du Professeur Calmette, Villeurbanne</td>
+<td align="right">0338752096</td>
+<td>lparteer8884@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIUVAER</td>
+<td>Nacer</td>
+<td>1987-12-19</td>
+<td>16 Allée Henri Georges Clouzot, Villeurbanne</td>
+<td align="right">0308160740</td>
+<td>nacer.biuvaer@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VILLEN</td>
+<td>Ali</td>
+<td>1992-08-05</td>
+<td>10 Rue Eugene Fourniere, Villeurbanne</td>
+<td align="right">0269635308</td>
+<td>ali.villen@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FOULA</td>
+<td>Aurélien</td>
+<td>1994-09-11</td>
+<td>4 Rue Jean Novel, Villeurbanne</td>
+<td align="right">0640971720</td>
+<td>afoula6009@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>STARRS</td>
+<td>Lucas</td>
+<td>1979-05-31</td>
+<td>5 Impasse Bayet, Villeurbanne</td>
+<td align="right">0113140081</td>
+<td>lstarrs496@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EL GHROB</td>
+<td>Joris Nicolas</td>
+<td>1996-11-03</td>
+<td>14 Rue du Luizet, Villeurbanne</td>
+<td align="right">0187556598</td>
+<td>jelghrob4781@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TRIN</td>
+<td>Yoann</td>
+<td>1997-10-01</td>
+<td>1 Place du Commandant Rivière, Villeurbanne</td>
+<td align="right">0650322544</td>
+<td>yoann.trin@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MEKHTERO</td>
+<td>Bogdan Mihai</td>
+<td>1992-11-12</td>
+<td>9 Rue Burais, Villeurbanne</td>
+<td align="right">0175787757</td>
+<td>bogdan-mihai.mekhtero@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MONOTTO</td>
+<td>Josué</td>
+<td>1990-01-26</td>
+<td>14 Rue de la Sainte Famille, Villeurbanne</td>
+<td align="right">0195535864</td>
+<td>jmonotto449@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PATTIT</td>
+<td>Philipe</td>
+<td>1991-01-19</td>
+<td>6 Rue Lafontaine, Villeurbanne</td>
+<td align="right">0438848608</td>
+<td>ppattit@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MITHAIS</td>
+<td>Franck</td>
+<td>1996-11-06</td>
+<td>15 Avenue Roberto Rossellini, Villeurbanne</td>
+<td align="right">0418269213</td>
+<td>franck.mithais@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LOU</td>
+<td>Silvia</td>
+<td>1985-01-22</td>
+<td>19 Avenue Paul Kruger, Villeurbanne</td>
+<td align="right">0378851388</td>
+<td>silvia.lou@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JULOON</td>
+<td>Renaud</td>
+<td>1996-10-12</td>
+<td>15 Place de Croix Luizet, Villeurbanne</td>
+<td align="right">0340084975</td>
+<td>rjuloon@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IGARWAL</td>
+<td>Mick</td>
+<td>1992-07-09</td>
+<td>8 Avenue Jean Capelle, Villeurbanne</td>
+<td align="right">0590579778</td>
+<td>mick.igarwal@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>COTOLANO</td>
+<td>Benjamin</td>
+<td>1988-03-30</td>
+<td>11 Rue Mansard, Villeurbanne</td>
+<td align="right">0739902865</td>
+<td>benjamin.cotolano@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KLANGSHEIM</td>
+<td>Alexis</td>
+<td>1992-09-28</td>
+<td>5 Avenue Henri Barbusse, Villeurbanne</td>
+<td align="right">0297899026</td>
+<td>aklangsheim3542@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IULIS</td>
+<td>Deschances</td>
+<td>1974-06-18</td>
+<td>4 Rue Yvonne Chanu, Villeurbanne</td>
+<td align="right">0346764898</td>
+<td>diulis907@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LEU</td>
+<td>Frédéric</td>
+<td>1984-05-12</td>
+<td>5 Rue Jean Baptiste Durand, Villeurbanne</td>
+<td align="right">0818612679</td>
+<td>frederic.leu@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BRICHTI</td>
+<td>Michael</td>
+<td>1981-04-01</td>
+<td>3 Rue Octavie, Villeurbanne</td>
+<td align="right">0578720036</td>
+<td>michael.brichti@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DURAF</td>
+<td>Vincent</td>
+<td>1988-09-05</td>
+<td>17 Rue Pierre Baratin, Villeurbanne</td>
+<td align="right">0102651424</td>
+<td>vincent.duraf@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BONSAL</td>
+<td>Martin</td>
+<td>1995-05-19</td>
+<td>5 Impasse Martin, Villeurbanne</td>
+<td align="right">0603847954</td>
+<td>mbonsal8320@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PRIMEULT</td>
+<td>Cheng</td>
+<td>1971-10-03</td>
+<td>10 Impasse Bayet, Villeurbanne</td>
+<td align="right">0618703838</td>
+<td>cprimeult7807@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SOUMOELLIN</td>
+<td>Stéphanie</td>
+<td>1983-05-22</td>
+<td>16 Rue Sylvestre, Villeurbanne</td>
+<td align="right">0239372281</td>
+<td>ssoumoellin3265@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WOSTERLAND</td>
+<td>Michaël</td>
+<td>1982-06-08</td>
+<td>17 Rue du Luxembourg, Villeurbanne</td>
+<td align="right">0306449347</td>
+<td>michael.wosterland@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PETHIN</td>
+<td>Ismael</td>
+<td>1983-08-03</td>
+<td>3 Rue de la Boube, Villeurbanne</td>
+<td align="right">0469760096</td>
+<td>ipethin4798@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOYAT</td>
+<td>Michaël</td>
+<td>1991-10-19</td>
+<td>6 Avenue Salvador Allende, Villeurbanne</td>
+<td align="right">0869780675</td>
+<td>mgoyat@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OYOUB</td>
+<td>Khalid</td>
+<td>1990-01-18</td>
+<td>5 Rue Georges Courteline, Villeurbanne</td>
+<td align="right">0164758327</td>
+<td>koyoub3682@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GECQUOL</td>
+<td>Jérôme</td>
+<td>1987-04-09</td>
+<td>4 Rue du 14 Juillet 1789, Villeurbanne</td>
+<td align="right">0151969353</td>
+<td>jerome.gecquol@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUCLIS-MOYNA-BRESSIND</td>
+<td>Juan Carlos</td>
+<td>1990-11-11</td>
+<td>14 Rue du 4 Septembre 1797, Villeurbanne</td>
+<td align="right">0475222876</td>
+<td>juan-carlos.duclis-moyna-bressind@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EKIN</td>
+<td>Yachen</td>
+<td>1983-11-16</td>
+<td>8 Impasse des Moineaux, Villeurbanne</td>
+<td align="right">0406224761</td>
+<td>yekin6704@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DA ALMEADA</td>
+<td>Lucas</td>
+<td>1988-11-23</td>
+<td>20 Rue des Peupliers, Villeurbanne</td>
+<td align="right">0222930358</td>
+<td>ldaalmeada5311@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GAYEL</td>
+<td>Camille</td>
+<td>1984-05-19</td>
+<td>10 Rue Baudelaire, Villeurbanne</td>
+<td align="right">0428007020</td>
+<td>cgayel5170@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GAMAZ HERNENDEZ</td>
+<td>Antoine</td>
+<td>1993-05-24</td>
+<td>13 Rue George Sand, Villeurbanne</td>
+<td align="right">0260543745</td>
+<td>antoine.gamaz-hernendez@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JELY</td>
+<td>Sébastien</td>
+<td>1991-01-12</td>
+<td>16 Boulevard Niels Bohr, Villeurbanne</td>
+<td align="right">0288498098</td>
+<td>sjely9488@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BOIUVAAS</td>
+<td>Saskia</td>
+<td>1992-02-14</td>
+<td>7 Rue Ernest Renan, Villeurbanne</td>
+<td align="right">0355885411</td>
+<td>saskia.boiuvaas@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUFFY-CIISSORD</td>
+<td>Franco</td>
+<td>1996-09-05</td>
+<td>7 Rue Pelisson, Villeurbanne</td>
+<td align="right">0930818759</td>
+<td>fduffy-ciissord@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FRAPAN</td>
+<td>Thomas</td>
+<td>1986-07-07</td>
+<td>8 Rue Charles Montaland, Villeurbanne</td>
+<td align="right">0553989230</td>
+<td>tfrapan4114@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HOLGERT</td>
+<td>Yoann</td>
+<td>1992-03-22</td>
+<td>9 Boulevard de la Bataille de Stalingrad, Villeurbanne</td>
+<td align="right">0583381026</td>
+<td>yholgert4839@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BAURGIOOS</td>
+<td>Rafael</td>
+<td>1985-03-25</td>
+<td>9 Rue Branly, Villeurbanne</td>
+<td align="right">0535249412</td>
+<td>rafael.baurgioos@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GORVEIS</td>
+<td>Vianney</td>
+<td>1995-05-03</td>
+<td>1 Rue Eugene Fourniere, Villeurbanne</td>
+<td align="right">0271988194</td>
+<td>vgorveis1260@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLIT ROUX</td>
+<td>Thomas</td>
+<td>1985-03-27</td>
+<td>4 Allée Henri Georges Clouzot, Villeurbanne</td>
+<td align="right">0447789852</td>
+<td>thomas.blit-roux@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CALERI CORTES</td>
+<td>Chen</td>
+<td>1970-10-28</td>
+<td>2 Allée Louis Pergaud, Villeurbanne</td>
+<td align="right">0837530918</td>
+<td>ccalericortes6619@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHIBAH</td>
+<td>Pierre-Henri</td>
+<td>1987-06-14</td>
+<td>15 Rue Berthelot, Villeurbanne</td>
+<td align="right">0295682848</td>
+<td>pierre-henri.chibah@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHAUSSAERE</td>
+<td>Dana</td>
+<td>1996-04-17</td>
+<td>18 Rue Louis Teillon, Villeurbanne</td>
+<td align="right">0944045216</td>
+<td>dana.chaussaere@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FILCH</td>
+<td>Julien</td>
+<td>1978-03-09</td>
+<td>17 Rue du Dr Pierre Fleury Papillon, Villeurbanne</td>
+<td align="right">0272772252</td>
+<td>julien.filch@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NGUYAN</td>
+<td>Meng</td>
+<td>1979-10-21</td>
+<td>12 Rue Léon Piat, Villeurbanne</td>
+<td align="right">0807440244</td>
+<td>mnguyan2059@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ILBA</td>
+<td>Jose</td>
+<td>1993-08-23</td>
+<td>3 Allée Louis Pergaud, Villeurbanne</td>
+<td align="right">0406836368</td>
+<td>jilba@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DEKEW</td>
+<td>Samuel</td>
+<td>1984-04-18</td>
+<td>14 Rue Lafontaine, Villeurbanne</td>
+<td align="right">0713200950</td>
+<td>sdekew4845@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DEEZ MILLAN</td>
+<td>Eduardo</td>
+<td>1993-04-01</td>
+<td>8 Avenue Roger Salengro, Villeurbanne</td>
+<td align="right">0240220484</td>
+<td>edeezmillan@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HIUELLON</td>
+<td>Juan Felix</td>
+<td>1997-11-30</td>
+<td>18 Impasse Chevreul, Villeurbanne</td>
+<td align="right">0189275148</td>
+<td>juan-felix.hiuellon@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BARGHENI</td>
+<td>Lionel</td>
+<td>1986-03-17</td>
+<td>6 Rue des Muriers, Villeurbanne</td>
+<td align="right">0656816294</td>
+<td>lionel.bargheni@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THEUVANON-JENNER</td>
+<td>Gwenaël</td>
+<td>1983-10-07</td>
+<td>2 Rue Leo Lagrange, Villeurbanne</td>
+<td align="right">0682832325</td>
+<td>gwenael.theuvanon-jenner@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ROUVEIRE</td>
+<td>Yaelle</td>
+<td>1986-10-16</td>
+<td>16 Rue René Prolongee, Villeurbanne</td>
+<td align="right">0722193930</td>
+<td>yaelle.rouveire@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OGARWAL</td>
+<td>Alexandru</td>
+<td>1991-07-07</td>
+<td>2 Rue Frédéric Fays, Villeurbanne</td>
+<td align="right">0456231397</td>
+<td>aogarwal@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>VOLLENUOVA ZACARIAS</td>
+<td>Ainhoa</td>
+<td>1987-05-08</td>
+<td>18 Rue Paret, Villeurbanne</td>
+<td align="right">0859181663</td>
+<td>ainhoa.vollenuova-zacarias@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>AUGUSTAN</td>
+<td>Frédéric</td>
+<td>1993-08-26</td>
+<td>11 Rue Bernard Lecache, Villeurbanne</td>
+<td align="right">0849969775</td>
+<td>faugustan3695@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DEAN</td>
+<td>Fabio</td>
+<td>1995-07-11</td>
+<td>15 Rue Frédéric Fays, Villeurbanne</td>
+<td align="right">0872512646</td>
+<td>fabio.dean@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIAGNO</td>
+<td>Mathis</td>
+<td>1989-04-04</td>
+<td>12 Rue Bonnet, Villeurbanne</td>
+<td align="right">0331780874</td>
+<td>mbiagno4065@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MADREE</td>
+<td>Maximilian</td>
+<td>1979-05-05</td>
+<td>8 Avenue Piaton, Villeurbanne</td>
+<td align="right">0728220252</td>
+<td>maximilian.madree@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SIDRY</td>
+<td>Flavia</td>
+<td>1991-11-05</td>
+<td>18 Rue du Cimetière, Villeurbanne</td>
+<td align="right">0561582103</td>
+<td>fsidry6460@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HUING</td>
+<td>Paul</td>
+<td>1994-10-21</td>
+<td>5 Rue Max Linder, Villeurbanne</td>
+<td align="right">0873369755</td>
+<td>paul.huing@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ISCINDELL</td>
+<td>Quentin</td>
+<td>1974-04-17</td>
+<td>20 Rue Montgolfier, Villeurbanne</td>
+<td align="right">0159696393</td>
+<td>qiscindell4962@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SIJILMISSI</td>
+<td>Thibaut</td>
+<td>1995-01-28</td>
+<td>18 Rue Charles Montaland, Villeurbanne</td>
+<td align="right">0143413882</td>
+<td>thibaut.sijilmissi@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DURINTAN</td>
+<td>Youssef</td>
+<td>1997-04-20</td>
+<td>9 Rue Jean Voillot, Villeurbanne</td>
+<td align="right">0833767742</td>
+<td>ydurintan4548@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LIHMAM BONNANI</td>
+<td>Elisa</td>
+<td>1994-09-13</td>
+<td>14 Rue Berthelot, Villeurbanne</td>
+<td align="right">0206582557</td>
+<td>elisa.lihmam-bonnani@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DREAI</td>
+<td>Andres Eugenio</td>
+<td>1995-04-23</td>
+<td>13 Rue Mauvert, Villeurbanne</td>
+<td align="right">0388086325</td>
+<td>andres-eugenio.dreai@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CRIUX</td>
+<td>Lyes</td>
+<td>1993-01-06</td>
+<td>7 Impasse du Boucheret, Villeurbanne</td>
+<td align="right">0394836966</td>
+<td>lcriux2062@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KERAMNES</td>
+<td>Romain</td>
+<td>1978-01-10</td>
+<td>11 Rue Pierre Larousse, Villeurbanne</td>
+<td align="right">0723696339</td>
+<td>rkeramnes7888@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VORY</td>
+<td>Quentin</td>
+<td>1973-10-04</td>
+<td>13 Place Jules Grandclement, Villeurbanne</td>
+<td align="right">0392492772</td>
+<td>qvory5639@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>TO</td>
+<td>Yixin</td>
+<td>1994-04-30</td>
+<td>9 Place de la Paix, Villeurbanne</td>
+<td align="right">0388239624</td>
+<td>yto@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NAGUEIRI DE SOUZA</td>
+<td>Mathias</td>
+<td>1992-02-20</td>
+<td>7 Rue Bonnet, Villeurbanne</td>
+<td align="right">0931360527</td>
+<td>mnagueiridesouza@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HERNENDEZ</td>
+<td>Grégory</td>
+<td>1988-09-29</td>
+<td>11 Rue Marguerite, Villeurbanne</td>
+<td align="right">0756438609</td>
+<td>ghernendez@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MORON</td>
+<td>Oana-Maria</td>
+<td>1987-11-13</td>
+<td>3 Impasse François Chanteur, Villeurbanne</td>
+<td align="right">0790561609</td>
+<td>oana-maria.moron@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BABARAER</td>
+<td>Raphaël</td>
+<td>1983-11-30</td>
+<td>9 Impasse des Antonins, Villeurbanne</td>
+<td align="right">0862614921</td>
+<td>rbabaraer@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUOGUEN</td>
+<td>Richard</td>
+<td>1970-12-15</td>
+<td>6 Rue de l'Union, Villeurbanne</td>
+<td align="right">0262090059</td>
+<td>rguoguen@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VERY</td>
+<td>Johann</td>
+<td>1995-10-30</td>
+<td>6 Place Albert Thomas, Villeurbanne</td>
+<td align="right">0560527019</td>
+<td>jvery112@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ASCEUTE</td>
+<td>Nicolas</td>
+<td>1987-08-17</td>
+<td>17 Rue de Fontanieres, Villeurbanne</td>
+<td align="right">0931763010</td>
+<td>nasceute@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DOVED</td>
+<td>Stéphane</td>
+<td>1982-12-13</td>
+<td>1 Rue Pierre Cacard, Villeurbanne</td>
+<td align="right">0152947597</td>
+<td>stephane.doved@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLECH</td>
+<td>Benoît</td>
+<td>1976-11-19</td>
+<td>10 Rue des Fleurs, Villeurbanne</td>
+<td align="right">0399031794</td>
+<td>bblech7507@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TIAXEIRA DA CUNHA JUNIER</td>
+<td>Marouane</td>
+<td>1995-01-30</td>
+<td>18 Rue de la Fraternite, Villeurbanne</td>
+<td align="right">0961652444</td>
+<td>mtiaxeiradacunhajunier5110@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BRIVET</td>
+<td>Rémi</td>
+<td>1997-03-08</td>
+<td>3 Petite Rue de la Rize, Villeurbanne</td>
+<td align="right">0720517002</td>
+<td>remi.brivet@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>INADAA PONAFFI</td>
+<td>Damien</td>
+<td>1997-12-04</td>
+<td>17 Rue de Bruxelles, Villeurbanne</td>
+<td align="right">0176507917</td>
+<td>damien.inadaa-ponaffi@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DESHOYES</td>
+<td>Tracey</td>
+<td>1984-10-26</td>
+<td>9 Place Paul Strauss, Villeurbanne</td>
+<td align="right">0270003003</td>
+<td>tdeshoyes4046@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZONTEDESCHI</td>
+<td>Guillaume</td>
+<td>1989-02-07</td>
+<td>5 Impasse Martin, Villeurbanne</td>
+<td align="right">0857708855</td>
+<td>guillaume.zontedeschi@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHOS</td>
+<td>Nicolas</td>
+<td>1992-10-31</td>
+<td>9 Rue des Acacias, Villeurbanne</td>
+<td align="right">0872632641</td>
+<td>nchos6250@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ADI ABDALLAH OUMBAROK</td>
+<td>Julien</td>
+<td>1983-09-10</td>
+<td>18 Rue Louis Guerin, Villeurbanne</td>
+<td align="right">0400773382</td>
+<td>julien.adi-abdallah-oumbarok@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BETTAL</td>
+<td>Thiago</td>
+<td>1983-08-01</td>
+<td>9 Rue Château Gaillard, Villeurbanne</td>
+<td align="right">0880909800</td>
+<td>thiago.bettal@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DOSSOU-GBATE</td>
+<td>Emmanuel</td>
+<td>1991-01-21</td>
+<td>8 Rue de la Convention, Villeurbanne</td>
+<td align="right">0802562476</td>
+<td>emmanuel.dossou-gbate@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOURONT</td>
+<td>Sébastien</td>
+<td>1989-10-31</td>
+<td>1 Rue Hippolyte Kahn, Villeurbanne</td>
+<td align="right">0705816871</td>
+<td>sebastien.louront@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JIAN</td>
+<td>Sébastien</td>
+<td>1988-02-08</td>
+<td>2 Rue Marcel Dutartre, Villeurbanne</td>
+<td align="right">0395730422</td>
+<td>sjian@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZOBONGE</td>
+<td>Rafael Armando</td>
+<td>1989-03-15</td>
+<td>14 Rue Jean Claude Vivant, Villeurbanne</td>
+<td align="right">0257054651</td>
+<td>rzobonge8769@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MENETTO</td>
+<td>Catalin</td>
+<td>1973-05-17</td>
+<td>14 Rue de l'Union, Villeurbanne</td>
+<td align="right">0964474543</td>
+<td>cmenetto1960@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DEVELLE</td>
+<td>Servane</td>
+<td>1992-05-24</td>
+<td>3 Allée Athena, Villeurbanne</td>
+<td align="right">0829249483</td>
+<td>servane.develle@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IGUIL FORRER</td>
+<td>Guillaume</td>
+<td>1992-03-17</td>
+<td>12 Avenue du Commandant l'Herminier, Villeurbanne</td>
+<td align="right">0810286833</td>
+<td>guillaume.iguil-forrer@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZIHLAKE</td>
+<td>Nicolas</td>
+<td>1987-02-18</td>
+<td>12 Rue Joseph Gillet, Villeurbanne</td>
+<td align="right">0508618538</td>
+<td>nicolas.zihlake@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>IGARWAL</td>
+<td>Manon</td>
+<td>1973-07-03</td>
+<td>19 Avenue Marcel Cerdan, Villeurbanne</td>
+<td align="right">0871922334</td>
+<td>manon.igarwal@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SENCHIZ</td>
+<td>Marc</td>
+<td>1996-11-14</td>
+<td>14 Rue Mansard, Villeurbanne</td>
+<td align="right">0938101703</td>
+<td>msenchiz1104@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TIMAILLON</td>
+<td>Dan</td>
+<td>1997-06-04</td>
+<td>15 Rue Philippe Verzier, Villeurbanne</td>
+<td align="right">0551035127</td>
+<td>dan.timaillon@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CIMOTS</td>
+<td>Lucas</td>
+<td>1970-01-30</td>
+<td>16 Rue du Foyer, Villeurbanne</td>
+<td align="right">0905584011</td>
+<td>lucas.cimots@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHAS</td>
+<td>Chongguang</td>
+<td>1994-07-19</td>
+<td>11 Rue Louis Braille, Villeurbanne</td>
+<td align="right">0661727682</td>
+<td>cchas9019@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LAZONO ROMERO</td>
+<td>Radouan</td>
+<td>1996-10-12</td>
+<td>15 Rue Alfred Brinon, Villeurbanne</td>
+<td align="right">0310541825</td>
+<td>radouan.lazono-romero@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CLIMENT</td>
+<td>Jérémy</td>
+<td>1996-06-21</td>
+<td>19 Rue Louis Goux, Villeurbanne</td>
+<td align="right">0896616491</td>
+<td>jeremy.climent@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DALHOMME</td>
+<td>Ali</td>
+<td>1983-12-10</td>
+<td>15 Impasse Amblard, Villeurbanne</td>
+<td align="right">0496365932</td>
+<td>adalhomme1395@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FAVRO</td>
+<td>Samuel</td>
+<td>1989-03-15</td>
+<td>12 Rue Léon Blum, Villeurbanne</td>
+<td align="right">0642049305</td>
+<td>sfavro@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLOCHI</td>
+<td>Hicham</td>
+<td>1987-01-04</td>
+<td>1 Rue Lancon, Villeurbanne</td>
+<td align="right">0146451069</td>
+<td>hicham.blochi@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DO MORI MARTEN</td>
+<td>Souad</td>
+<td>1976-02-03</td>
+<td>17 Rue Jean Ottavi, Villeurbanne</td>
+<td align="right">0535729621</td>
+<td>souad.do-mori-marten@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOSKURT</td>
+<td>Xavier</td>
+<td>1995-08-17</td>
+<td>19 Rue Edison, Villeurbanne</td>
+<td align="right">0833990833</td>
+<td>xboskurt@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GATTIRO</td>
+<td>Vitor Paulo</td>
+<td>1981-06-28</td>
+<td>17 Rue Dedieu, Villeurbanne</td>
+<td align="right">0942191942</td>
+<td>vitor-paulo.gattiro@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FOURA</td>
+<td>Stéphane</td>
+<td>1991-05-22</td>
+<td>16 Rue Émile Duniere, Villeurbanne</td>
+<td align="right">0543158561</td>
+<td>sfoura1322@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>STARRS</td>
+<td>Jean</td>
+<td>1995-06-19</td>
+<td>16 Rue Paul Gojon, Villeurbanne</td>
+<td align="right">0472668490</td>
+<td>jean.starrs@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HOLLE</td>
+<td>Benjamin</td>
+<td>1991-12-17</td>
+<td>2 Rue de l'Espoir, Villeurbanne</td>
+<td align="right">0954234114</td>
+<td>benjamin.holle@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZHU</td>
+<td>Fabien</td>
+<td>1978-06-12</td>
+<td>14 Rue de Verdun, Villeurbanne</td>
+<td align="right">0181849564</td>
+<td>fabien.zhu@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FARIST</td>
+<td>Alexis</td>
+<td>1978-11-10</td>
+<td>7 Rue Léon Fabre, Villeurbanne</td>
+<td align="right">0753048493</td>
+<td>alexis.farist@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLENCHARD</td>
+<td>Lambert</td>
+<td>1986-01-22</td>
+<td>18 Cours Docteur Jean Damidot, Villeurbanne</td>
+<td align="right">0188182929</td>
+<td>lblenchard7206@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>REPLUMEZ</td>
+<td>Sylvain</td>
+<td>1984-09-06</td>
+<td>14 Rue Colin, Villeurbanne</td>
+<td align="right">0684231858</td>
+<td>sylvain.replumez@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIENE</td>
+<td>Philipp</td>
+<td>1993-08-30</td>
+<td>1 Impasse Metral, Villeurbanne</td>
+<td align="right">0963476700</td>
+<td>philipp.miene@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RIYNIUD</td>
+<td>Martin</td>
+<td>1976-06-11</td>
+<td>15 Rue Clos Poncet, Villeurbanne</td>
+<td align="right">0183766588</td>
+<td>mriyniud9456@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JICQUET</td>
+<td>Emiliano</td>
+<td>1977-05-19</td>
+<td>11 Rue Sully Prudhomme, Villeurbanne</td>
+<td align="right">0409541672</td>
+<td>emiliano.jicquet@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SAORFOCK</td>
+<td>Myriam</td>
+<td>1987-01-21</td>
+<td>9 Impasse des Glycines, Villeurbanne</td>
+<td align="right">0534766147</td>
+<td>msaorfock1741@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ZAMERA CRESOSTOMO</td>
+<td>Yunjie</td>
+<td>1995-08-24</td>
+<td>16 Allée Marcel Doret, Villeurbanne</td>
+<td align="right">0758052382</td>
+<td>yunjie.zamera-cresostomo@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EISSA</td>
+<td>Mehdi</td>
+<td>1985-03-25</td>
+<td>3 Rue Edison, Villeurbanne</td>
+<td align="right">0580114700</td>
+<td>mehdi.eissa@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIHAJAN</td>
+<td>Adrian</td>
+<td>1990-03-20</td>
+<td>8 Rue Jean Zuber, Villeurbanne</td>
+<td align="right">0170364126</td>
+<td>adrian.mihajan@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GROSAAVA</td>
+<td>Kilian</td>
+<td>1986-04-09</td>
+<td>8 Rue Berthelot, Villeurbanne</td>
+<td align="right">0420148686</td>
+<td>kilian.grosaava@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BRADIAR</td>
+<td>Silvia</td>
+<td>1990-06-06</td>
+<td>12 Rue Clement Michut, Villeurbanne</td>
+<td align="right">0261602886</td>
+<td>silvia.bradiar@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIREN</td>
+<td>Johann</td>
+<td>1973-12-29</td>
+<td>14 Rue Valentin Hauy, Villeurbanne</td>
+<td align="right">0870393985</td>
+<td>johann.miren@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DENACI</td>
+<td>Yu Kan</td>
+<td>1986-12-25</td>
+<td>11 Rue Lakanal, Villeurbanne</td>
+<td align="right">0510363475</td>
+<td>yu-kan.denaci@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FOVRAAUX</td>
+<td>Zhifan</td>
+<td>1995-12-03</td>
+<td>14 Rue Chambfort, Villeurbanne</td>
+<td align="right">0861104789</td>
+<td>zfovraaux4676@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RITILIO</td>
+<td>Yvon Patrick</td>
+<td>1987-12-23</td>
+<td>1 Avenue Salvador Allende, Villeurbanne</td>
+<td align="right">0686468605</td>
+<td>yritilio3830@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BANTIKOUS</td>
+<td>Anh-Toàn</td>
+<td>1992-07-19</td>
+<td>18 Rue Richelieu, Villeurbanne</td>
+<td align="right">0243307255</td>
+<td>anh-toan.bantikous@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LOANG</td>
+<td>Yi</td>
+<td>1990-02-19</td>
+<td>3 Impasse des Glycines, Villeurbanne</td>
+<td align="right">0462966893</td>
+<td>yloang4636@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MEE</td>
+<td>Mathieu</td>
+<td>1994-04-30</td>
+<td>19 Rue Louis Becker, Villeurbanne</td>
+<td align="right">0430438518</td>
+<td>mathieu.mee@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CHARLOT</td>
+<td>Valérie</td>
+<td>1970-03-25</td>
+<td>20 Avenue Monin, Villeurbanne</td>
+<td align="right">0262705507</td>
+<td>valerie.charlot@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SENOPAYIN</td>
+<td>Nicolas</td>
+<td>1987-04-08</td>
+<td>10 Rue Etienne Gagnaire, Villeurbanne</td>
+<td align="right">0788091695</td>
+<td>nsenopayin6186@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>INDRADO SELVA</td>
+<td>Matteo</td>
+<td>1990-09-20</td>
+<td>5 Avenue de Bel Air, Villeurbanne</td>
+<td align="right">0150527394</td>
+<td>matteo.indrado-selva@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DA SELVA SERAPIAA</td>
+<td>Julie</td>
+<td>1990-07-20</td>
+<td>8 Rue Hippolyte Kahn, Villeurbanne</td>
+<td align="right">0971188782</td>
+<td>jdaselvaserapiaa@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GEMEZ HERNENDEZ</td>
+<td>Michaël</td>
+<td>1972-06-04</td>
+<td>20 Rue des Roses, Villeurbanne</td>
+<td align="right">0408425872</td>
+<td>michael.gemez-hernendez@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DINIEUD</td>
+<td>Hoang Son</td>
+<td>1993-11-09</td>
+<td>14 Rue Philippe Verzier, Villeurbanne</td>
+<td align="right">0610503985</td>
+<td>hoang-son.dinieud@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FANTEN</td>
+<td>Cédric</td>
+<td>1992-06-12</td>
+<td>12 Rue Jean Bertin, Villeurbanne</td>
+<td align="right">0122897771</td>
+<td>cfanten9224@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>HEUSTANT</td>
+<td>Iulia-Margareta</td>
+<td>1984-02-26</td>
+<td>20 Rue Jean Jaurès, Villeurbanne</td>
+<td align="right">0672188486</td>
+<td>iheustant@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DOMONGUAS</td>
+<td>Salim</td>
+<td>1987-02-07</td>
+<td>16 Avenue Antoine Dutrievoz, Villeurbanne</td>
+<td align="right">0902507762</td>
+<td>salim.domonguas@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BANTREI</td>
+<td>Stuart</td>
+<td>1986-04-14</td>
+<td>16 Rue Tranquille, Villeurbanne</td>
+<td align="right">0359612265</td>
+<td>stuart.bantrei@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SINIPAYON</td>
+<td>Mohammed Oussama</td>
+<td>1986-07-28</td>
+<td>15 Rue du Caporal Morange, Villeurbanne</td>
+<td align="right">0673640811</td>
+<td>msinipayon2394@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TRIVINI</td>
+<td>Karim</td>
+<td>1996-10-05</td>
+<td>8 Place Wilson, Villeurbanne</td>
+<td align="right">0502689856</td>
+<td>karim.trivini@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MELLADA QUONTANA</td>
+<td>Louis-Jean</td>
+<td>1991-10-31</td>
+<td>16 Rue de la Prairie, Villeurbanne</td>
+<td align="right">0304333735</td>
+<td>louis-jean.mellada-quontana@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BURGIS HARRERE</td>
+<td>Vincent</td>
+<td>1973-04-26</td>
+<td>16 Rue Jean Ottavi, Villeurbanne</td>
+<td align="right">0427316387</td>
+<td>vburgisharrere6760@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>EMAYAL</td>
+<td>Julie</td>
+<td>1991-11-11</td>
+<td>18 Allée des Enfants, Villeurbanne</td>
+<td align="right">0250110196</td>
+<td>jemayal@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MATAGIT</td>
+<td>Moez</td>
+<td>1979-01-30</td>
+<td>16 Rue Pascal, Villeurbanne</td>
+<td align="right">0645490503</td>
+<td>mmatagit9413@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BENNIT</td>
+<td>Liliana</td>
+<td>1983-04-05</td>
+<td>20 Rue du Roulet, Villeurbanne</td>
+<td align="right">0483098974</td>
+<td>lbennit9568@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZOAURAR</td>
+<td>Adrian Alejandro</td>
+<td>1984-06-03</td>
+<td>4 Rue Louis Adam, Villeurbanne</td>
+<td align="right">0531638893</td>
+<td>azoaurar@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUPORTOL</td>
+<td>Radu</td>
+<td>1984-02-24</td>
+<td>4 Rue Monge, Villeurbanne</td>
+<td align="right">0930748119</td>
+<td>radu.duportol@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IL MENSOURA</td>
+<td>Yoann</td>
+<td>1996-07-30</td>
+<td>3 Rue Mansard, Villeurbanne</td>
+<td align="right">0389667066</td>
+<td>yilmensoura2193@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PIREVERTAYLE</td>
+<td>Fernando</td>
+<td>1971-11-08</td>
+<td>3 Rue Roger Lenoir, Villeurbanne</td>
+<td align="right">0583765002</td>
+<td>fernando.pirevertayle@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HSASSON</td>
+<td>Banu</td>
+<td>1985-04-27</td>
+<td>12 Rue du Boulevard, Villeurbanne</td>
+<td align="right">0802960190</td>
+<td>banu.hsasson@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FRESSERD</td>
+<td>Stéphane</td>
+<td>1995-07-29</td>
+<td>5 Rue des Brosses, Villeurbanne</td>
+<td align="right">0740521535</td>
+<td>stephane.fresserd@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LAGUOLLE</td>
+<td>Othmane</td>
+<td>1990-04-22</td>
+<td>4 Rue Roger Lenoir, Villeurbanne</td>
+<td align="right">0570561829</td>
+<td>othmane.laguolle@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RAINORI</td>
+<td>Benoît</td>
+<td>1996-01-06</td>
+<td>16 Rue Jean Ottavi, Villeurbanne</td>
+<td align="right">0726029748</td>
+<td>brainori4694@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>AL FATHA</td>
+<td>Antonio</td>
+<td>1979-02-14</td>
+<td>3 Rue Francis de Pressense, Villeurbanne</td>
+<td align="right">0585006841</td>
+<td>antonio.al-fatha@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MOUZELA</td>
+<td>Benjamin</td>
+<td>1989-01-19</td>
+<td>6 Rue Leo Lagrange, Villeurbanne</td>
+<td align="right">0866688688</td>
+<td>benjamin.mouzela@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CLOMENT</td>
+<td>Charlie</td>
+<td>1987-06-07</td>
+<td>8 Place de Croix Luizet, Villeurbanne</td>
+<td align="right">0686619136</td>
+<td>charlie.cloment@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAUHSANA</td>
+<td>Maxime</td>
+<td>1985-05-17</td>
+<td>12 Rue du Tonkin, Villeurbanne</td>
+<td align="right">0226839865</td>
+<td>mmauhsana2154@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUREF</td>
+<td>Sylvain</td>
+<td>1976-07-26</td>
+<td>12 Impasse des Lilas, Villeurbanne</td>
+<td align="right">0585537460</td>
+<td>sduref@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOTTIRO</td>
+<td>Vitor Paulo</td>
+<td>1992-03-13</td>
+<td>20 Rue de Venise, Villeurbanne</td>
+<td align="right">0747187125</td>
+<td>vitor-paulo.gottiro@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VORRON</td>
+<td>Vincent</td>
+<td>1989-03-26</td>
+<td>3 Rue Baudin, Villeurbanne</td>
+<td align="right">0742734911</td>
+<td>vincent.vorron@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUCHIR</td>
+<td>Anas</td>
+<td>1978-11-18</td>
+<td>3 Rue Sylvestre, Villeurbanne</td>
+<td align="right">0217978846</td>
+<td>anas.duchir@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THARIND</td>
+<td>Frédéric</td>
+<td>1991-12-01</td>
+<td>13 Rue d'Alsace, Villeurbanne</td>
+<td align="right">0385086039</td>
+<td>ftharind9839@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PEREORI-REIS</td>
+<td>Alexandre</td>
+<td>1990-12-18</td>
+<td>10 Rue Jean Pierre Bredy, Villeurbanne</td>
+<td align="right">0537439342</td>
+<td>alexandre.pereori-reis@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RABESCHE</td>
+<td>Nicolas</td>
+<td>1986-07-20</td>
+<td>15 Rue Louis Malle, Villeurbanne</td>
+<td align="right">0355448779</td>
+<td>nrabesche@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LE RAY</td>
+<td>Nicolas</td>
+<td>1982-11-20</td>
+<td>2 Rue Andree Brevet, Villeurbanne</td>
+<td align="right">0556745873</td>
+<td>nicolas.le-ray@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RECHERD</td>
+<td>Camille</td>
+<td>1980-04-28</td>
+<td>9 Rue Burais, Villeurbanne</td>
+<td align="right">0688768595</td>
+<td>crecherd@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THALOT</td>
+<td>Libin</td>
+<td>1985-07-22</td>
+<td>10 Petite Rue de la Rize, Villeurbanne</td>
+<td align="right">0663518853</td>
+<td>libin.thalot@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GISCHE</td>
+<td>Vincent</td>
+<td>1988-03-25</td>
+<td>12 Rue des Fleurs, Villeurbanne</td>
+<td align="right">0819372585</td>
+<td>vgische@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GAVREY</td>
+<td>Myriam</td>
+<td>1987-05-03</td>
+<td>3 Rue Andree Brevet, Villeurbanne</td>
+<td align="right">0661758831</td>
+<td>mgavrey1840@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUARIN</td>
+<td>Jean-Marie</td>
+<td>1984-09-29</td>
+<td>19 Impasse Brive, Villeurbanne</td>
+<td align="right">0625518856</td>
+<td>jguarin8959@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BERTHAER</td>
+<td>Rafael</td>
+<td>1994-01-11</td>
+<td>1 Place des Passementiers, Villeurbanne</td>
+<td align="right">0728322861</td>
+<td>rberthaer2095@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FEUGARIY</td>
+<td>Brice</td>
+<td>1993-01-17</td>
+<td>2 Rue Francis Chirat, Villeurbanne</td>
+<td align="right">0360178075</td>
+<td>brice.feugariy@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JON</td>
+<td>Julien</td>
+<td>1995-03-26</td>
+<td>12 Rue Son Tay, Villeurbanne</td>
+<td align="right">0285669730</td>
+<td>jjon3041@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>IL FATHO</td>
+<td>Anéva</td>
+<td>1979-02-21</td>
+<td>6 Impasse des Glycines, Villeurbanne</td>
+<td align="right">0286066103</td>
+<td>ailfatho2061@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FARNENDEZ FERNANDEZ</td>
+<td>Yoram</td>
+<td>1988-05-15</td>
+<td>5 Rue Louis Maynard, Villeurbanne</td>
+<td align="right">0584603990</td>
+<td>yoram.farnendez-fernandez@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PISCA</td>
+<td>Yibin</td>
+<td>1995-01-17</td>
+<td>1 Rue des Charmettes, Villeurbanne</td>
+<td align="right">0310206374</td>
+<td>yibin.pisca@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GISSMANN</td>
+<td>Cyril</td>
+<td>1986-12-23</td>
+<td>3 Rue Yvonne, Villeurbanne</td>
+<td align="right">0330759516</td>
+<td>cyril.gissmann@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>RAOSS</td>
+<td>Dounia</td>
+<td>1990-06-25</td>
+<td>7 Allée Marcel Doret, Villeurbanne</td>
+<td align="right">0311501996</td>
+<td>draoss@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LO</td>
+<td>Rémy</td>
+<td>1983-09-13</td>
+<td>1 Rue Châteaubriand, Villeurbanne</td>
+<td align="right">0657032250</td>
+<td>remy.lo@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>RABESCHE</td>
+<td>Claire</td>
+<td>1992-05-08</td>
+<td>4 Rue Camille Koechlin, Villeurbanne</td>
+<td align="right">0806368526</td>
+<td>crabesche@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KNOUER</td>
+<td>Stéphane</td>
+<td>1980-04-11</td>
+<td>8 Allée du Couchant, Villeurbanne</td>
+<td align="right">0928969191</td>
+<td>stephane.knouer@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DICONINCK</td>
+<td>Nicolas</td>
+<td>1979-08-21</td>
+<td>9 ?Petite Rue de la Poudrette, Villeurbanne</td>
+<td align="right">0751391384</td>
+<td>nicolas.diconinck@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SCHIRTENLEEB</td>
+<td>Sébastien</td>
+<td>1994-03-09</td>
+<td>2 Rue Raspail, Villeurbanne</td>
+<td align="right">0767095190</td>
+<td>sebastien.schirtenleeb@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DENG</td>
+<td>Christophe</td>
+<td>1988-05-21</td>
+<td>3 Rue de la Solidarite, Villeurbanne</td>
+<td align="right">0771980857</td>
+<td>christophe.deng@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUILLAU</td>
+<td>Jean-Brice</td>
+<td>1990-03-20</td>
+<td>7 Rue Louis Teillon, Villeurbanne</td>
+<td align="right">0355628569</td>
+<td>jguillau@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VOYRET</td>
+<td>Victor</td>
+<td>1985-10-31</td>
+<td>2 Rue Jules Siegfried, Villeurbanne</td>
+<td align="right">0369384026</td>
+<td>victor.voyret@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GORNY</td>
+<td>Cédric</td>
+<td>1990-06-10</td>
+<td>1 Rue Montgolfier, Villeurbanne</td>
+<td align="right">0107488197</td>
+<td>cgorny9575@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SILZGIBER</td>
+<td>Raphael</td>
+<td>1973-11-21</td>
+<td>11 Rue de la Soie, Villeurbanne</td>
+<td align="right">0601848765</td>
+<td>raphael.silzgiber@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ILBART</td>
+<td>Tobias</td>
+<td>1971-05-04</td>
+<td>18 Rue de la Marne, Villeurbanne</td>
+<td align="right">0982635020</td>
+<td>tilbart9142@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VIUXEUR</td>
+<td>Sébastien</td>
+<td>1983-09-08</td>
+<td>3 Rue du Roulet, Villeurbanne</td>
+<td align="right">0756530923</td>
+<td>sviuxeur9319@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BONNES</td>
+<td>Jetmir</td>
+<td>1972-04-08</td>
+<td>13 Avenue de Bel Air, Villeurbanne</td>
+<td align="right">0301669316</td>
+<td>jetmir.bonnes@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PAOI</td>
+<td>Othmane</td>
+<td>1997-10-14</td>
+<td>20 Rue Bergonier, Villeurbanne</td>
+<td align="right">0549477261</td>
+<td>opaoi@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUYORD</td>
+<td>Paulo</td>
+<td>1984-01-09</td>
+<td>14 Rue Jules Siegfried, Villeurbanne</td>
+<td align="right">0773271673</td>
+<td>pguyord5987@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MILREC</td>
+<td>Charlotte</td>
+<td>1970-07-23</td>
+<td>4 Rue Léon Blum, Villeurbanne</td>
+<td align="right">0704616866</td>
+<td>cmilrec9009@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IRNAUD</td>
+<td>Nicolas</td>
+<td>1995-08-25</td>
+<td>3 Rue Richelieu, Villeurbanne</td>
+<td align="right">0301074955</td>
+<td>nirnaud874@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHIUMOTTE</td>
+<td>Romain</td>
+<td>1997-07-21</td>
+<td>10 Rue Richelieu, Villeurbanne</td>
+<td align="right">0163842232</td>
+<td>romain.chiumotte@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TASTEVUIDE</td>
+<td>Sébastien</td>
+<td>1995-08-09</td>
+<td>15 Allée des Enfants, Villeurbanne</td>
+<td align="right">0302356352</td>
+<td>sebastien.tastevuide@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEMONNIT</td>
+<td>Walid</td>
+<td>1993-03-22</td>
+<td>2 Rue Flachet, Villeurbanne</td>
+<td align="right">0287856816</td>
+<td>wsemonnit8079@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MACHEL</td>
+<td>Sébastien</td>
+<td>1971-10-25</td>
+<td>8 Rue Camille Koechlin, Villeurbanne</td>
+<td align="right">0418488995</td>
+<td>sebastien.machel@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BONNOARI</td>
+<td>Clément</td>
+<td>1994-10-05</td>
+<td>20 Allée Marcel Doret, Villeurbanne</td>
+<td align="right">0271120571</td>
+<td>cbonnoari@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DU</td>
+<td>Nicolas</td>
+<td>1990-08-31</td>
+<td>17 Place des Maisons Neuves, Villeurbanne</td>
+<td align="right">0846446806</td>
+<td>ndu2574@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FONG</td>
+<td>Duc Duy</td>
+<td>1984-02-10</td>
+<td>14 Rue Léon Chomel, Villeurbanne</td>
+<td align="right">0825694629</td>
+<td>duc-duy.fong@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JAONG</td>
+<td>Jose Carlos</td>
+<td>1980-03-07</td>
+<td>2 Boulevard Laurent Bonnevay, Villeurbanne</td>
+<td align="right">0443501590</td>
+<td>jjaong6675@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TIRSEN</td>
+<td>Franck</td>
+<td>1986-08-25</td>
+<td>2 Allée Henri Georges Clouzot, Villeurbanne</td>
+<td align="right">0608625447</td>
+<td>franck.tirsen@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PETIIT</td>
+<td>Florian</td>
+<td>1987-02-16</td>
+<td>13 Rue du Champ de l'Orme, Villeurbanne</td>
+<td align="right">0896090724</td>
+<td>fpetiit@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEARFICK</td>
+<td>Jacques-Olivier</td>
+<td>1996-08-14</td>
+<td>16 Rue Montgolfier, Villeurbanne</td>
+<td align="right">0778454199</td>
+<td>jacques-olivier.searfick@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JAMBOT</td>
+<td>Jonathan</td>
+<td>1992-08-02</td>
+<td>13 Rue Pierre Louis Bernaix, Villeurbanne</td>
+<td align="right">0831895356</td>
+<td>jonathan.jambot@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CII</td>
+<td>Tobias</td>
+<td>1984-05-09</td>
+<td>11 Rue Baudelaire, Villeurbanne</td>
+<td align="right">0117772484</td>
+<td>tcii5932@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>STINCULOSCU</td>
+<td>Lucas</td>
+<td>1992-09-07</td>
+<td>9 Rue Leo Lagrange, Villeurbanne</td>
+<td align="right">0128083139</td>
+<td>lstinculoscu3325@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MCGRAGAR</td>
+<td>Zouhair</td>
+<td>1983-08-01</td>
+<td>4 Rue de l'Amitie, Villeurbanne</td>
+<td align="right">0483430670</td>
+<td>zouhair.mcgragar@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DA SALVA</td>
+<td>Michaël</td>
+<td>1970-04-17</td>
+<td>20 Boulevard du 11 Novembre 1918, Villeurbanne</td>
+<td align="right">0988634459</td>
+<td>mdasalva1215@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CABALLERE LLANOS</td>
+<td>Mustafa</td>
+<td>1990-01-27</td>
+<td>17 Avenue Salvador Allende, Villeurbanne</td>
+<td align="right">0892854923</td>
+<td>mustafa.caballere-llanos@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIREN</td>
+<td>Arthur</td>
+<td>1990-02-02</td>
+<td>12 Place des Maisons Neuves, Villeurbanne</td>
+<td align="right">0239479143</td>
+<td>arthur.miren@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HILLE</td>
+<td>Nicolas</td>
+<td>1989-08-29</td>
+<td>9 Rue Basile, Villeurbanne</td>
+<td align="right">0854233508</td>
+<td>nhille@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ANDRADO SELVA</td>
+<td>Baptiste</td>
+<td>1989-05-03</td>
+<td>18 Impasse Brive, Villeurbanne</td>
+<td align="right">0490902116</td>
+<td>bandradoselva@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CROPET</td>
+<td>Quentin</td>
+<td>1978-04-13</td>
+<td>17 Rue Léon Chomel, Villeurbanne</td>
+<td align="right">0855972835</td>
+<td>qcropet@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MOUSTINFII</td>
+<td>Aurélien</td>
+<td>1989-10-11</td>
+<td>14 Rue Émile Decorps, Villeurbanne</td>
+<td align="right">0858640060</td>
+<td>aurelien.moustinfii@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LA</td>
+<td>Reda</td>
+<td>1978-10-01</td>
+<td>6 Rue de l'Avenir, Villeurbanne</td>
+<td align="right">0379661587</td>
+<td>rla8258@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOCHATENE</td>
+<td>Matthieu</td>
+<td>1984-07-06</td>
+<td>8 Rue Dedieu, Villeurbanne</td>
+<td align="right">0866886125</td>
+<td>mbochatene7051@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FAUCHOT</td>
+<td>Josselin</td>
+<td>1996-11-05</td>
+<td>20 Rue Hector Berlioz, Villeurbanne</td>
+<td align="right">0544860376</td>
+<td>josselin.fauchot@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SCHOUBOR</td>
+<td>Thomas</td>
+<td>1990-11-08</td>
+<td>5 Rue de l'Amitie, Villeurbanne</td>
+<td align="right">0198362519</td>
+<td>thomas.schoubor@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PHEN</td>
+<td>Leonardo</td>
+<td>1988-04-06</td>
+<td>4 Rue Jules Valles, Villeurbanne</td>
+<td align="right">0472427801</td>
+<td>leonardo.phen@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ELTOR</td>
+<td>Nicolas</td>
+<td>1990-08-31</td>
+<td>16 Allée Henri Georges Clouzot, Villeurbanne</td>
+<td align="right">0637004922</td>
+<td>neltor1201@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GRANGI-PRADERAS</td>
+<td>Johan</td>
+<td>1988-01-27</td>
+<td>12 Rue Wilhelmine, Villeurbanne</td>
+<td align="right">0647125934</td>
+<td>johan.grangi-praderas@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DESSO</td>
+<td>Mathieu</td>
+<td>1987-04-28</td>
+<td>19 Rue Andree Brevet, Villeurbanne</td>
+<td align="right">0828572118</td>
+<td>mathieu.desso@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SALBANNE</td>
+<td>Nicolas</td>
+<td>1988-09-19</td>
+<td>12 Rue Pierre Joseph Proudhon, Villeurbanne</td>
+<td align="right">0956161051</td>
+<td>nicolas.salbanne@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ODAYER</td>
+<td>Emmanuel</td>
+<td>1988-07-08</td>
+<td>15 Rue Charny, Villeurbanne</td>
+<td align="right">0506058066</td>
+<td>emmanuel.odayer@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HILLE</td>
+<td>Rémi</td>
+<td>1995-08-27</td>
+<td>6 Rue des Pres, Villeurbanne</td>
+<td align="right">0744960042</td>
+<td>remi.hille@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RASSITTO</td>
+<td>Aurélien</td>
+<td>1988-12-11</td>
+<td>14 Rue Abbe A Firmin, Villeurbanne</td>
+<td align="right">0278693958</td>
+<td>arassitto184@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>REUSSEOU</td>
+<td>Samuel</td>
+<td>1988-06-12</td>
+<td>8 Rue Eugene Manuel, Villeurbanne</td>
+<td align="right">0639628189</td>
+<td>samuel.reusseou@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DURHIM</td>
+<td>Guillaume</td>
+<td>1993-11-01</td>
+<td>18 Rue Gervais Bussiere, Villeurbanne</td>
+<td align="right">0389867586</td>
+<td>guillaume.durhim@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GINZILEZ ZARATE</td>
+<td>Hugo</td>
+<td>1993-11-12</td>
+<td>13 Rue George Sand, Villeurbanne</td>
+<td align="right">0139530112</td>
+<td>hugo.ginzilez-zarate@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FIURE</td>
+<td>Vincent</td>
+<td>1997-07-03</td>
+<td>19 Rue Louis Becker, Villeurbanne</td>
+<td align="right">0630242722</td>
+<td>vfiure@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HOLGERT</td>
+<td>Thibault</td>
+<td>1987-06-10</td>
+<td>17 Allée de la Cote, Villeurbanne</td>
+<td align="right">0577299375</td>
+<td>thibault.holgert@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CENI</td>
+<td>Antoine</td>
+<td>1984-03-10</td>
+<td>17 Rue Camille Koechlin, Villeurbanne</td>
+<td align="right">0389459290</td>
+<td>aceni6863@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CORPINTEERI</td>
+<td>Ousema</td>
+<td>1995-08-15</td>
+<td>16 Rue Alexandre Boutin, Villeurbanne</td>
+<td align="right">0778800343</td>
+<td>ocorpinteeri7712@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PIQUOMAL</td>
+<td>Arthur</td>
+<td>1988-04-19</td>
+<td>12 Rue Louis Ducroize, Villeurbanne</td>
+<td align="right">0204671230</td>
+<td>apiquomal6380@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MECHIN</td>
+<td>Pierre-Antoine</td>
+<td>1992-10-04</td>
+<td>11 Petite Rue de la Viabert, Villeurbanne</td>
+<td align="right">0447017615</td>
+<td>pmechin8510@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TEMBORRINO</td>
+<td>Théo</td>
+<td>1984-09-13</td>
+<td>13 Impasse Henri, Villeurbanne</td>
+<td align="right">0754041806</td>
+<td>theo.temborrino@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DES SANTOS OLIVAIRA</td>
+<td>Tiago</td>
+<td>1988-11-28</td>
+<td>11 Rue Mozart, Villeurbanne</td>
+<td align="right">0895750182</td>
+<td>tiago.des-santos-olivaira@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JOONNOT</td>
+<td>Jun Ghai</td>
+<td>1995-11-08</td>
+<td>16 Rue Monge, Villeurbanne</td>
+<td align="right">0445881816</td>
+<td>jun-ghai.joonnot@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>FOUCERD</td>
+<td>Mélodie</td>
+<td>1982-11-05</td>
+<td>3 Petite Rue de la Viabert, Villeurbanne</td>
+<td align="right">0958375084</td>
+<td>mfoucerd@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JAMBOT</td>
+<td>Adrien</td>
+<td>1995-11-08</td>
+<td>7 Place du Chanoine Boursier, Villeurbanne</td>
+<td align="right">0720191074</td>
+<td>ajambot2611@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NOHAL</td>
+<td>Jérémy</td>
+<td>1997-12-03</td>
+<td>3 Rue Colonel Klobb, Villeurbanne</td>
+<td align="right">0986095276</td>
+<td>jnohal6912@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOGAY</td>
+<td>Romain</td>
+<td>1971-11-03</td>
+<td>11 Rue Bernard Lecache, Villeurbanne</td>
+<td align="right">0171402424</td>
+<td>rlogay993@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NOUDO</td>
+<td>Florent</td>
+<td>1995-03-16</td>
+<td>6 Rue François Gillet, Villeurbanne</td>
+<td align="right">0379478524</td>
+<td>fnoudo1232@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BINDROSS</td>
+<td>Alex</td>
+<td>1994-03-31</td>
+<td>12 Rue Philippe Verzier, Villeurbanne</td>
+<td align="right">0665135867</td>
+<td>alex.bindross@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>AXBROYAT</td>
+<td>Thibault</td>
+<td>1984-07-30</td>
+<td>15 Rue Charlie Chaplin, Villeurbanne</td>
+<td align="right">0836975535</td>
+<td>thibault.axbroyat@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DALHEMME</td>
+<td>Clément</td>
+<td>1995-06-29</td>
+<td>12 Rue Viret, Villeurbanne</td>
+<td align="right">0744210659</td>
+<td>clement.dalhemme@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DIRIUSSEN</td>
+<td>Agnieszka</td>
+<td>1992-02-23</td>
+<td>4 Rue Henri Legay, Villeurbanne</td>
+<td align="right">0403990913</td>
+<td>agnieszka.diriussen@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BROYNOT</td>
+<td>Nicolas</td>
+<td>1972-03-09</td>
+<td>19 Rue Jean Claude Vivant, Villeurbanne</td>
+<td align="right">0267260504</td>
+<td>nbroynot8442@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HOBERT</td>
+<td>Alexis</td>
+<td>1975-09-12</td>
+<td>11 Rue Baudelaire, Villeurbanne</td>
+<td align="right">0793044329</td>
+<td>alexis.hobert@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEMENNOT</td>
+<td>Jean-Kristian</td>
+<td>1991-06-09</td>
+<td>17 Avenue du Général Leclerc, Villeurbanne</td>
+<td align="right">0760890201</td>
+<td>jsemennot1115@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ESIZA VEGA</td>
+<td>Lionel</td>
+<td>1994-10-21</td>
+<td>14 Rue de la Serenite, Villeurbanne</td>
+<td align="right">0553444249</td>
+<td>lesizavega@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SELBENNE</td>
+<td>Arnaud</td>
+<td>1995-07-27</td>
+<td>12 Rue Bourgchanin, Villeurbanne</td>
+<td align="right">0199377186</td>
+<td>arnaud.selbenne@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HIRNOY</td>
+<td>Jan</td>
+<td>1981-06-21</td>
+<td>8 Rue Octavie, Villeurbanne</td>
+<td align="right">0182410764</td>
+<td>jan.hirnoy@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DIURILLE</td>
+<td>Haoyu</td>
+<td>1977-01-16</td>
+<td>2 Rue de la Ligne de l'Est, Villeurbanne</td>
+<td align="right">0893250746</td>
+<td>hdiurille1574@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BORONGER</td>
+<td>Joris</td>
+<td>1990-05-12</td>
+<td>15 Rue Pierre Loti, Villeurbanne</td>
+<td align="right">0514133110</td>
+<td>joris.boronger@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RANAUX</td>
+<td>Yoann</td>
+<td>1989-10-11</td>
+<td>9 Rue Son Tay, Villeurbanne</td>
+<td align="right">0212682015</td>
+<td>yoann.ranaux@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DO PESQUALI</td>
+<td>Alexis</td>
+<td>1989-06-05</td>
+<td>6 Place du Commandant Rivière, Villeurbanne</td>
+<td align="right">0743545528</td>
+<td>alexis.do-pesquali@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BROYNET</td>
+<td>Pierre-Yves</td>
+<td>1996-10-03</td>
+<td>8 Rue de Lorraine, Villeurbanne</td>
+<td align="right">0217520725</td>
+<td>pbroynet9267@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LO</td>
+<td>Stéphane</td>
+<td>1989-07-30</td>
+<td>19 Rue du Foyer, Villeurbanne</td>
+<td align="right">0882662597</td>
+<td>slo3502@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GEORD</td>
+<td>Charly</td>
+<td>1984-05-14</td>
+<td>1 Rue Geoffray, Villeurbanne</td>
+<td align="right">0645551104</td>
+<td>charly.geord@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LO</td>
+<td>Teodor</td>
+<td>1997-03-23</td>
+<td>6 Rue Baudin, Villeurbanne</td>
+<td align="right">0174026707</td>
+<td>teodor.lo@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DIS SANTOS OLEVIIRA</td>
+<td>Julien</td>
+<td>1978-11-06</td>
+<td>13 Rue Frédéric Passy, Villeurbanne</td>
+<td align="right">0888362752</td>
+<td>julien.dis-santos-oleviira@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KEY</td>
+<td>Romain</td>
+<td>1992-04-04</td>
+<td>17 Allée des Cèdres, Villeurbanne</td>
+<td align="right">0144833273</td>
+<td>romain.key@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ROPAULT</td>
+<td>Andres Eugenio</td>
+<td>1983-05-15</td>
+<td>14 Cours André Philip, Villeurbanne</td>
+<td align="right">0811743691</td>
+<td>aropault@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HIRNOY</td>
+<td>Kevin</td>
+<td>1990-02-19</td>
+<td>6 Impasse Alexandre Dumas, Villeurbanne</td>
+<td align="right">0607436392</td>
+<td>kevin.hirnoy@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BASOTELLA</td>
+<td>Jérémy</td>
+<td>1986-06-07</td>
+<td>8 Rue Paul Lafargue, Villeurbanne</td>
+<td align="right">0255003079</td>
+<td>jbasotella9255@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LAFEBVRE</td>
+<td>Zakaria</td>
+<td>1971-03-31</td>
+<td>7 Rue Anatole France, Villeurbanne</td>
+<td align="right">0489580657</td>
+<td>zlafebvre6355@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OMOYAL</td>
+<td>Xiao</td>
+<td>1987-03-17</td>
+<td>10 Rue Florian, Villeurbanne</td>
+<td align="right">0974852217</td>
+<td>xomoyal2894@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BAUCHOUEREB</td>
+<td>Benoit</td>
+<td>1994-06-16</td>
+<td>5 Impasse Buyet, Villeurbanne</td>
+<td align="right">0174434845</td>
+<td>bbauchouereb6851@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOTTAL</td>
+<td>Alexandru</td>
+<td>1984-05-20</td>
+<td>7 Rue Alexandre Ribot, Villeurbanne</td>
+<td align="right">0459899841</td>
+<td>alexandru.bottal@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BEUZID</td>
+<td>Gaëtan</td>
+<td>1972-01-29</td>
+<td>3 Rue Mauvert, Villeurbanne</td>
+<td align="right">0914112906</td>
+<td>gbeuzid4218@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EL MUFTE</td>
+<td>Timothée</td>
+<td>1988-07-08</td>
+<td>9 Rue Louis Malle, Villeurbanne</td>
+<td align="right">0211105962</td>
+<td>telmufte@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIRRITA MATEAS DANTAS</td>
+<td>Walaa</td>
+<td>1985-01-27</td>
+<td>1 Rue Tranquille, Villeurbanne</td>
+<td align="right">0410470726</td>
+<td>wbirritamateasdantas9178@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>FRINCHAT</td>
+<td>Erika</td>
+<td>1997-10-17</td>
+<td>15 Rue des 2 Frères, Villeurbanne</td>
+<td align="right">0195111691</td>
+<td>efrinchat@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>TSOFACK LOKEUNDJO</td>
+<td>Hanae</td>
+<td>1973-09-10</td>
+<td>11 Avenue Auguste Blanqui, Villeurbanne</td>
+<td align="right">0704193935</td>
+<td>htsofacklokeundjo1462@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>POEI</td>
+<td>Nathalie</td>
+<td>1983-04-29</td>
+<td>19 Rue Louise Michel, Villeurbanne</td>
+<td align="right">0359793452</td>
+<td>npoei4475@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PEREORE-REIS</td>
+<td>Clément</td>
+<td>1995-07-21</td>
+<td>7 Rue des 2 Frères, Villeurbanne</td>
+<td align="right">0440335377</td>
+<td>clement.pereore-reis@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BARRAZA PONTE</td>
+<td>Elody</td>
+<td>1974-04-17</td>
+<td>11 Rue Alfred de Musset, Villeurbanne</td>
+<td align="right">0215207038</td>
+<td>elody.barraza-ponte@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DIMENGUES</td>
+<td>Jérémy</td>
+<td>1975-07-19</td>
+<td>15 Rue Basile, Villeurbanne</td>
+<td align="right">0562039765</td>
+<td>jeremy.dimengues@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OUDIER</td>
+<td>Victor</td>
+<td>1990-04-13</td>
+<td>1 Boulevard de la Bataille de Stalingrad, Villeurbanne</td>
+<td align="right">0938417990</td>
+<td>voudier3913@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MOURAL</td>
+<td>Christophe</td>
+<td>1971-12-27</td>
+<td>4 Rue Louis Goux, Villeurbanne</td>
+<td align="right">0161517937</td>
+<td>cmoural5360@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GAUDAN</td>
+<td>Thomas</td>
+<td>1970-11-23</td>
+<td>2 Rue Victor Hugo, Villeurbanne</td>
+<td align="right">0470897356</td>
+<td>thomas.gaudan@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KON-SUN-TICK</td>
+<td>Maxime</td>
+<td>1992-02-23</td>
+<td>3 Impasse des Soeurs, Villeurbanne</td>
+<td align="right">0195130865</td>
+<td>maxime.kon-sun-tick@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GRINDOS</td>
+<td>Khalil</td>
+<td>1983-05-27</td>
+<td>20 Rue de Venise, Villeurbanne</td>
+<td align="right">0874681033</td>
+<td>khalil.grindos@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BLIM</td>
+<td>Hanae</td>
+<td>1987-04-18</td>
+<td>16 Rue Bat Yam, Villeurbanne</td>
+<td align="right">0193217034</td>
+<td>hanae.blim@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DEUVAOR</td>
+<td>Romaric</td>
+<td>1987-10-31</td>
+<td>7 Rue Charles Perrault, Villeurbanne</td>
+<td align="right">0717730490</td>
+<td>rdeuvaor1749@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DUBIURG</td>
+<td>Nataly</td>
+<td>1971-11-18</td>
+<td>6 Rue de la Solidarite, Villeurbanne</td>
+<td align="right">0756499181</td>
+<td>ndubiurg529@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOSCHE</td>
+<td>Moulay Mamoun</td>
+<td>1994-11-23</td>
+<td>18 Impasse Édouard Aynard, Villeurbanne</td>
+<td align="right">0475756550</td>
+<td>moulay-mamoun.gosche@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DREUYOR</td>
+<td>Alexandra</td>
+<td>1991-11-07</td>
+<td>20 Avenue Monin, Villeurbanne</td>
+<td align="right">0289080871</td>
+<td>alexandra.dreuyor@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VOLLANUOVA GINZALEZ</td>
+<td>Imane</td>
+<td>1992-02-01</td>
+<td>10 Rue de la Cloche, Villeurbanne</td>
+<td align="right">0309122521</td>
+<td>ivollanuovaginzalez@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PHON</td>
+<td>Anna Christina</td>
+<td>1994-09-24</td>
+<td>8 Rue Henri Balay, Villeurbanne</td>
+<td align="right">0634976341</td>
+<td>anna-christina.phon@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LULÉ</td>
+<td>Jonathan</td>
+<td>1994-05-08</td>
+<td>20 Avenue Aristide Briand, Villeurbanne</td>
+<td align="right">0435985000</td>
+<td>jlule@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MINERD</td>
+<td>Florent</td>
+<td>1991-08-03</td>
+<td>4 Rue Marteret, Villeurbanne</td>
+<td align="right">0417891894</td>
+<td>fminerd5603@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>YOMAMATU TANAKA</td>
+<td>Bastien</td>
+<td>1992-06-13</td>
+<td>14 Impasse Édouard Aynard, Villeurbanne</td>
+<td align="right">0248191581</td>
+<td>byomamatutanaka6188@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUYOMERD</td>
+<td>Xavier</td>
+<td>1985-04-26</td>
+<td>15 Rue de Milan, Villeurbanne</td>
+<td align="right">0459203247</td>
+<td>xavier.guyomerd@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>QUIIRIZ</td>
+<td>Vincent</td>
+<td>1986-01-12</td>
+<td>2 Rue Francis Chirat, Villeurbanne</td>
+<td align="right">0634243383</td>
+<td>vincent.quiiriz@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PIPOLLIA</td>
+<td>Charly</td>
+<td>1988-03-20</td>
+<td>7 Rue Château Gaillard, Villeurbanne</td>
+<td align="right">0823258200</td>
+<td>cpipollia1586@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HODZHOV</td>
+<td>Tiago</td>
+<td>1986-08-18</td>
+<td>9 Rue Louis Malle, Villeurbanne</td>
+<td align="right">0284210435</td>
+<td>tiago.hodzhov@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BUISSAN</td>
+<td>Simon</td>
+<td>1989-12-16</td>
+<td>10 Rue du Maréchal Foch, Villeurbanne</td>
+<td align="right">0912864635</td>
+<td>sbuissan2812@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ILTAR</td>
+<td>Anabel</td>
+<td>1981-01-21</td>
+<td>11 Rue Michel Servet, Villeurbanne</td>
+<td align="right">0323467975</td>
+<td>ailtar@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PEUL</td>
+<td>Laura</td>
+<td>1989-08-23</td>
+<td>6 Rue Raspail, Villeurbanne</td>
+<td align="right">0469371635</td>
+<td>lpeul7768@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>TEUMIE</td>
+<td>Irénée</td>
+<td>1984-11-05</td>
+<td>7 Impasse Édouard Aynard, Villeurbanne</td>
+<td align="right">0797907379</td>
+<td>irenee.teumie@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>AXBREYAT</td>
+<td>Yohann</td>
+<td>1970-03-24</td>
+<td>2 Impasse des Bienvenus, Villeurbanne</td>
+<td align="right">0712799215</td>
+<td>yohann.axbreyat@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GANZILIZ OBANDO</td>
+<td>Florent</td>
+<td>1987-06-29</td>
+<td>6 Rue Basile, Villeurbanne</td>
+<td align="right">0235240411</td>
+<td>fganzilizobando6203@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOYLO</td>
+<td>Philippe</td>
+<td>1983-11-28</td>
+<td>10 Place des Passementiers, Villeurbanne</td>
+<td align="right">0559061517</td>
+<td>pboylo2095@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TIRDY</td>
+<td>Vincent</td>
+<td>1979-09-29</td>
+<td>12 Rue de Milan, Villeurbanne</td>
+<td align="right">0226814571</td>
+<td>vtirdy2322@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHONI-MENG-HIME</td>
+<td>Emmanuel</td>
+<td>1980-11-10</td>
+<td>2 Rue de la Fraternite, Villeurbanne</td>
+<td align="right">0557745829</td>
+<td>echoni-meng-hime4744@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DAGHMA</td>
+<td>Jérémy</td>
+<td>1970-01-26</td>
+<td>3 Rue Pierre Louis Bernaix, Villeurbanne</td>
+<td align="right">0836897892</td>
+<td>jeremy.daghma@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EULD MOHAMODEN BABA</td>
+<td>Jose Luis</td>
+<td>1988-07-28</td>
+<td>19 Rue Severine, Villeurbanne</td>
+<td align="right">0817859156</td>
+<td>jeuldmohamodenbaba9368@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CERAGOULO</td>
+<td>Ricardo Alberto</td>
+<td>1979-10-21</td>
+<td>9 Rue de la Prevoyance, Villeurbanne</td>
+<td align="right">0743942902</td>
+<td>ricardo-alberto.ceragoulo@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>STERRS</td>
+<td>Marc</td>
+<td>1972-06-12</td>
+<td>16 Rue des Acacias, Villeurbanne</td>
+<td align="right">0484598185</td>
+<td>marc.sterrs@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>UGHOTTA</td>
+<td>Hubert</td>
+<td>1986-03-17</td>
+<td>6 Impasse Alexandre Dumas, Villeurbanne</td>
+<td align="right">0222610835</td>
+<td>hughotta621@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MITTO</td>
+<td>Thomas</td>
+<td>1994-12-12</td>
+<td>7 Rue de Lorraine, Villeurbanne</td>
+<td align="right">0237332504</td>
+<td>tmitto@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>JECQUANAT</td>
+<td>Yi Quan</td>
+<td>1994-04-26</td>
+<td>12 Impasse Chatigny, Villeurbanne</td>
+<td align="right">0826896518</td>
+<td>yi-quan.jecquanat@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IGBANGBE</td>
+<td>Octavian</td>
+<td>1978-01-11</td>
+<td>17 Rue du Caporal Morange, Villeurbanne</td>
+<td align="right">0184943911</td>
+<td>oigbangbe8930@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BAURGAN</td>
+<td>Loic</td>
+<td>1984-01-26</td>
+<td>9 Rue Jean Pierre Bredy, Villeurbanne</td>
+<td align="right">0250773272</td>
+<td>loic.baurgan@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DIUSSIN</td>
+<td>Pekka</td>
+<td>1988-10-25</td>
+<td>17 Rue Jean Baptiste Durand, Villeurbanne</td>
+<td align="right">0574679898</td>
+<td>pdiussin6592@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GÖRLETZ</td>
+<td>Estelle</td>
+<td>1985-12-17</td>
+<td>17 Impasse des Iris, Villeurbanne</td>
+<td align="right">0236715079</td>
+<td>estelle.gorletz@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LINGLIIS</td>
+<td>Guillaume</td>
+<td>1987-10-30</td>
+<td>14 Allée du Levant, Villeurbanne</td>
+<td align="right">0133834354</td>
+<td>guillaume.lingliis@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>THELOT</td>
+<td>Laura</td>
+<td>1994-07-25</td>
+<td>15 Impasse Édouard Aynard, Villeurbanne</td>
+<td align="right">0855884060</td>
+<td>lthelot4913@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>RILLIND</td>
+<td>Sannine</td>
+<td>1984-07-04</td>
+<td>14 Rue de la Somme, Villeurbanne</td>
+<td align="right">0623643306</td>
+<td>srillind9619@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MINNAUNA</td>
+<td>Ianic</td>
+<td>1984-01-26</td>
+<td>14 Rue Charles Montaland, Villeurbanne</td>
+<td align="right">0294088619</td>
+<td>ianic.minnauna@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GAJON PORADES</td>
+<td>Azhar</td>
+<td>1995-06-07</td>
+<td>15 Rue du Professeur Calmette, Villeurbanne</td>
+<td align="right">0722262772</td>
+<td>agajonporades8267@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>WESTOELS</td>
+<td>Valérie</td>
+<td>1983-02-03</td>
+<td>11 Allée des Cèdres, Villeurbanne</td>
+<td align="right">0113284183</td>
+<td>valerie.westoels@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IOT-AEUDIA</td>
+<td>Théo</td>
+<td>1976-08-24</td>
+<td>5 Boulevard Eugene Reguillon, Villeurbanne</td>
+<td align="right">0471228085</td>
+<td>tiot-aeudia@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MANNOT</td>
+<td>Rym</td>
+<td>1975-08-28</td>
+<td>3 Rue du Luizet, Villeurbanne</td>
+<td align="right">0951539597</td>
+<td>rym.mannot@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LIGER</td>
+<td>Adrien</td>
+<td>1997-06-13</td>
+<td>14 Rue Lucette Et René Desgrand, Villeurbanne</td>
+<td align="right">0429087770</td>
+<td>aliger1112@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>OBADII</td>
+<td>Gabriela</td>
+<td>1978-04-21</td>
+<td>2 Cours de la République, Villeurbanne</td>
+<td align="right">0682437950</td>
+<td>gabriela.obadii@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FARAONI</td>
+<td>Thibaud</td>
+<td>1989-07-16</td>
+<td>15 Rue Eugene Fourniere, Villeurbanne</td>
+<td align="right">0586773153</td>
+<td>tfaraoni3413@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LEU</td>
+<td>Guillaume</td>
+<td>1977-08-14</td>
+<td>19 Allée de l'Enfance, Villeurbanne</td>
+<td align="right">0107267191</td>
+<td>guillaume.leu@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FEKROT</td>
+<td>Romain</td>
+<td>1981-05-17</td>
+<td>4 Rue Mauvert, Villeurbanne</td>
+<td align="right">0374447938</td>
+<td>rfekrot307@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VARIPINMIDELY</td>
+<td>Manuel</td>
+<td>1996-05-08</td>
+<td>3 Rue de la Fraternite, Villeurbanne</td>
+<td align="right">0992000467</td>
+<td>manuel.varipinmidely@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TILBI</td>
+<td>Omar Ariosto</td>
+<td>1991-09-22</td>
+<td>14 Rue Joseph Gillet, Villeurbanne</td>
+<td align="right">0507123802</td>
+<td>omar-ariosto.tilbi@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>KINDOL</td>
+<td>Daphne</td>
+<td>1986-10-25</td>
+<td>17 Rue Anatole France, Villeurbanne</td>
+<td align="right">0709018781</td>
+<td>dkindol6014@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIRGAD</td>
+<td>Yann</td>
+<td>1993-09-28</td>
+<td>13 Rue Jean Novel, Villeurbanne</td>
+<td align="right">0164484754</td>
+<td>ymirgad8656@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FEUGEROY</td>
+<td>Billy</td>
+<td>1983-11-28</td>
+<td>6 Rue de Verdun, Villeurbanne</td>
+<td align="right">0723327601</td>
+<td>billy.feugeroy@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DEUVAAR</td>
+<td>Oana-Maria</td>
+<td>1996-06-27</td>
+<td>14 Rue Yvonne, Villeurbanne</td>
+<td align="right">0292469319</td>
+<td>odeuvaar5057@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOGGOERI</td>
+<td>Victor</td>
+<td>1977-04-10</td>
+<td>9 Rue Delornage, Villeurbanne</td>
+<td align="right">0531004940</td>
+<td>vloggoeri8576@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CEUDIRT</td>
+<td>Mathilde</td>
+<td>1988-06-03</td>
+<td>19 Avenue Aristide Briand, Villeurbanne</td>
+<td align="right">0235904157</td>
+<td>mceudirt9710@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MADEINI</td>
+<td>Loïc</td>
+<td>1993-05-30</td>
+<td>6 Place du Chanoine Boursier, Villeurbanne</td>
+<td align="right">0107979988</td>
+<td>lmadeini@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LAENERT</td>
+<td>Meriem</td>
+<td>1986-07-28</td>
+<td>7 Avenue Paul Kruger, Villeurbanne</td>
+<td align="right">0572987395</td>
+<td>meriem.laenert@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GILUMBEONU</td>
+<td>Philippe</td>
+<td>1993-10-01</td>
+<td>10 Rue Roger Lenoir, Villeurbanne</td>
+<td align="right">0945963938</td>
+<td>pgilumbeonu8850@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BRU MINSERROT</td>
+<td>Raphaël</td>
+<td>1987-10-02</td>
+<td>3 Rue Wilhelmine, Villeurbanne</td>
+<td align="right">0941781171</td>
+<td>rbruminserrot@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IONCU</td>
+<td>Nicolas</td>
+<td>1991-06-27</td>
+<td>9 Rue de la Poudrette, Villeurbanne</td>
+<td align="right">0333430964</td>
+<td>nicolas.ioncu@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAHJAUB</td>
+<td>Azhar</td>
+<td>1984-07-21</td>
+<td>18 Rue du 14 Juillet 1789, Villeurbanne</td>
+<td align="right">0968185120</td>
+<td>azhar.mahjaub@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LO</td>
+<td>Leila</td>
+<td>1988-12-13</td>
+<td>12 Rue Louis Mille, Villeurbanne</td>
+<td align="right">0116722183</td>
+<td>llo@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PLETTONAN</td>
+<td>Vincent</td>
+<td>1997-02-20</td>
+<td>18 Rue Chambfort, Villeurbanne</td>
+<td align="right">0948207370</td>
+<td>vincent.plettonan@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUSERT</td>
+<td>Arthur</td>
+<td>1993-10-14</td>
+<td>17 Rue Bat Yam, Villeurbanne</td>
+<td align="right">0711234591</td>
+<td>arthur.dusert@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ISTIER</td>
+<td>Xavier</td>
+<td>1979-10-05</td>
+<td>16 Rue Alfred de Musset, Villeurbanne</td>
+<td align="right">0795839616</td>
+<td>xistier@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MEURECO</td>
+<td>Yannick</td>
+<td>1991-09-17</td>
+<td>6 Rue des Bienvenus, Villeurbanne</td>
+<td align="right">0130160677</td>
+<td>ymeureco8344@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TULIUP</td>
+<td>Benjamin</td>
+<td>1991-12-03</td>
+<td>10 Rue Raoul Durand, Villeurbanne</td>
+<td align="right">0643326945</td>
+<td>benjamin.tuliup@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LABROET</td>
+<td>Raphael</td>
+<td>1979-10-19</td>
+<td>4 Rue de la Prevoyance, Villeurbanne</td>
+<td align="right">0676270835</td>
+<td>raphael.labroet@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ROABROECK</td>
+<td>Moez</td>
+<td>1990-01-27</td>
+<td>6 Rue Leo Lagrange, Villeurbanne</td>
+<td align="right">0139407863</td>
+<td>mroabroeck@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MORY</td>
+<td>Julien</td>
+<td>1982-10-17</td>
+<td>9 Impasse Bayet, Villeurbanne</td>
+<td align="right">0884376708</td>
+<td>julien.mory@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SILL</td>
+<td>Claire</td>
+<td>1986-12-23</td>
+<td>6 Rue du Tonkin, Villeurbanne</td>
+<td align="right">0907039885</td>
+<td>csill6978@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HIUSTANT</td>
+<td>Damien</td>
+<td>1977-11-10</td>
+<td>18 Rue d'Inkermann, Villeurbanne</td>
+<td align="right">0972492652</td>
+<td>damien.hiustant@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HUMBART-LABEAUMAZ</td>
+<td>Guillaume</td>
+<td>1978-09-04</td>
+<td>6 Rue Jules Guesde, Villeurbanne</td>
+<td align="right">0345874864</td>
+<td>guillaume.humbart-labeaumaz@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GARCEA CARDENAS</td>
+<td>Maxime</td>
+<td>1996-10-17</td>
+<td>2 Rue de l'Égalité, Villeurbanne</td>
+<td align="right">0653324782</td>
+<td>mgarceacardenas@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CROPAN</td>
+<td>Maxime</td>
+<td>1972-11-15</td>
+<td>15 Rue Charles Robin, Villeurbanne</td>
+<td align="right">0550577190</td>
+<td>maxime.cropan@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TEMBERRENO</td>
+<td>Guillaume</td>
+<td>1985-08-28</td>
+<td>3 Rue Clement Michut, Villeurbanne</td>
+<td align="right">0179757121</td>
+<td>guillaume.temberreno@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EAN</td>
+<td>Martin</td>
+<td>1973-06-10</td>
+<td>5 Rue Roger Lenoir, Villeurbanne</td>
+<td align="right">0127352400</td>
+<td>martin.ean@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LIPOZ</td>
+<td>Khalid</td>
+<td>1992-10-07</td>
+<td>13 Rue Valentin Hauy, Villeurbanne</td>
+<td align="right">0280983433</td>
+<td>klipoz@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAUSTANFII</td>
+<td>Yibin</td>
+<td>1977-03-23</td>
+<td>11 Rue Yvonne, Villeurbanne</td>
+<td align="right">0589278224</td>
+<td>ymaustanfii102@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOGER</td>
+<td>Thibaud</td>
+<td>1986-05-02</td>
+<td>4 Rue Georges Picot, Villeurbanne</td>
+<td align="right">0363281614</td>
+<td>tloger5948@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EAN</td>
+<td>Fabrice</td>
+<td>1986-08-28</td>
+<td>1 Rue Paul Cambon, Villeurbanne</td>
+<td align="right">0790721529</td>
+<td>fean8923@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BENYEUB</td>
+<td>Sébastien</td>
+<td>1976-08-08</td>
+<td>2 Rue Max Linder, Villeurbanne</td>
+<td align="right">0272135324</td>
+<td>sbenyeub1064@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ERNAULT</td>
+<td>Emmanuel</td>
+<td>1988-06-20</td>
+<td>12 Rue des Acacias, Villeurbanne</td>
+<td align="right">0164221638</td>
+<td>eernault6849@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CUCCHE</td>
+<td>Vincent</td>
+<td>1981-09-22</td>
+<td>16 Rue Lancon, Villeurbanne</td>
+<td align="right">0232615089</td>
+<td>vcucche@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RAHR</td>
+<td>Jeroen</td>
+<td>1979-04-11</td>
+<td>6 Rue Clement Michut, Villeurbanne</td>
+<td align="right">0863895337</td>
+<td>jeroen.rahr@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MAUTO</td>
+<td>Paula</td>
+<td>1983-11-21</td>
+<td>2 Rue Camille Koechlin, Villeurbanne</td>
+<td align="right">0559908490</td>
+<td>pmauto@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RACHERD</td>
+<td>Jean-François</td>
+<td>1975-09-19</td>
+<td>16 Rue de la Prevoyance, Villeurbanne</td>
+<td align="right">0594784050</td>
+<td>jean-francois.racherd@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JACQUET</td>
+<td>Maxime</td>
+<td>1985-07-15</td>
+<td>8 Rue de la Marne, Villeurbanne</td>
+<td align="right">0893457540</td>
+<td>mjacquet9043@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SODRY</td>
+<td>Julien</td>
+<td>1997-02-12</td>
+<td>12 Rue du Pont des Planches, Villeurbanne</td>
+<td align="right">0830575560</td>
+<td>jsodry5001@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOEGER</td>
+<td>Bastien</td>
+<td>1995-04-27</td>
+<td>10 Rue de Venise, Villeurbanne</td>
+<td align="right">0299119445</td>
+<td>bastien.goeger@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GIYEL</td>
+<td>Radu</td>
+<td>1996-12-22</td>
+<td>13 Rue Yvonne Chanu, Villeurbanne</td>
+<td align="right">0918737630</td>
+<td>radu.giyel@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PREITO</td>
+<td>Thomas</td>
+<td>1985-08-21</td>
+<td>17 Petite Rue de la Viabert, Villeurbanne</td>
+<td align="right">0123247653</td>
+<td>tpreito@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VA</td>
+<td>Loic</td>
+<td>1983-02-28</td>
+<td>8 Rue John Ford, Villeurbanne</td>
+<td align="right">0601957149</td>
+<td>lva8876@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NOW</td>
+<td>Philipp</td>
+<td>1996-09-29</td>
+<td>16 Rue de la Ligne de l'Est, Villeurbanne</td>
+<td align="right">0705883594</td>
+<td>philipp.now@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MARTENAT</td>
+<td>Simon</td>
+<td>1991-03-29</td>
+<td>8 Avenue Antoine de Saint Exupery, Villeurbanne</td>
+<td align="right">0267232092</td>
+<td>simon.martenat@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KOLLER ROCHTER</td>
+<td>Pierre</td>
+<td>1996-09-02</td>
+<td>14 Rue Armand, Villeurbanne</td>
+<td align="right">0803906745</td>
+<td>pierre.koller-rochter@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>YENG</td>
+<td>Karen</td>
+<td>1994-01-28</td>
+<td>1 Impasse Amblard, Villeurbanne</td>
+<td align="right">0599335457</td>
+<td>kyeng217@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EL MONSEURI</td>
+<td>Mathieu</td>
+<td>1978-01-11</td>
+<td>13 Rue du Progres, Villeurbanne</td>
+<td align="right">0783759634</td>
+<td>melmonseuri2274@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TIEXEIRE DA CUNHA JUNIOR</td>
+<td>Loïc</td>
+<td>1996-10-06</td>
+<td>6 Rue de la Ligne de l'Est, Villeurbanne</td>
+<td align="right">0937347654</td>
+<td>loic.tiexeire-da-cunha-junior@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAREAN</td>
+<td>Antoine</td>
+<td>1989-11-18</td>
+<td>20 Rue Joseph Gillet, Villeurbanne</td>
+<td align="right">0974290146</td>
+<td>amarean6594@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DI SOUZE ALMEIDA</td>
+<td>Pierre-François</td>
+<td>1990-06-04</td>
+<td>17 Rue de la Baisse, Villeurbanne</td>
+<td align="right">0655422589</td>
+<td>pierre-francois.di-souze-almeida@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SIPAN</td>
+<td>Charlie</td>
+<td>1984-07-29</td>
+<td>4 Rue du Vert Buisson, Villeurbanne</td>
+<td align="right">0842610838</td>
+<td>charlie.sipan@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZOHLOKE</td>
+<td>Sébastien</td>
+<td>1980-08-27</td>
+<td>20 Rue Alexandre Dumas, Villeurbanne</td>
+<td align="right">0404173890</td>
+<td>szohloke7536@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>JOEN</td>
+<td>Flavie</td>
+<td>1996-09-29</td>
+<td>8 Rue des Bluets, Villeurbanne</td>
+<td align="right">0244943919</td>
+<td>fjoen6987@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MEOSANNEUVE</td>
+<td>Jérémy</td>
+<td>1976-08-12</td>
+<td>20 Rue du Roulet, Villeurbanne</td>
+<td align="right">0552704104</td>
+<td>jmeosanneuve1356@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DAL CESTELLO IGAREDA</td>
+<td>Mathieu</td>
+<td>1975-10-08</td>
+<td>3 Rue Michel Servet, Villeurbanne</td>
+<td align="right">0962152316</td>
+<td>mdalcestelloigareda2260@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GROMILDI</td>
+<td>Nicolas</td>
+<td>1987-10-07</td>
+<td>3 Impasse Bayet, Villeurbanne</td>
+<td align="right">0125230149</td>
+<td>ngromildi7815@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SANIPAYAN</td>
+<td>Azhar</td>
+<td>1973-02-21</td>
+<td>14 Allée de l'Enfance, Villeurbanne</td>
+<td align="right">0106606684</td>
+<td>asanipayan@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PAGUIT-LICROIX</td>
+<td>Cynthia</td>
+<td>1988-01-03</td>
+<td>19 Rue de la Poste, Villeurbanne</td>
+<td align="right">0905296877</td>
+<td>cynthia.paguit-licroix@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUFFY-CEASSIRD</td>
+<td>Luc</td>
+<td>1993-02-14</td>
+<td>9 Rue Léon Fabre, Villeurbanne</td>
+<td align="right">0605562481</td>
+<td>luc.duffy-ceassird@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SAMONNAT</td>
+<td>Tristan</td>
+<td>1993-01-07</td>
+<td>15 Rue John Ford, Villeurbanne</td>
+<td align="right">0666811142</td>
+<td>tristan.samonnat@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HAU</td>
+<td>Rémi</td>
+<td>1991-09-22</td>
+<td>14 Rue de France, Villeurbanne</td>
+<td align="right">0495941741</td>
+<td>rhau@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BAURJODI</td>
+<td>Kevin</td>
+<td>1980-02-29</td>
+<td>16 Rue de la Cooperative, Villeurbanne</td>
+<td align="right">0375679275</td>
+<td>kevin.baurjodi@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DURENTAN</td>
+<td>Xiao</td>
+<td>1984-02-16</td>
+<td>11 Rue Decomberousse, Villeurbanne</td>
+<td align="right">0607907192</td>
+<td>xdurentan2246@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PADRILA</td>
+<td>Benoît</td>
+<td>1983-10-06</td>
+<td>1 Rue Jean Pierre Bredy, Villeurbanne</td>
+<td align="right">0804508984</td>
+<td>bpadrila6269@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KLAINPETER</td>
+<td>Juha</td>
+<td>1987-10-28</td>
+<td>17 Rue Victor Basch, Villeurbanne</td>
+<td align="right">0232024236</td>
+<td>jklainpeter8163@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HOLLE</td>
+<td>Rémi</td>
+<td>1984-12-06</td>
+<td>8 Rue Marcel Doret, Villeurbanne</td>
+<td align="right">0143626255</td>
+<td>remi.holle@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JILY</td>
+<td>Nicolas</td>
+<td>1988-02-25</td>
+<td>7 Avenue Gaston Berger, Villeurbanne</td>
+<td align="right">0525715704</td>
+<td>njily331@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BORDY</td>
+<td>Monica</td>
+<td>1988-04-18</td>
+<td>18 Rue Alexandre Boutin, Villeurbanne</td>
+<td align="right">0617632165</td>
+<td>mbordy9892@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SOUABE</td>
+<td>Pablo</td>
+<td>1978-12-26</td>
+<td>14 Avenue Ampère, Villeurbanne</td>
+<td align="right">0830490677</td>
+<td>pablo.souabe@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ORMAJO BIDON</td>
+<td>Lionel</td>
+<td>1983-12-25</td>
+<td>8 Rue Denis Papin, Villeurbanne</td>
+<td align="right">0700303977</td>
+<td>lormajobidon1645@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>AOT EUASSARAH</td>
+<td>Hanae</td>
+<td>1988-05-13</td>
+<td>17 Impasse Richard, Villeurbanne</td>
+<td align="right">0752160266</td>
+<td>hanae.aot-euassarah@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EL MOAREUFO</td>
+<td>César</td>
+<td>1981-12-22</td>
+<td>11 Rue Louis Teillon, Villeurbanne</td>
+<td align="right">0868655892</td>
+<td>cesar.el-moareufo@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SOLOSSE</td>
+<td>Vincent</td>
+<td>1974-12-26</td>
+<td>3 Place des Passementiers, Villeurbanne</td>
+<td align="right">0630781615</td>
+<td>vincent.solosse@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PHEN</td>
+<td>Cédric</td>
+<td>1996-01-21</td>
+<td>4 Rue Édouard Aynard, Villeurbanne</td>
+<td align="right">0763590852</td>
+<td>cedric.phen@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RENDREAMANEHISOA</td>
+<td>Stanislas</td>
+<td>1984-04-23</td>
+<td>15 Rue Bonnet, Villeurbanne</td>
+<td align="right">0826483044</td>
+<td>stanislas.rendreamanehisoa@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MONNIT</td>
+<td>Radu</td>
+<td>1984-02-03</td>
+<td>13 Rue Eugene Fourniere, Villeurbanne</td>
+<td align="right">0649595680</td>
+<td>rmonnit@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHATALON</td>
+<td>Xavier</td>
+<td>1985-03-27</td>
+<td>4 Rue Léon Piat, Villeurbanne</td>
+<td align="right">0342160134</td>
+<td>xavier.chatalon@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SANAPAYIN</td>
+<td>Etienne</td>
+<td>1993-05-10</td>
+<td>5 Rue d'Hanoi, Villeurbanne</td>
+<td align="right">0821168510</td>
+<td>esanapayin4259@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CEURLOT</td>
+<td>Florian</td>
+<td>1993-12-13</td>
+<td>13 Rue Pelisson, Villeurbanne</td>
+<td align="right">0948039309</td>
+<td>florian.ceurlot@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PROOTE</td>
+<td>Thiébaud</td>
+<td>1979-03-02</td>
+<td>2 Rue des Bluets, Villeurbanne</td>
+<td align="right">0847090862</td>
+<td>thiebaud.proote@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WETTERWOLD</td>
+<td>Maxime</td>
+<td>1985-04-01</td>
+<td>14 Rue Billon, Villeurbanne</td>
+<td align="right">0941736551</td>
+<td>maxime.wetterwold@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SELESSE</td>
+<td>Heidi</td>
+<td>1984-05-09</td>
+<td>8 Rue Pierre Larousse, Villeurbanne</td>
+<td align="right">0541093309</td>
+<td>heidi.selesse@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIILLY</td>
+<td>Yann</td>
+<td>1981-01-08</td>
+<td>12 Rue Léon Fabre, Villeurbanne</td>
+<td align="right">0920808319</td>
+<td>yann.biilly@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BREDU</td>
+<td>Sara</td>
+<td>1988-04-01</td>
+<td>10 Rue du Nord, Villeurbanne</td>
+<td align="right">0203896476</td>
+<td>sara.bredu@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DU</td>
+<td>Jean-Alexandre</td>
+<td>1983-10-06</td>
+<td>18 Rue de la Filature, Villeurbanne</td>
+<td align="right">0333908329</td>
+<td>jean-alexandre.du@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>AUNEN</td>
+<td>Rafael Armando</td>
+<td>1996-01-27</td>
+<td>4 Boulevard Niels Bohr, Villeurbanne</td>
+<td align="right">0309872614</td>
+<td>rafael-armando.aunen@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>JICQUALAN</td>
+<td>Prisca</td>
+<td>1986-02-06</td>
+<td>5 Rue du Caporal Morange, Villeurbanne</td>
+<td align="right">0498289271</td>
+<td>prisca.jicqualan@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CEMETS</td>
+<td>Guillaume</td>
+<td>1985-01-24</td>
+<td>11 Impasse des Glycines, Villeurbanne</td>
+<td align="right">0956951854</td>
+<td>guillaume.cemets@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIRARU</td>
+<td>Quentin</td>
+<td>1981-04-30</td>
+<td>18 Rue Charles Gounod, Villeurbanne</td>
+<td align="right">0789615119</td>
+<td>quentin.miraru@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TRON</td>
+<td>Yannick</td>
+<td>1980-11-11</td>
+<td>7 Rue Pierre Cacard, Villeurbanne</td>
+<td align="right">0214929294</td>
+<td>yannick.tron@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CESALLAS LION</td>
+<td>Cyrille</td>
+<td>1971-03-26</td>
+<td>2 Rue de la Cloche, Villeurbanne</td>
+<td align="right">0485112405</td>
+<td>ccesallaslion4841@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NIZEY</td>
+<td>Fabio</td>
+<td>1995-08-28</td>
+<td>4 Impasse Henri, Villeurbanne</td>
+<td align="right">0778339069</td>
+<td>fabio.nizey@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DORAUSSEN</td>
+<td>Eric</td>
+<td>1989-12-07</td>
+<td>11 Rue Edison, Villeurbanne</td>
+<td align="right">0836029178</td>
+<td>edoraussen@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CIEFFORD</td>
+<td>Noora</td>
+<td>1980-02-12</td>
+<td>5 Rue du Capitaine Ferber, Villeurbanne</td>
+<td align="right">0359109119</td>
+<td>noora.ciefford@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUALLOU</td>
+<td>Amine</td>
+<td>1975-04-22</td>
+<td>5 Rue du Docteur Rollet, Villeurbanne</td>
+<td align="right">0370574705</td>
+<td>amine.guallou@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BOUCHICOT</td>
+<td>Nataly</td>
+<td>1994-09-13</td>
+<td>7 Rue Alexandre Ribot, Villeurbanne</td>
+<td align="right">0478518214</td>
+<td>nbouchicot2412@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SENTOAGI MOURA</td>
+<td>Tomas</td>
+<td>1992-02-21</td>
+<td>16 Boulevard de la Bataille de Stalingrad, Villeurbanne</td>
+<td align="right">0311256819</td>
+<td>tsentoagimoura1312@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SOUZIT</td>
+<td>Jean-Alexandre</td>
+<td>1989-10-02</td>
+<td>17 Rue Marie Antoinette, Villeurbanne</td>
+<td align="right">0153134671</td>
+<td>jean-alexandre.souzit@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BEUZIR</td>
+<td>Ida</td>
+<td>1977-02-25</td>
+<td>17 Rue Branly, Villeurbanne</td>
+<td align="right">0587755185</td>
+<td>ibeuzir3139@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DINEDAO GALVIS</td>
+<td>Juliette</td>
+<td>1990-06-27</td>
+<td>5 Impasse Comby, Villeurbanne</td>
+<td align="right">0478287940</td>
+<td>jdinedaogalvis9145@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PAHIJAC</td>
+<td>Clément</td>
+<td>1990-08-30</td>
+<td>10 Allée des Enfants, Villeurbanne</td>
+<td align="right">0982219147</td>
+<td>clement.pahijac@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VELADOER</td>
+<td>Felix</td>
+<td>1985-12-06</td>
+<td>20 Rue Paul Gojon, Villeurbanne</td>
+<td align="right">0759344616</td>
+<td>felix.veladoer@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PEGNIT</td>
+<td>Baptiste</td>
+<td>1993-09-22</td>
+<td>18 Rue Pierre Cacard, Villeurbanne</td>
+<td align="right">0279969811</td>
+<td>bpegnit5541@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOCEONTRE</td>
+<td>Damien</td>
+<td>1996-05-30</td>
+<td>9 Boulevard Niels Bohr, Villeurbanne</td>
+<td align="right">0669418898</td>
+<td>damien.loceontre@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GEOCHON</td>
+<td>Loïc</td>
+<td>1991-09-07</td>
+<td>2 Allée du Parc du Centre, Villeurbanne</td>
+<td align="right">0532537199</td>
+<td>lgeochon9813@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DEIN</td>
+<td>Florent</td>
+<td>1985-03-10</td>
+<td>14 Impasse Amblard, Villeurbanne</td>
+<td align="right">0616708935</td>
+<td>fdein3598@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TRZISNOEWSKI</td>
+<td>Fabrice</td>
+<td>1979-06-27</td>
+<td>17 Avenue Monin, Villeurbanne</td>
+<td align="right">0748746151</td>
+<td>ftrzisnoewski118@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MUGANO</td>
+<td>Céline</td>
+<td>1993-01-23</td>
+<td>7 Avenue Roger Salengro, Villeurbanne</td>
+<td align="right">0431436169</td>
+<td>cmugano4860@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHAVOLAER</td>
+<td>Christophe</td>
+<td>1996-12-23</td>
+<td>14 Rue François Mole, Villeurbanne</td>
+<td align="right">0218502915</td>
+<td>christophe.chavolaer@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IMAR</td>
+<td>Grégory</td>
+<td>1991-12-28</td>
+<td>13 Rue Greuze, Villeurbanne</td>
+<td align="right">0377603756</td>
+<td>gimar4581@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SCHIFFET</td>
+<td>Mohamed</td>
+<td>1975-04-16</td>
+<td>11 Rue Docteur Frappaz, Villeurbanne</td>
+<td align="right">0563803132</td>
+<td>mohamed.schiffet@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ROCO REGA</td>
+<td>Omar</td>
+<td>1986-04-04</td>
+<td>7 Rue des Barottieres, Villeurbanne</td>
+<td align="right">0120153796</td>
+<td>omar.roco-rega@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEYNAC</td>
+<td>Romain</td>
+<td>1976-01-19</td>
+<td>10 Rue Anatole France, Villeurbanne</td>
+<td align="right">0970752708</td>
+<td>rseynac@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BIUTALAB</td>
+<td>Yifei</td>
+<td>1991-11-10</td>
+<td>6 Rue de la Liberté, Villeurbanne</td>
+<td align="right">0720613004</td>
+<td>yifei.biutalab@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MEALLAT</td>
+<td>Hanae</td>
+<td>1986-08-09</td>
+<td>15 Rue Baudin, Villeurbanne</td>
+<td align="right">0115148131</td>
+<td>hanae.meallat@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUMENT</td>
+<td>Naby Daouda</td>
+<td>1996-07-01</td>
+<td>4 Rue Gérard Maire, Villeurbanne</td>
+<td align="right">0156198061</td>
+<td>naby-daouda.dument@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SCHOFFAT</td>
+<td>Ghislaine</td>
+<td>1970-08-15</td>
+<td>16 Impasse des Moineaux, Villeurbanne</td>
+<td align="right">0378966291</td>
+<td>ghislaine.schoffat@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GORCIA GARCIA</td>
+<td>Lieven</td>
+<td>1979-11-15</td>
+<td>2 Rue Frédéric Fays, Villeurbanne</td>
+<td align="right">0925052731</td>
+<td>lieven.gorcia-garcia@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LIBRUN</td>
+<td>Jérôme</td>
+<td>1988-09-11</td>
+<td>4 Rue Alfred Brinon, Villeurbanne</td>
+<td align="right">0636043452</td>
+<td>jlibrun2474@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HALESBEUX</td>
+<td>Benoit</td>
+<td>1978-05-03</td>
+<td>2 Rue Berthelot, Villeurbanne</td>
+<td align="right">0956996274</td>
+<td>bhalesbeux@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GEROLDO ISCOBAR</td>
+<td>Antoine</td>
+<td>1976-01-19</td>
+<td>1 Allée des Enfants, Villeurbanne</td>
+<td align="right">0868147806</td>
+<td>ageroldoiscobar@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOSPAR NEGUIERA</td>
+<td>Brice</td>
+<td>1995-05-05</td>
+<td>8 Impasse Édouard Aynard, Villeurbanne</td>
+<td align="right">0822569655</td>
+<td>bgosparneguiera9420@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JENSSAN</td>
+<td>Michaël</td>
+<td>1991-11-17</td>
+<td>20 Rue Pierre Voyant, Villeurbanne</td>
+<td align="right">0864909619</td>
+<td>michael.jenssan@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THIRME</td>
+<td>Julien</td>
+<td>1983-10-13</td>
+<td>16 Rue de l'Amitie, Villeurbanne</td>
+<td align="right">0513253103</td>
+<td>julien.thirme@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DENG</td>
+<td>Thomas</td>
+<td>1990-11-21</td>
+<td>6 Rue Joseph Gillet, Villeurbanne</td>
+<td align="right">0322848172</td>
+<td>thomas.deng@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MUNTIINU</td>
+<td>Benoît</td>
+<td>1996-12-22</td>
+<td>16 Impasse Henri, Villeurbanne</td>
+<td align="right">0420532840</td>
+<td>bmuntiinu1856@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CAA</td>
+<td>Yang</td>
+<td>1997-11-24</td>
+<td>10 Avenue du Commandant l'Herminier, Villeurbanne</td>
+<td align="right">0272854866</td>
+<td>yang.caa@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIRTONS</td>
+<td>Maximilian</td>
+<td>1980-07-14</td>
+<td>12 Rue du Luizet, Villeurbanne</td>
+<td align="right">0127183272</td>
+<td>maximilian.mirtons@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FELNY</td>
+<td>Naby Daouda</td>
+<td>1981-09-05</td>
+<td>1 Rue Pierre Bressat, Villeurbanne</td>
+<td align="right">0548228731</td>
+<td>nfelny@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BAN REHMA</td>
+<td>Pierre-Yves</td>
+<td>1978-11-14</td>
+<td>4 Avenue Marcel Cerdan, Villeurbanne</td>
+<td align="right">0256917891</td>
+<td>pierre-yves.ban-rehma@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LAZE</td>
+<td>Adrien</td>
+<td>1985-02-08</td>
+<td>13 Rue du Maréchal Foch, Villeurbanne</td>
+<td align="right">0838580123</td>
+<td>adrien.laze@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BARGHENI</td>
+<td>Matthieu</td>
+<td>1980-04-12</td>
+<td>17 Rue de la Fraternite, Villeurbanne</td>
+<td align="right">0722959769</td>
+<td>mbargheni3791@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IL MOAREUFO</td>
+<td>Lyes</td>
+<td>1984-12-14</td>
+<td>15 Avenue Roberto Rossellini, Villeurbanne</td>
+<td align="right">0771671206</td>
+<td>lilmoareufo7778@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GABY</td>
+<td>Vlad</td>
+<td>1992-02-04</td>
+<td>15 Place Marengo, Villeurbanne</td>
+<td align="right">0209147464</td>
+<td>vgaby3075@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIRTON</td>
+<td>Tanguy</td>
+<td>1996-05-11</td>
+<td>17 Place Jules Grandclement, Villeurbanne</td>
+<td align="right">0429399157</td>
+<td>tbirton2832@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MARRAKCHA</td>
+<td>Andréi</td>
+<td>1992-08-13</td>
+<td>12 Rue Magenta, Villeurbanne</td>
+<td align="right">0724910578</td>
+<td>amarrakcha8777@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUDIUIT</td>
+<td>Florian</td>
+<td>1981-04-30</td>
+<td>18 Impasse Amblard, Villeurbanne</td>
+<td align="right">0269504681</td>
+<td>florian.dudiuit@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MORY DE MINTIGNY</td>
+<td>Vincent</td>
+<td>1971-01-04</td>
+<td>6 Rue Bonnet, Villeurbanne</td>
+<td align="right">0798987830</td>
+<td>vincent.mory-de-mintigny@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TAUREINO</td>
+<td>Ion</td>
+<td>1982-05-19</td>
+<td>14 Rue Lakanal, Villeurbanne</td>
+<td align="right">0290370935</td>
+<td>ion.taureino@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUFFY-CIASSIRD</td>
+<td>Stéphane</td>
+<td>1979-06-26</td>
+<td>11 Rue Delornage, Villeurbanne</td>
+<td align="right">0759449211</td>
+<td>stephane.duffy-ciassird@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ORDEM</td>
+<td>Ghali</td>
+<td>1981-06-25</td>
+<td>8 Rue des Acacias, Villeurbanne</td>
+<td align="right">0304400217</td>
+<td>ghali.ordem@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MPAMBO BINI</td>
+<td>Sébastien</td>
+<td>1988-07-30</td>
+<td>2 Rue de Pierrefrite, Villeurbanne</td>
+<td align="right">0823381807</td>
+<td>sebastien.mpambo-bini@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DIAN</td>
+<td>Yoann</td>
+<td>1983-04-28</td>
+<td>15 Rue Bouchet, Villeurbanne</td>
+<td align="right">0719439121</td>
+<td>ydian4545@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WASTPHIL</td>
+<td>Wissal</td>
+<td>1979-09-13</td>
+<td>4 Rue Jean Zuber, Villeurbanne</td>
+<td align="right">0810237937</td>
+<td>wwastphil9145@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GRONDAS</td>
+<td>Cédric</td>
+<td>1986-05-10</td>
+<td>2 Rue Decomberousse, Villeurbanne</td>
+<td align="right">0267426012</td>
+<td>cedric.grondas@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>OBADII</td>
+<td>Yaelle</td>
+<td>1973-08-15</td>
+<td>5 Allée Henri Georges Clouzot, Villeurbanne</td>
+<td align="right">0647380386</td>
+<td>yaelle.obadii@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BONBEUZID</td>
+<td>Vincent</td>
+<td>1987-04-04</td>
+<td>1 Avenue Monin, Villeurbanne</td>
+<td align="right">0652484911</td>
+<td>vincent.bonbeuzid@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIGANA MARA</td>
+<td>Guillaume</td>
+<td>1990-12-18</td>
+<td>14 Impasse Bourgchanin, Villeurbanne</td>
+<td align="right">0450962866</td>
+<td>gmiganamara@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHIN</td>
+<td>Fabio</td>
+<td>1989-02-05</td>
+<td>7 Avenue Roger Salengro, Villeurbanne</td>
+<td align="right">0297676545</td>
+<td>fabio.chin@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PIYRIRD</td>
+<td>Billy</td>
+<td>1992-06-28</td>
+<td>5 Avenue Antoine Dutrievoz, Villeurbanne</td>
+<td align="right">0380480986</td>
+<td>bpiyrird@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOU</td>
+<td>Flavien</td>
+<td>1972-03-09</td>
+<td>9 Rue François Gillet, Villeurbanne</td>
+<td align="right">0437340532</td>
+<td>flavien.lou@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZHEU</td>
+<td>Vincent</td>
+<td>1994-12-13</td>
+<td>14 Rue Lakanal, Villeurbanne</td>
+<td align="right">0966972380</td>
+<td>vincent.zheu@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BASSAY</td>
+<td>Samarth</td>
+<td>1984-08-13</td>
+<td>11 Rue Antoine Primat, Villeurbanne</td>
+<td align="right">0254482137</td>
+<td>sbassay210@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>QUEEREZ</td>
+<td>Adrien</td>
+<td>1983-08-14</td>
+<td>19 Rue Rouget de Lisle, Villeurbanne</td>
+<td align="right">0771403127</td>
+<td>adrien.queerez@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DO LI TIRRE DIAZ</td>
+<td>Charles</td>
+<td>1992-05-18</td>
+<td>10 Rue de Venise, Villeurbanne</td>
+<td align="right">0883079826</td>
+<td>cdolitirrediaz@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BOUGAERD</td>
+<td>Dounia</td>
+<td>1993-02-10</td>
+<td>20 Cours Docteur Jean Damidot, Villeurbanne</td>
+<td align="right">0138108616</td>
+<td>dounia.bougaerd@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ILELJ</td>
+<td>Prisca</td>
+<td>1976-09-19</td>
+<td>8 Rue Baudelaire, Villeurbanne</td>
+<td align="right">0238737133</td>
+<td>pilelj6599@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOGER</td>
+<td>Cristian</td>
+<td>1986-12-11</td>
+<td>1 Rue des Antonins, Villeurbanne</td>
+<td align="right">0983044841</td>
+<td>cristian.loger@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHEIUO</td>
+<td>Loïc</td>
+<td>1995-05-12</td>
+<td>16 Rue Douaumont, Villeurbanne</td>
+<td align="right">0764824145</td>
+<td>loic.cheiuo@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BENNOT</td>
+<td>Yvan</td>
+<td>1980-01-20</td>
+<td>10 Rue de la Ligne de l'Est, Villeurbanne</td>
+<td align="right">0214727255</td>
+<td>yvan.bennot@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BENNET</td>
+<td>Oscar</td>
+<td>1991-04-24</td>
+<td>9 Rue du Capitaine Ferber, Villeurbanne</td>
+<td align="right">0955009054</td>
+<td>oscar.bennet@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LE</td>
+<td>Anja</td>
+<td>1977-03-30</td>
+<td>4 Avenue Roger Salengro, Villeurbanne</td>
+<td align="right">0853137057</td>
+<td>anja.le@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MONEN</td>
+<td>Yannick</td>
+<td>1984-04-18</td>
+<td>18 Rue Henri Rolland, Villeurbanne</td>
+<td align="right">0852619874</td>
+<td>yannick.monen@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OL MIAROUFO</td>
+<td>Stéphane</td>
+<td>1996-10-09</td>
+<td>16 Rue Louis Bocquet, Villeurbanne</td>
+<td align="right">0739619594</td>
+<td>solmiaroufo3865@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OGBANGBE</td>
+<td>Pierre</td>
+<td>1979-10-20</td>
+<td>16 Rue Pierre Voyant, Villeurbanne</td>
+<td align="right">0300420741</td>
+<td>pogbangbe@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LIUROT</td>
+<td>Juan Diego</td>
+<td>1990-03-10</td>
+<td>16 Rue Frédéric Passy, Villeurbanne</td>
+<td align="right">0305613967</td>
+<td>jliurot@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GINKON</td>
+<td>Vincent</td>
+<td>1993-08-15</td>
+<td>6 Place des Maisons Neuves, Villeurbanne</td>
+<td align="right">0201542888</td>
+<td>vginkon@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GINZALOZ CASTELO</td>
+<td>Nor</td>
+<td>1991-02-21</td>
+<td>20 Rue de Turin, Villeurbanne</td>
+<td align="right">0531825015</td>
+<td>nor.ginzaloz-castelo@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CUMON</td>
+<td>Jérémy</td>
+<td>1995-11-30</td>
+<td>3 Rue de l'Égalité, Villeurbanne</td>
+<td align="right">0430639071</td>
+<td>jeremy.cumon@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAGUIT</td>
+<td>Alexandru</td>
+<td>1988-06-28</td>
+<td>18 Avenue Roger Salengro, Villeurbanne</td>
+<td align="right">0599923045</td>
+<td>alexandru.maguit@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SMIJKIL</td>
+<td>Nicolas</td>
+<td>1992-05-02</td>
+<td>1 Boulevard du 11 Novembre 1918, Villeurbanne</td>
+<td align="right">0948843291</td>
+<td>nsmijkil1775@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PRÜPPOR</td>
+<td>David</td>
+<td>1997-10-25</td>
+<td>1 Rue Marguerite, Villeurbanne</td>
+<td align="right">0570997857</td>
+<td>david.pruppor@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLACHO</td>
+<td>Arnaud</td>
+<td>1984-02-10</td>
+<td>20 Rue de Mulhouse, Villeurbanne</td>
+<td align="right">0646115380</td>
+<td>arnaud.blacho@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DAS SINTOS OLAVEIRA</td>
+<td>Kevin</td>
+<td>1985-03-13</td>
+<td>6 Rue Louis Mille, Villeurbanne</td>
+<td align="right">0600002075</td>
+<td>kevin.das-sintos-olaveira@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DO VERDELHON DES MALLES</td>
+<td>Philipp</td>
+<td>1994-04-23</td>
+<td>11 Rue de l'Epi de Ble, Villeurbanne</td>
+<td align="right">0990371670</td>
+<td>philipp.do-verdelhon-des-malles@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CHAMBEN</td>
+<td>Ghizlane</td>
+<td>1994-03-17</td>
+<td>8 Rue Prisca, Villeurbanne</td>
+<td align="right">0421046172</td>
+<td>gchamben704@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MIETA</td>
+<td>Zakaria</td>
+<td>1970-06-02</td>
+<td>18 Rue de la Doua, Villeurbanne</td>
+<td align="right">0611655116</td>
+<td>zakaria.mieta@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RIVERDY</td>
+<td>Romaric</td>
+<td>1987-11-02</td>
+<td>14 Rue Gabriel Peri, Villeurbanne</td>
+<td align="right">0325697819</td>
+<td>rriverdy@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLAQUIORE</td>
+<td>Etienne</td>
+<td>1984-02-19</td>
+<td>15 Rue Charles Gounod, Villeurbanne</td>
+<td align="right">0449799754</td>
+<td>eblaquiore6892@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HUONG</td>
+<td>Adrian Alejandro</td>
+<td>1988-01-06</td>
+<td>13 Rue Jean Bertin, Villeurbanne</td>
+<td align="right">0298347465</td>
+<td>adrian-alejandro.huong@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BONGAETXEO ORIONDO</td>
+<td>Grégory</td>
+<td>1987-06-07</td>
+<td>11 Rue de la Cloche, Villeurbanne</td>
+<td align="right">0332665451</td>
+<td>gregory.bongaetxeo-oriondo@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MICHABERT</td>
+<td>Othman</td>
+<td>1979-06-04</td>
+<td>18 Avenue du Général Leclerc, Villeurbanne</td>
+<td align="right">0337602851</td>
+<td>omichabert@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LE</td>
+<td>Lucas</td>
+<td>1977-08-15</td>
+<td>13 Rue de la Prairie, Villeurbanne</td>
+<td align="right">0251831904</td>
+<td>lle7900@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEDRY</td>
+<td>Stanislaw</td>
+<td>1996-05-04</td>
+<td>18 Rue Marcel Doret, Villeurbanne</td>
+<td align="right">0390950517</td>
+<td>stanislaw.sedry@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IGUEL FIRRER</td>
+<td>Berrenur</td>
+<td>1996-09-27</td>
+<td>8 Rue Guillotte, Villeurbanne</td>
+<td align="right">0837614647</td>
+<td>biguelfirrer1486@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>UNTIRBERGER</td>
+<td>Askarbek</td>
+<td>1989-05-20</td>
+<td>10 Rue de la Sainte Famille, Villeurbanne</td>
+<td align="right">0395883450</td>
+<td>askarbek.untirberger@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TAURNAAR</td>
+<td>Etienne</td>
+<td>1990-09-23</td>
+<td>19 Rue Charlie Chaplin, Villeurbanne</td>
+<td align="right">0528592368</td>
+<td>etaurnaar2340@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>KOÇOK</td>
+<td>Malin Johanna</td>
+<td>1985-02-03</td>
+<td>18 Rue de la Marne, Villeurbanne</td>
+<td align="right">0400517826</td>
+<td>malin-johanna.kocok@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OUTRIBON</td>
+<td>Archit</td>
+<td>1993-11-09</td>
+<td>9 Rue Mansard, Villeurbanne</td>
+<td align="right">0470279987</td>
+<td>archit.outribon@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CERANSAC</td>
+<td>Liisa Maria</td>
+<td>1975-08-09</td>
+<td>2 Rue Octavie, Villeurbanne</td>
+<td align="right">0543757146</td>
+<td>liisa-maria.ceransac@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OL MNEBHE</td>
+<td>Jordan</td>
+<td>1985-05-28</td>
+<td>2 Rue Louis Becker, Villeurbanne</td>
+<td align="right">0458808276</td>
+<td>jordan.ol-mnebhe@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BIURGAOIS</td>
+<td>Lourdes</td>
+<td>1974-11-10</td>
+<td>11 Impasse Richard, Villeurbanne</td>
+<td align="right">0399149427</td>
+<td>lourdes.biurgaois@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CHONA-MENG-HAME</td>
+<td>Eva</td>
+<td>1979-01-21</td>
+<td>6 Rue Louis Maynard, Villeurbanne</td>
+<td align="right">0209026740</td>
+<td>eva.chona-meng-hame@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>L'HANEFF</td>
+<td>Camille</td>
+<td>1981-05-03</td>
+<td>13 Rue de la Prevoyance, Villeurbanne</td>
+<td align="right">0664130096</td>
+<td>camille.l'haneff@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CALARA CORTES</td>
+<td>Quentin</td>
+<td>1986-08-02</td>
+<td>9 Rue de Mulhouse, Villeurbanne</td>
+<td align="right">0658303337</td>
+<td>quentin.calara-cortes@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOUCHOT</td>
+<td>Thai Hoang</td>
+<td>1996-12-28</td>
+<td>8 Rue Cyprian, Villeurbanne</td>
+<td align="right">0721173882</td>
+<td>tbouchot9432@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BESITELLA</td>
+<td>Cyrille</td>
+<td>1970-03-14</td>
+<td>20 Rue Georges Courteline, Villeurbanne</td>
+<td align="right">0983988492</td>
+<td>cyrille.besitella@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ILDH</td>
+<td>Ali</td>
+<td>1995-09-09</td>
+<td>12 Rue Francis Chirat, Villeurbanne</td>
+<td align="right">0991062077</td>
+<td>aildh2923@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SAARFECK</td>
+<td>Cédric</td>
+<td>1983-05-27</td>
+<td>18 Rue Valentin Hauy, Villeurbanne</td>
+<td align="right">0467862698</td>
+<td>cedric.saarfeck@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EGIOR</td>
+<td>Thibaud</td>
+<td>1995-04-13</td>
+<td>9 Rue Jean Baptiste Durand, Villeurbanne</td>
+<td align="right">0605332782</td>
+<td>thibaud.egior@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BUISSAN</td>
+<td>Chahinez</td>
+<td>1977-09-04</td>
+<td>9 Rue Paul Pechoux, Villeurbanne</td>
+<td align="right">0597016498</td>
+<td>cbuissan@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RUTTNIR</td>
+<td>Corentin</td>
+<td>1982-10-24</td>
+<td>12 Rue de Pierrefrite, Villeurbanne</td>
+<td align="right">0774927311</td>
+<td>corentin.ruttnir@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SIULORD</td>
+<td>Xavier</td>
+<td>1983-08-06</td>
+<td>2 Rue de la Jeunesse, Villeurbanne</td>
+<td align="right">0633869254</td>
+<td>xavier.siulord@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MORTON</td>
+<td>Yann</td>
+<td>1997-10-01</td>
+<td>9 Rue Paul Cambon, Villeurbanne</td>
+<td align="right">0709335674</td>
+<td>ymorton6384@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>REDIARE</td>
+<td>Ericka</td>
+<td>1977-01-30</td>
+<td>7 Rue Baudin, Villeurbanne</td>
+<td align="right">0348434977</td>
+<td>erediare@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>TUDASA</td>
+<td>Elodie</td>
+<td>1983-02-23</td>
+<td>18 Rue Mimi Pinson, Villeurbanne</td>
+<td align="right">0871030470</td>
+<td>etudasa5107@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BORRY</td>
+<td>Giuseppe</td>
+<td>1977-05-12</td>
+<td>13 Rue Christian de Wett, Villeurbanne</td>
+<td align="right">0774955819</td>
+<td>giuseppe.borry@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LEHSONI</td>
+<td>Nicolas</td>
+<td>1988-03-01</td>
+<td>17 Rue Deauville, Villeurbanne</td>
+<td align="right">0959900352</td>
+<td>nicolas.lehsoni@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PRÜPPAR</td>
+<td>Paulo</td>
+<td>1985-09-04</td>
+<td>2 Impasse du Boucheret, Villeurbanne</td>
+<td align="right">0251478375</td>
+<td>ppruppar@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>YONG</td>
+<td>Michaël</td>
+<td>1986-08-23</td>
+<td>13 Rue de l'Égalité, Villeurbanne</td>
+<td align="right">0753735876</td>
+<td>myong3924@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MORTONOZ HERNANDEZ</td>
+<td>Saâd</td>
+<td>1976-07-15</td>
+<td>15 Rue Pierre Louis Bernaix, Villeurbanne</td>
+<td align="right">0455882642</td>
+<td>saad.mortonoz-hernandez@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LOBAT</td>
+<td>Caroline</td>
+<td>1987-01-09</td>
+<td>3 Rue Bonnet, Villeurbanne</td>
+<td align="right">0854222956</td>
+<td>caroline.lobat@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FIRNIO</td>
+<td>Alberto</td>
+<td>1991-09-03</td>
+<td>15 Rue Baudin, Villeurbanne</td>
+<td align="right">0986592522</td>
+<td>afirnio6333@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIYFFRET</td>
+<td>Sébastien</td>
+<td>1988-12-30</td>
+<td>17 Boulevard Eugene Reguillon, Villeurbanne</td>
+<td align="right">0962513627</td>
+<td>smiyffret4749@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MAROIN</td>
+<td>Helena</td>
+<td>1984-09-23</td>
+<td>7 Avenue Monin, Villeurbanne</td>
+<td align="right">0437843124</td>
+<td>helena.maroin@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HOSNAS</td>
+<td>Sylvain</td>
+<td>1983-04-16</td>
+<td>9 Rue Jules Guesde, Villeurbanne</td>
+<td align="right">0770055060</td>
+<td>shosnas@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUBAURG</td>
+<td>Jeroen</td>
+<td>1971-03-05</td>
+<td>18 Rue Francis de Pressense, Villeurbanne</td>
+<td align="right">0923988806</td>
+<td>jdubaurg@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IOT-AOUDIA</td>
+<td>Thanh</td>
+<td>1996-07-12</td>
+<td>15 Rue du Professeur Émile Bouvier, Villeurbanne</td>
+<td align="right">0488211087</td>
+<td>tiot-aoudia@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>COTTAN</td>
+<td>Stefano</td>
+<td>1983-12-22</td>
+<td>1 Rue François Gillet, Villeurbanne</td>
+<td align="right">0795716084</td>
+<td>scottan5588@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MERALOS JIMENEZ</td>
+<td>Cédric</td>
+<td>1983-01-16</td>
+<td>11 Rue Général Dayan, Villeurbanne</td>
+<td align="right">0510036003</td>
+<td>cmeralosjimenez998@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>AUGENOA FERNANDEZ</td>
+<td>Nicolas</td>
+<td>1983-11-03</td>
+<td>5 Rue Poizat, Villeurbanne</td>
+<td align="right">0172819872</td>
+<td>nicolas.augenoa-fernandez@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BINDRISS</td>
+<td>Imane</td>
+<td>1990-11-28</td>
+<td>8 Rue Mauvert, Villeurbanne</td>
+<td align="right">0691879550</td>
+<td>ibindriss4245@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GAAGER</td>
+<td>Wael</td>
+<td>1984-03-17</td>
+<td>16 Impasse des Tilleuls, Villeurbanne</td>
+<td align="right">0928714459</td>
+<td>wael.gaager@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>APAROCII</td>
+<td>Timothée</td>
+<td>1993-09-22</td>
+<td>8 Rue Jean Zuber, Villeurbanne</td>
+<td align="right">0288157240</td>
+<td>taparocii9763@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MOSSENA</td>
+<td>Damien</td>
+<td>1987-04-23</td>
+<td>16 Place des Allobroges, Villeurbanne</td>
+<td align="right">0946332253</td>
+<td>dmossena8702@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DA BELLOBRE</td>
+<td>Guillaume</td>
+<td>1987-02-06</td>
+<td>14 Place des Allobroges, Villeurbanne</td>
+<td align="right">0175271345</td>
+<td>guillaume.da-bellobre@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HLEVACIK</td>
+<td>Paul</td>
+<td>1992-11-17</td>
+<td>11 Rue du Docteur Rollet, Villeurbanne</td>
+<td align="right">0735997484</td>
+<td>phlevacik@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JIINNAT</td>
+<td>Vincent</td>
+<td>1976-01-10</td>
+<td>10 Rue Marcel Dutartre, Villeurbanne</td>
+<td align="right">0110434957</td>
+<td>vincent.jiinnat@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BAURJADA</td>
+<td>Emilie</td>
+<td>1975-06-14</td>
+<td>4 Rue Marcel Dutartre, Villeurbanne</td>
+<td align="right">0990332158</td>
+<td>ebaurjada1268@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RARHAYE</td>
+<td>Damien</td>
+<td>1993-02-11</td>
+<td>18 Avenue Roberto Rossellini, Villeurbanne</td>
+<td align="right">0628324686</td>
+<td>drarhaye6070@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PERASCHOV</td>
+<td>Raluca</td>
+<td>1983-09-02</td>
+<td>20 Rue de la Cloche, Villeurbanne</td>
+<td align="right">0824284917</td>
+<td>rperaschov5759@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ILSHANBAYEV</td>
+<td>Aurélien</td>
+<td>1978-05-25</td>
+<td>19 Place Albert Thomas, Villeurbanne</td>
+<td align="right">0427501470</td>
+<td>aurelien.ilshanbayev@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NIYROT</td>
+<td>Olivier</td>
+<td>1970-07-19</td>
+<td>19 Rue Eugene Pottier, Villeurbanne</td>
+<td align="right">0629971241</td>
+<td>oniyrot562@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BLOQUEERE</td>
+<td>Pauline</td>
+<td>1983-09-02</td>
+<td>7 Cours Docteur Jean Damidot, Villeurbanne</td>
+<td align="right">0389988409</td>
+<td>pbloqueere@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GRINET</td>
+<td>Beatriz Esmeralda</td>
+<td>1987-03-03</td>
+<td>11 Rue Bellecombe, Villeurbanne</td>
+<td align="right">0274140087</td>
+<td>bgrinet267@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MACHABART</td>
+<td>Quentin</td>
+<td>1994-06-25</td>
+<td>4 Rue Charlie Chaplin, Villeurbanne</td>
+<td align="right">0600288439</td>
+<td>qmachabart@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GUTAARREZ ARTEGE</td>
+<td>Olivia</td>
+<td>1984-03-16</td>
+<td>1 Avenue Condorcet, Villeurbanne</td>
+<td align="right">0300132228</td>
+<td>olivia.gutaarrez-artege@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CAZARLA</td>
+<td>Fabrice</td>
+<td>1985-01-13</td>
+<td>13 Place des Maisons Neuves, Villeurbanne</td>
+<td align="right">0453691527</td>
+<td>fabrice.cazarla@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CIQUOT</td>
+<td>Sergiu</td>
+<td>1985-03-13</td>
+<td>20 Impasse Baconnier, Villeurbanne</td>
+<td align="right">0617870568</td>
+<td>sciquot@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LO BERRE</td>
+<td>Souad</td>
+<td>1977-11-03</td>
+<td>10 Impasse Million, Villeurbanne</td>
+<td align="right">0131129950</td>
+<td>sloberre4669@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FITAO MINIO</td>
+<td>Robert</td>
+<td>1983-08-06</td>
+<td>2 Rue Greuze, Villeurbanne</td>
+<td align="right">0885229374</td>
+<td>robert.fitao-minio@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HIRNOY</td>
+<td>Théo</td>
+<td>1975-09-05</td>
+<td>3 Rue Viret, Villeurbanne</td>
+<td align="right">0322874789</td>
+<td>theo.hirnoy@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BEAVIN</td>
+<td>Edouard</td>
+<td>1994-08-01</td>
+<td>1 Rue Léon Blum, Villeurbanne</td>
+<td align="right">0115258892</td>
+<td>edouard.beavin@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GIRTU</td>
+<td>Julien</td>
+<td>1971-10-09</td>
+<td>13 Rue Lancon, Villeurbanne</td>
+<td align="right">0951497239</td>
+<td>jgirtu@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOUDEN</td>
+<td>Leonardo</td>
+<td>1984-03-18</td>
+<td>4 Rue Marguerite, Villeurbanne</td>
+<td align="right">0195131533</td>
+<td>leonardo.gouden@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LIVEUGLE</td>
+<td>Jean-Etienne</td>
+<td>1978-02-21</td>
+<td>2 Place Jules Grandclement, Villeurbanne</td>
+<td align="right">0386492955</td>
+<td>jean-etienne.liveugle@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BACCENNAIR</td>
+<td>Alexis</td>
+<td>1991-05-27</td>
+<td>13 Rue René Prolongee, Villeurbanne</td>
+<td align="right">0283053601</td>
+<td>alexis.baccennair@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>JIB</td>
+<td>Adnane</td>
+<td>1989-09-28</td>
+<td>1 Avenue de Bel Air, Villeurbanne</td>
+<td align="right">0381477875</td>
+<td>adnane.jib@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>AL MANSOURE</td>
+<td>Estelle</td>
+<td>1988-12-13</td>
+<td>3 Rue des Muriers, Villeurbanne</td>
+<td align="right">0249683040</td>
+<td>ealmansoure5701@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TREVINA</td>
+<td>Jean-François</td>
+<td>1978-10-19</td>
+<td>10 Impasse des Moineaux, Villeurbanne</td>
+<td align="right">0406908744</td>
+<td>jean-francois.trevina@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>VOLLENUEVA GANZALEZ</td>
+<td>Oana-Maria</td>
+<td>1986-11-26</td>
+<td>13 Rue des Antonins, Villeurbanne</td>
+<td align="right">0197188046</td>
+<td>oana-maria.vollenueva-ganzalez@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FOLLMANN</td>
+<td>Simon</td>
+<td>1990-04-20</td>
+<td>20 Rue Louis Mille, Villeurbanne</td>
+<td align="right">0804522087</td>
+<td>simon.follmann@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EDROAN</td>
+<td>Guillaume</td>
+<td>1977-10-13</td>
+<td>19 Impasse Chatigny, Villeurbanne</td>
+<td align="right">0437605784</td>
+<td>gedroan@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EBID</td>
+<td>Corentin</td>
+<td>1976-06-19</td>
+<td>6 Cours Tolstoi, Villeurbanne</td>
+<td align="right">0659029367</td>
+<td>cebid4124@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RAESGI FERREIRO</td>
+<td>Yi Ming</td>
+<td>1989-05-23</td>
+<td>4 Rue Gérard Maire, Villeurbanne</td>
+<td align="right">0389747975</td>
+<td>yi-ming.raesgi-ferreiro@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LE</td>
+<td>Julien</td>
+<td>1975-07-20</td>
+<td>17 Impasse Pellet, Villeurbanne</td>
+<td align="right">0734983703</td>
+<td>jle@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WISTPHAL</td>
+<td>Thibaud</td>
+<td>1979-03-09</td>
+<td>15 Avenue Marc Sangnier, Villeurbanne</td>
+<td align="right">0877040986</td>
+<td>twistphal@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LITT</td>
+<td>Raphaël</td>
+<td>1997-07-07</td>
+<td>18 Rue de Bel Air, Villeurbanne</td>
+<td align="right">0755527086</td>
+<td>rlitt6371@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DESSINVILLI</td>
+<td>Arthur</td>
+<td>1975-03-05</td>
+<td>9 Rue du Luxembourg, Villeurbanne</td>
+<td align="right">0367778145</td>
+<td>arthur.dessinvilli@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FAULQUIIR</td>
+<td>Chao</td>
+<td>1995-08-28</td>
+<td>8 Rue Frédéric Fays, Villeurbanne</td>
+<td align="right">0237237201</td>
+<td>cfaulquiir5091@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SOMENNET</td>
+<td>Agnieszka</td>
+<td>1978-05-20</td>
+<td>16 Rue Marcel Dutartre, Villeurbanne</td>
+<td align="right">0618844948</td>
+<td>asomennet@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ROSENDE MOTTEALI</td>
+<td>Benjamin</td>
+<td>1990-12-29</td>
+<td>19 Impasse des Tilleuls, Villeurbanne</td>
+<td align="right">0898154591</td>
+<td>brosendemotteali5562@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OL MIUIHODINE</td>
+<td>Julien</td>
+<td>1971-09-12</td>
+<td>7 Avenue Marcel Cerdan, Villeurbanne</td>
+<td align="right">0842917125</td>
+<td>julien.ol-miuihodine@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RAVIL</td>
+<td>Franco Josué</td>
+<td>1990-01-07</td>
+<td>14 Rue Rhonat, Villeurbanne</td>
+<td align="right">0925849390</td>
+<td>fravil@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BUCH</td>
+<td>Faycal</td>
+<td>1991-04-10</td>
+<td>1 Rue de la Solidarite, Villeurbanne</td>
+<td align="right">0376972861</td>
+<td>faycal.buch@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BERBIT</td>
+<td>Sara</td>
+<td>1986-06-21</td>
+<td>13 Rue du Maréchal Foch, Villeurbanne</td>
+<td align="right">0724065657</td>
+<td>sberbit@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THOUNAY</td>
+<td>Yoann</td>
+<td>1973-11-05</td>
+<td>18 Rue de Milan, Villeurbanne</td>
+<td align="right">0113931450</td>
+<td>yoann.thounay@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEUMEALLIN</td>
+<td>Chongguang</td>
+<td>1983-11-19</td>
+<td>19 Rue Camille Koechlin, Villeurbanne</td>
+<td align="right">0919133655</td>
+<td>chongguang.seumeallin@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BANNIFFI-MOITY</td>
+<td>Julien</td>
+<td>1978-05-19</td>
+<td>7 Rue Clos Poncet, Villeurbanne</td>
+<td align="right">0809632933</td>
+<td>jbanniffi-moity@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NOFKHA</td>
+<td>Yvan</td>
+<td>1982-11-07</td>
+<td>12 Boulevard du 11 Novembre 1918, Villeurbanne</td>
+<td align="right">0495008146</td>
+<td>yvan.nofkha@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CIMPOURCY</td>
+<td>Faycal</td>
+<td>1985-01-09</td>
+<td>3 Rue Bonneterre, Villeurbanne</td>
+<td align="right">0388339067</td>
+<td>fcimpourcy8823@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CIRIE</td>
+<td>Pascal</td>
+<td>1995-06-25</td>
+<td>9 Rue Paul Pechoux, Villeurbanne</td>
+<td align="right">0795035242</td>
+<td>pascal.cirie@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOTT</td>
+<td>Édouard</td>
+<td>1985-03-04</td>
+<td>4 Avenue Marcel Cerdan, Villeurbanne</td>
+<td align="right">0214884314</td>
+<td>edouard.lott@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SONCHOZ</td>
+<td>Julien</td>
+<td>1987-05-03</td>
+<td>2 Rue Gustave Chamboeuf, Villeurbanne</td>
+<td align="right">0631754313</td>
+<td>jsonchoz@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CANQUELAAN</td>
+<td>Arnaud</td>
+<td>1981-05-27</td>
+<td>13 Rue du Maréchal Foch, Villeurbanne</td>
+<td align="right">0361542719</td>
+<td>acanquelaan@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOVY</td>
+<td>Samuel</td>
+<td>1983-10-11</td>
+<td>9 Allée des Enfants, Villeurbanne</td>
+<td align="right">0426018102</td>
+<td>slovy6465@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>IUTROBON</td>
+<td>Charline</td>
+<td>1996-12-20</td>
+<td>16 Rue Geoffray, Villeurbanne</td>
+<td align="right">0569912416</td>
+<td>charline.iutrobon@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ZEKI</td>
+<td>Haykel</td>
+<td>1973-09-16</td>
+<td>10 Rue des Lauriers, Villeurbanne</td>
+<td align="right">0377556896</td>
+<td>hzeki2508@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IBADIA</td>
+<td>Loïc</td>
+<td>1993-07-21</td>
+<td>17 Rue Lancon, Villeurbanne</td>
+<td align="right">0558583108</td>
+<td>libadia8131@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ACILLO</td>
+<td>Marc</td>
+<td>1983-08-05</td>
+<td>17 Avenue Condorcet, Villeurbanne</td>
+<td align="right">0838137259</td>
+<td>marc.acillo@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BERALLA</td>
+<td>Stéphane</td>
+<td>1991-09-13</td>
+<td>1 Rue Jean Baptiste Clement, Villeurbanne</td>
+<td align="right">0695590661</td>
+<td>sberalla2942@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>YIPDEEU</td>
+<td>Quentin</td>
+<td>1994-11-18</td>
+<td>18 Rue Bouchet, Villeurbanne</td>
+<td align="right">0331717483</td>
+<td>qyipdeeu3946@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RIMEGNINO</td>
+<td>Khalil</td>
+<td>1995-08-06</td>
+<td>10 Rue Faillebin, Villeurbanne</td>
+<td align="right">0517056302</td>
+<td>krimegnino@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TULIUP</td>
+<td>Pierre-François</td>
+<td>1978-07-09</td>
+<td>10 Rue Branly, Villeurbanne</td>
+<td align="right">0580589861</td>
+<td>ptuliup5329@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NEHEL</td>
+<td>Michaël</td>
+<td>1995-01-17</td>
+<td>8 Rue Burais, Villeurbanne</td>
+<td align="right">0855441470</td>
+<td>michael.nehel@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GABILDA</td>
+<td>Criti</td>
+<td>1990-07-01</td>
+<td>18 Rue de la Cooperative, Villeurbanne</td>
+<td align="right">0293503085</td>
+<td>cgabilda2970@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CLOCHAR</td>
+<td>Eléonore</td>
+<td>1985-06-24</td>
+<td>5 Rue Branly, Villeurbanne</td>
+<td align="right">0673073109</td>
+<td>eclochar@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SVORIVSKY</td>
+<td>Moncef</td>
+<td>1975-05-21</td>
+<td>20 Rue de la Solidarite, Villeurbanne</td>
+<td align="right">0822409457</td>
+<td>msvorivsky@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EBAENOU</td>
+<td>Sylvain</td>
+<td>1994-10-01</td>
+<td>2 Rue Louis Malle, Villeurbanne</td>
+<td align="right">0905102869</td>
+<td>sebaenou@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>TCHOUMOKOVA</td>
+<td>Souad</td>
+<td>1985-09-06</td>
+<td>11 Rue de la Doua, Villeurbanne</td>
+<td align="right">0187043658</td>
+<td>souad.tchoumokova@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MILLADA QUONTANA</td>
+<td>Jacques</td>
+<td>1981-06-17</td>
+<td>5 Rue Léon Fabre, Villeurbanne</td>
+<td align="right">0202655088</td>
+<td>jmilladaquontana2500@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OBADEA</td>
+<td>Félicien</td>
+<td>1971-11-26</td>
+<td>3 Rue du Canada, Villeurbanne</td>
+<td align="right">0237870738</td>
+<td>felicien.obadea@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BARNERD</td>
+<td>Charlotte</td>
+<td>1985-09-15</td>
+<td>19 Place des Maisons Neuves, Villeurbanne</td>
+<td align="right">0850964230</td>
+<td>cbarnerd612@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MIRIC</td>
+<td>Jessica</td>
+<td>1983-12-10</td>
+<td>13 Rue Hector Berlioz, Villeurbanne</td>
+<td align="right">0232539272</td>
+<td>jmiric362@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MARACHAL</td>
+<td>Jean</td>
+<td>1982-04-04</td>
+<td>14 Rue Anatole France, Villeurbanne</td>
+<td align="right">0727603851</td>
+<td>jean.marachal@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUGUA</td>
+<td>Houcem</td>
+<td>1972-01-17</td>
+<td>3 Rue Victor Basch, Villeurbanne</td>
+<td align="right">0846586417</td>
+<td>hdugua6238@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ALTOR</td>
+<td>Lan</td>
+<td>1983-04-22</td>
+<td>1 Rue du Roulet, Villeurbanne</td>
+<td align="right">0161955449</td>
+<td>laltor@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BEEUVAOS</td>
+<td>Henrique</td>
+<td>1989-08-07</td>
+<td>1 Rue de la Ligne de l'Est, Villeurbanne</td>
+<td align="right">0197343414</td>
+<td>henrique.beeuvaos@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HIPEAK</td>
+<td>François</td>
+<td>1994-06-26</td>
+<td>7 Rue Colin, Villeurbanne</td>
+<td align="right">0424904979</td>
+<td>fhipeak@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>KNOUER</td>
+<td>Sarah</td>
+<td>1986-04-19</td>
+<td>14 Rue Lazare Drut, Villeurbanne</td>
+<td align="right">0119532486</td>
+<td>sknouer1758@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GERCEA LIMON</td>
+<td>Cédric</td>
+<td>1974-05-17</td>
+<td>8 Rue Léon Blum, Villeurbanne</td>
+<td align="right">0588343668</td>
+<td>cedric.gercea-limon@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TELLINOERE</td>
+<td>Sven</td>
+<td>1972-08-11</td>
+<td>4 Rue du Port, Villeurbanne</td>
+<td align="right">0115692455</td>
+<td>sven.tellinoere@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HIU</td>
+<td>Nicolas</td>
+<td>1980-08-10</td>
+<td>6 Rue de Bel Air, Villeurbanne</td>
+<td align="right">0968590790</td>
+<td>nhiu8202@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>XHOMBULLA</td>
+<td>Mathieu</td>
+<td>1971-08-13</td>
+<td>6 Allée des Cèdres, Villeurbanne</td>
+<td align="right">0840663607</td>
+<td>mathieu.xhombulla@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FALICES</td>
+<td>Radu</td>
+<td>1981-03-12</td>
+<td>6 Boulevard Niels Bohr, Villeurbanne</td>
+<td align="right">0800515073</td>
+<td>radu.falices@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHOHBOUN</td>
+<td>Florian</td>
+<td>1983-05-10</td>
+<td>17 Rue Pierre Louis Bernaix, Villeurbanne</td>
+<td align="right">0828984317</td>
+<td>fchohboun3141@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OSPERAT</td>
+<td>Vincent</td>
+<td>1994-03-31</td>
+<td>20 Rue Jean Novel, Villeurbanne</td>
+<td align="right">0424082938</td>
+<td>vincent.osperat@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SCHULTZ</td>
+<td>Joachim</td>
+<td>1993-06-05</td>
+<td>9 Rue Paul Verlaine, Villeurbanne</td>
+<td align="right">0146860327</td>
+<td>jschultz9715@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BERD</td>
+<td>Etienne</td>
+<td>1985-03-26</td>
+<td>15 Rue Raspail, Villeurbanne</td>
+<td align="right">0496879142</td>
+<td>eberd1830@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ARTOGON</td>
+<td>Guilhem</td>
+<td>1988-11-18</td>
+<td>4 Rue Joseph Gillet, Villeurbanne</td>
+<td align="right">0527638049</td>
+<td>guilhem.artogon@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EAN</td>
+<td>Paul-Rémi</td>
+<td>1988-10-22</td>
+<td>3 Avenue Antoine de Saint Exupery, Villeurbanne</td>
+<td align="right">0931349079</td>
+<td>paul-remi.ean@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VILLIUD</td>
+<td>Jonathan</td>
+<td>1983-02-22</td>
+<td>7 Impasse Richard, Villeurbanne</td>
+<td align="right">0605446370</td>
+<td>jonathan.villiud@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JESSENET</td>
+<td>Thomas</td>
+<td>1975-08-07</td>
+<td>12 Rue du Vert Buisson, Villeurbanne</td>
+<td align="right">0275101263</td>
+<td>thomas.jessenet@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLICH</td>
+<td>Cédric</td>
+<td>1985-02-01</td>
+<td>12 Rue de Milan, Villeurbanne</td>
+<td align="right">0485298577</td>
+<td>cedric.blich@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FRANZATTO</td>
+<td>Michaël</td>
+<td>1987-08-18</td>
+<td>13 Rue du Canada, Villeurbanne</td>
+<td align="right">0329289373</td>
+<td>michael.franzatto@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DOS SONTOS OLOVOIRA</td>
+<td>Marc</td>
+<td>1972-12-11</td>
+<td>14 Rue George Sand, Villeurbanne</td>
+<td align="right">0127992527</td>
+<td>mdossontosolovoira@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHIVELOER</td>
+<td>Deborah</td>
+<td>1986-10-23</td>
+<td>18 Rue Lancon, Villeurbanne</td>
+<td align="right">0385385931</td>
+<td>dchiveloer@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PERCEVOL</td>
+<td>Roman</td>
+<td>1994-04-28</td>
+<td>6 Rue Georges Courteline, Villeurbanne</td>
+<td align="right">0166619916</td>
+<td>rpercevol@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LHUOLIIR</td>
+<td>Stéfan</td>
+<td>1984-08-15</td>
+<td>2 Rue de Pierrefrite, Villeurbanne</td>
+<td align="right">0205642785</td>
+<td>slhuoliir3829@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CAUMOC</td>
+<td>Moises</td>
+<td>1984-07-13</td>
+<td>9 Rue des Bons Amis, Villeurbanne</td>
+<td align="right">0189761012</td>
+<td>mcaumoc@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HICHÉ</td>
+<td>Emmanuel</td>
+<td>1986-04-08</td>
+<td>18 Allée Buster Keaton, Villeurbanne</td>
+<td align="right">0580147013</td>
+<td>ehiche@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BRACHTI</td>
+<td>Grégoire</td>
+<td>1996-01-11</td>
+<td>12 Rue de la Poudrette, Villeurbanne</td>
+<td align="right">0260333171</td>
+<td>gbrachti3189@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SMAJKEL</td>
+<td>Cédric</td>
+<td>1990-08-03</td>
+<td>4 Avenue Ampère, Villeurbanne</td>
+<td align="right">0625293226</td>
+<td>csmajkel8698@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JUNIAT</td>
+<td>Rémi</td>
+<td>1970-01-04</td>
+<td>16 Rue Marguerite, Villeurbanne</td>
+<td align="right">0391811199</td>
+<td>remi.juniat@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DOHBI</td>
+<td>Juan Gabriel</td>
+<td>1980-04-20</td>
+<td>10 Rue Charles Montaland, Villeurbanne</td>
+<td align="right">0589501232</td>
+<td>jdohbi7414@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GUOGUEN</td>
+<td>Gabriela</td>
+<td>1994-08-21</td>
+<td>14 Rue Baudin, Villeurbanne</td>
+<td align="right">0719843316</td>
+<td>gguoguen2418@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KAORNIN</td>
+<td>Simon</td>
+<td>1984-02-16</td>
+<td>12 Rue Docteur Frappaz, Villeurbanne</td>
+<td align="right">0491717118</td>
+<td>skaornin@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GELON</td>
+<td>Gwenaël</td>
+<td>1973-10-20</td>
+<td>8 Rue du 8 Mai 1945, Villeurbanne</td>
+<td align="right">0539585458</td>
+<td>gwenael.gelon@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIUZOD</td>
+<td>Franco</td>
+<td>1982-10-30</td>
+<td>18 Rue Louis Guerin, Villeurbanne</td>
+<td align="right">0331542321</td>
+<td>franco.biuzod@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MENNAT</td>
+<td>Antoine</td>
+<td>1993-06-25</td>
+<td>3 Rue Jean Voillot, Villeurbanne</td>
+<td align="right">0637462956</td>
+<td>antoine.mennat@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOCOUR</td>
+<td>Stéfan</td>
+<td>1974-05-21</td>
+<td>7 Rue Victor Hugo, Villeurbanne</td>
+<td align="right">0449030306</td>
+<td>slocour@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SIELLY</td>
+<td>Lionel</td>
+<td>1978-12-01</td>
+<td>13 Rue Marteret, Villeurbanne</td>
+<td align="right">0985571945</td>
+<td>lionel.sielly@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FARRER</td>
+<td>Cheng</td>
+<td>1986-10-02</td>
+<td>6 Boulevard Eugene Reguillon, Villeurbanne</td>
+<td align="right">0752288283</td>
+<td>cheng.farrer@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VAL</td>
+<td>Maricel</td>
+<td>1989-10-02</td>
+<td>12 Rue Florian, Villeurbanne</td>
+<td align="right">0966699636</td>
+<td>maricel.val@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAUNEER-DESPINS</td>
+<td>Benoît</td>
+<td>1976-10-18</td>
+<td>12 Rue Abbe A Firmin, Villeurbanne</td>
+<td align="right">0291699944</td>
+<td>benoit.mauneer-despins@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HERNENDEZ</td>
+<td>Vincent</td>
+<td>1996-06-27</td>
+<td>6 Rue de la Ligne de l'Est, Villeurbanne</td>
+<td align="right">0441564193</td>
+<td>vhernendez@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LIW</td>
+<td>Denis</td>
+<td>1994-09-01</td>
+<td>13 Impasse Pellet, Villeurbanne</td>
+<td align="right">0384221431</td>
+<td>denis.liw@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GAUTEIR</td>
+<td>Hubert</td>
+<td>1986-05-05</td>
+<td>19 Rue de l'Avenir, Villeurbanne</td>
+<td align="right">0456572208</td>
+<td>hgauteir@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NGUYON</td>
+<td>Franco Josué</td>
+<td>1985-12-02</td>
+<td>14 Allée Marcel Achard, Villeurbanne</td>
+<td align="right">0324674500</td>
+<td>franco-josue.nguyon@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZHANG</td>
+<td>Olivier</td>
+<td>1991-06-25</td>
+<td>14 Rue Alfred de Musset, Villeurbanne</td>
+<td align="right">0525699547</td>
+<td>olivier.zhang@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUBEST</td>
+<td>Clément</td>
+<td>1990-02-06</td>
+<td>5 Impasse du Progres, Villeurbanne</td>
+<td align="right">0929417871</td>
+<td>cdubest@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HU</td>
+<td>Emmanuel</td>
+<td>1992-04-10</td>
+<td>15 Rue Severine, Villeurbanne</td>
+<td align="right">0230821131</td>
+<td>emmanuel.hu@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>FALLMINN</td>
+<td>Jia-Jing</td>
+<td>1976-05-18</td>
+<td>4 Rue Louis Becker, Villeurbanne</td>
+<td align="right">0800849412</td>
+<td>jfallminn@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WEOLLOERT</td>
+<td>Quentin</td>
+<td>1975-09-25</td>
+<td>13 Rue Millon, Villeurbanne</td>
+<td align="right">0654058404</td>
+<td>quentin.weolloert@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RECE REGA</td>
+<td>Simon</td>
+<td>1970-02-14</td>
+<td>14 Rue de la Somme, Villeurbanne</td>
+<td align="right">0649669405</td>
+<td>simon.rece-rega@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOUBER</td>
+<td>Marc</td>
+<td>1988-09-15</td>
+<td>18 Rue Billon, Villeurbanne</td>
+<td align="right">0119149129</td>
+<td>marc.louber@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DIES ARAUJI</td>
+<td>Juan Gabriel</td>
+<td>1982-06-16</td>
+<td>7 Rue Baudin, Villeurbanne</td>
+<td align="right">0673919121</td>
+<td>juan-gabriel.dies-arauji@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MOUNAER</td>
+<td>André</td>
+<td>1980-11-14</td>
+<td>13 Rue Malherbe, Villeurbanne</td>
+<td align="right">0428402619</td>
+<td>amounaer8064@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VIRKKUNIN</td>
+<td>Berrenur</td>
+<td>1993-01-06</td>
+<td>17 Rue Paul Gojon, Villeurbanne</td>
+<td align="right">0152564457</td>
+<td>berrenur.virkkunin@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DIGHMI</td>
+<td>Mohamed</td>
+<td>1982-12-09</td>
+<td>17 Rue Henri Rolland, Villeurbanne</td>
+<td align="right">0198707397</td>
+<td>mdighmi@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOURGOON</td>
+<td>Christophe</td>
+<td>1990-12-26</td>
+<td>19 Rue Frédéric Mistral, Villeurbanne</td>
+<td align="right">0211125473</td>
+<td>cgourgoon7028@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LEU</td>
+<td>Guilhem</td>
+<td>1986-10-27</td>
+<td>9 Rue de la Famille, Villeurbanne</td>
+<td align="right">0270577409</td>
+<td>gleu2545@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>KNEUIR</td>
+<td>Florine</td>
+<td>1995-12-09</td>
+<td>13 Rue du Docteur Ollier, Villeurbanne</td>
+<td align="right">0688598765</td>
+<td>florine.kneuir@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>YENG</td>
+<td>Mohamed</td>
+<td>1978-07-31</td>
+<td>1 Rue Jean Ottavi, Villeurbanne</td>
+<td align="right">0474251114</td>
+<td>mohamed.yeng@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MARTENOZ ANAYA</td>
+<td>Pierre-François</td>
+<td>1993-02-22</td>
+<td>15 Rue Yvonne Chanu, Villeurbanne</td>
+<td align="right">0507649036</td>
+<td>pmartenozanaya5561@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>AL GHERBA</td>
+<td>Anis</td>
+<td>1980-01-02</td>
+<td>6 Rue Louis Jarnet, Villeurbanne</td>
+<td align="right">0384453658</td>
+<td>aalgherba3179@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EDREAN</td>
+<td>Jérémy</td>
+<td>1997-07-27</td>
+<td>11 Rue Denis Papin, Villeurbanne</td>
+<td align="right">0375103175</td>
+<td>jedrean@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GRONDAS</td>
+<td>Olivier</td>
+<td>1982-10-21</td>
+<td>14 Avenue Salvador Allende, Villeurbanne</td>
+<td align="right">0507270127</td>
+<td>olivier.grondas@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ISTANOVE</td>
+<td>Yary</td>
+<td>1997-01-30</td>
+<td>16 Impasse Henri, Villeurbanne</td>
+<td align="right">0684206522</td>
+<td>yary.istanove@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DEAURI</td>
+<td>Dorian</td>
+<td>1984-07-28</td>
+<td>5 Rue Gabriel Peri, Villeurbanne</td>
+<td align="right">0257699197</td>
+<td>dorian.deauri@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DO SAUZE ALMEEDA</td>
+<td>Rémi</td>
+<td>1994-04-01</td>
+<td>14 Impasse du Boucheret, Villeurbanne</td>
+<td align="right">0670322059</td>
+<td>remi.do-sauze-almeeda@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NICHALL</td>
+<td>Cédric</td>
+<td>1989-07-21</td>
+<td>14 Impasse Bourgchanin, Villeurbanne</td>
+<td align="right">0860062886</td>
+<td>cnichall8966@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PIREZ</td>
+<td>Julien</td>
+<td>1988-09-29</td>
+<td>7 Rue Max Barel, Villeurbanne</td>
+<td align="right">0169835724</td>
+<td>julien.pirez@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MITOGET</td>
+<td>Ziqing</td>
+<td>1984-03-20</td>
+<td>16 Rue Bergonier, Villeurbanne</td>
+<td align="right">0587754642</td>
+<td>ziqing.mitoget@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>REUCHON</td>
+<td>Yassir</td>
+<td>1985-06-18</td>
+<td>10 Rue du Dr Pierre Fleury Papillon, Villeurbanne</td>
+<td align="right">0400753106</td>
+<td>yassir.reuchon@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>HILLE</td>
+<td>Xiao Jing</td>
+<td>1978-06-12</td>
+<td>11 Rue Jean Ottavi, Villeurbanne</td>
+<td align="right">0576192397</td>
+<td>xhille4466@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CORRADOR JEREZ</td>
+<td>Estelle</td>
+<td>1994-06-20</td>
+<td>2 Rue Monge, Villeurbanne</td>
+<td align="right">0973670728</td>
+<td>ecorradorjerez@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DONODIO GALVIS</td>
+<td>Yaelle</td>
+<td>1980-09-29</td>
+<td>5 Allée Marcel Achard, Villeurbanne</td>
+<td align="right">0671150503</td>
+<td>yaelle.donodio-galvis@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PROL</td>
+<td>Sara</td>
+<td>1994-05-28</td>
+<td>4 Rue Lakanal, Villeurbanne</td>
+<td align="right">0875538836</td>
+<td>sara.prol@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EBADEE</td>
+<td>Federico</td>
+<td>1974-03-02</td>
+<td>9 Rue Louis Adam, Villeurbanne</td>
+<td align="right">0883618400</td>
+<td>febadee@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BILLEFLEUR</td>
+<td>Sheng</td>
+<td>1984-04-02</td>
+<td>7 Rue Colin, Villeurbanne</td>
+<td align="right">0754361528</td>
+<td>sbillefleur7233@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MAGNON-RIBIRT</td>
+<td>Lucia</td>
+<td>1978-01-08</td>
+<td>4 Rue Lafontaine, Villeurbanne</td>
+<td align="right">0480302624</td>
+<td>lucia.magnon-ribirt@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DESSINVELLE</td>
+<td>Lilian</td>
+<td>1994-12-12</td>
+<td>20 Rue Lakanal, Villeurbanne</td>
+<td align="right">0810311655</td>
+<td>lilian.dessinvelle@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GAGUILLOT</td>
+<td>Sheng</td>
+<td>1971-08-16</td>
+<td>4 Avenue Aristide Briand, Villeurbanne</td>
+<td align="right">0191732652</td>
+<td>sgaguillot6009@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RACHORD</td>
+<td>Adil</td>
+<td>1984-10-17</td>
+<td>18 Allée du Couchant, Villeurbanne</td>
+<td align="right">0516715601</td>
+<td>arachord1676@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FITIO MINAO</td>
+<td>Wissal</td>
+<td>1991-11-29</td>
+<td>15 Allée Louis Pergaud, Villeurbanne</td>
+<td align="right">0443922929</td>
+<td>wfitiominao6901@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THEVENEUX</td>
+<td>Dimitar</td>
+<td>1992-05-19</td>
+<td>18 Rue Abbe A Firmin, Villeurbanne</td>
+<td align="right">0482814762</td>
+<td>dtheveneux@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ESTOJO-STARZOWSKI</td>
+<td>Laura</td>
+<td>1991-02-10</td>
+<td>17 Rue Marcel Dutartre, Villeurbanne</td>
+<td align="right">0608029281</td>
+<td>laura.estojo-starzowski@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CISTOA</td>
+<td>Romaric</td>
+<td>1983-07-08</td>
+<td>11 Rue Charrin, Villeurbanne</td>
+<td align="right">0694781571</td>
+<td>rcistoa@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RECIRD</td>
+<td>Steeve</td>
+<td>1994-04-07</td>
+<td>2 Rue Deauville, Villeurbanne</td>
+<td align="right">0746693118</td>
+<td>srecird7840@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>COO</td>
+<td>Sannine</td>
+<td>1992-08-05</td>
+<td>9 Rue Frédéric Passy, Villeurbanne</td>
+<td align="right">0207956800</td>
+<td>sannine.coo@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EXBROYAT</td>
+<td>Benoit</td>
+<td>1994-11-03</td>
+<td>3 Rue Poizat, Villeurbanne</td>
+<td align="right">0497827169</td>
+<td>benoit.exbroyat@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LAE</td>
+<td>Jonathan</td>
+<td>1984-05-26</td>
+<td>10 Rue Alexis Perroncel, Villeurbanne</td>
+<td align="right">0864224571</td>
+<td>jlae7438@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GRONGI-PRADERAS</td>
+<td>Vincent</td>
+<td>1993-12-25</td>
+<td>2 Rue de l'Epi de Ble, Villeurbanne</td>
+<td align="right">0860662022</td>
+<td>vincent.grongi-praderas@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VINDAMMI</td>
+<td>Florian</td>
+<td>1994-03-07</td>
+<td>1 Avenue Antoine Dutrievoz, Villeurbanne</td>
+<td align="right">0521551670</td>
+<td>fvindammi@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>OGOOR</td>
+<td>Julia</td>
+<td>1990-06-17</td>
+<td>19 Allée du Levant, Villeurbanne</td>
+<td align="right">0373658817</td>
+<td>jogoor381@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DI SEUZA ALMEEDA</td>
+<td>Bo</td>
+<td>1976-12-23</td>
+<td>18 Rue de l'Union, Villeurbanne</td>
+<td align="right">0765512267</td>
+<td>bo.di-seuza-almeeda@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MULLIR</td>
+<td>Andréi</td>
+<td>1983-11-21</td>
+<td>16 Petite Rue de la Viabert, Villeurbanne</td>
+<td align="right">0940391365</td>
+<td>andrei.mullir@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DIIURI</td>
+<td>Andra</td>
+<td>1993-12-21</td>
+<td>4 Rue François Mole, Villeurbanne</td>
+<td align="right">0464138303</td>
+<td>andra.diiuri@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TIMEBO LEUKAM</td>
+<td>Cédric</td>
+<td>1987-04-05</td>
+<td>9 Place des Maisons Neuves, Villeurbanne</td>
+<td align="right">0125837865</td>
+<td>cedric.timebo-leukam@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BLONCHARD</td>
+<td>Elwing</td>
+<td>1995-06-29</td>
+<td>3 Boulevard Honore de Balzac, Villeurbanne</td>
+<td align="right">0389434546</td>
+<td>elwing.blonchard@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOYLE</td>
+<td>Aymeric</td>
+<td>1996-07-07</td>
+<td>5 Rue de l'Epi de Ble, Villeurbanne</td>
+<td align="right">0659345674</td>
+<td>aymeric.boyle@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIDEINI</td>
+<td>Quoc-Duy-Tam</td>
+<td>1977-09-24</td>
+<td>10 Rue des Roses, Villeurbanne</td>
+<td align="right">0583802176</td>
+<td>qmideini9322@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHAUERD</td>
+<td>Raphaël</td>
+<td>1991-03-03</td>
+<td>18 Rue du Marais, Villeurbanne</td>
+<td align="right">0203487770</td>
+<td>raphael.chauerd@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BELLERD</td>
+<td>Thomas</td>
+<td>1995-01-05</td>
+<td>4 Rue Songieu, Villeurbanne</td>
+<td align="right">0719764273</td>
+<td>thomas.bellerd@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IRNOULD</td>
+<td>Arnaud</td>
+<td>1992-06-10</td>
+<td>16 Rue Songieu, Villeurbanne</td>
+<td align="right">0193672965</td>
+<td>arnaud.irnould@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FEUDAT</td>
+<td>Timothée</td>
+<td>1975-05-09</td>
+<td>12 Rue Jean Ottavi, Villeurbanne</td>
+<td align="right">0453089315</td>
+<td>tfeudat@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KNEUOR</td>
+<td>Vincent</td>
+<td>1983-02-14</td>
+<td>16 Rue George Sand, Villeurbanne</td>
+<td align="right">0439313230</td>
+<td>vkneuor5638@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MEUHSINE</td>
+<td>Christopher</td>
+<td>1975-09-17</td>
+<td>2 Rue Sully Prudhomme, Villeurbanne</td>
+<td align="right">0852540241</td>
+<td>christopher.meuhsine@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZONTIDESCHI</td>
+<td>Franck</td>
+<td>1984-03-06</td>
+<td>19 Rue Robert Desnos, Villeurbanne</td>
+<td align="right">0505054011</td>
+<td>fzontideschi@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SEBOTTA</td>
+<td>Sara</td>
+<td>1984-03-18</td>
+<td>12 Rue Colin, Villeurbanne</td>
+<td align="right">0640741576</td>
+<td>ssebotta@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUOLLEU</td>
+<td>Benoît</td>
+<td>1972-08-04</td>
+<td>4 Impasse Buyet, Villeurbanne</td>
+<td align="right">0732439601</td>
+<td>bguolleu8391@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>XHIMBULLI</td>
+<td>Romain</td>
+<td>1991-10-30</td>
+<td>18 Place de la Paix, Villeurbanne</td>
+<td align="right">0878049092</td>
+<td>romain.xhimbulli@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ASCENDELL</td>
+<td>Rebeca</td>
+<td>1971-02-21</td>
+<td>8 Rue des Peupliers, Villeurbanne</td>
+<td align="right">0388517513</td>
+<td>rascendell426@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MORON</td>
+<td>Benoît</td>
+<td>1990-09-18</td>
+<td>1 Impasse Guillet, Villeurbanne</td>
+<td align="right">0227417979</td>
+<td>benoit.moron@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DURINTIN</td>
+<td>Ao Chen</td>
+<td>1971-08-15</td>
+<td>6 Rue de Mulhouse, Villeurbanne</td>
+<td align="right">0759580715</td>
+<td>ao-chen.durintin@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PANTOA</td>
+<td>Cheng</td>
+<td>1980-02-26</td>
+<td>18 Rue Jean Baptiste Durand, Villeurbanne</td>
+<td align="right">0829836629</td>
+<td>cheng.pantoa@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SONCHOZ</td>
+<td>Yannick</td>
+<td>1989-12-26</td>
+<td>8 Impasse du Progres, Villeurbanne</td>
+<td align="right">0680077655</td>
+<td>yannick.sonchoz@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LEUVIL</td>
+<td>Christophe</td>
+<td>1971-02-24</td>
+<td>18 Rue Francis Chirat, Villeurbanne</td>
+<td align="right">0670392218</td>
+<td>cleuvil@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEALLY</td>
+<td>Jacques</td>
+<td>1979-10-22</td>
+<td>12 Rue Georges Clemenceau, Villeurbanne</td>
+<td align="right">0932134041</td>
+<td>jacques.seally@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FOGNE</td>
+<td>Nicolas</td>
+<td>1994-08-16</td>
+<td>13 Rue du Tonkin, Villeurbanne</td>
+<td align="right">0742710078</td>
+<td>nfogne@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PITTIT</td>
+<td>Victor</td>
+<td>1997-11-30</td>
+<td>14 Rue Émile Decorps, Villeurbanne</td>
+<td align="right">0515124623</td>
+<td>vpittit1463@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CILLAVO</td>
+<td>Stéphane</td>
+<td>1987-08-29</td>
+<td>8 Rue du Docteur Rollet, Villeurbanne</td>
+<td align="right">0245892231</td>
+<td>stephane.cillavo@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>REVEL</td>
+<td>Lionel</td>
+<td>1988-01-03</td>
+<td>6 Rue Paul Lafargue, Villeurbanne</td>
+<td align="right">0115768543</td>
+<td>lrevel@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MEROAT</td>
+<td>Ziqing</td>
+<td>1994-06-01</td>
+<td>14 Rue Châteaubriand, Villeurbanne</td>
+<td align="right">0929543163</td>
+<td>ziqing.meroat@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LABROOT</td>
+<td>Damien</td>
+<td>1986-08-28</td>
+<td>7 Impasse Fontanieres, Villeurbanne</td>
+<td align="right">0264765460</td>
+<td>dlabroot7750@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLAM</td>
+<td>Jonathan</td>
+<td>1986-01-13</td>
+<td>15 Impasse des Tilleuls, Villeurbanne</td>
+<td align="right">0280000647</td>
+<td>jblam5763@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BERBAUD</td>
+<td>Alexis</td>
+<td>1997-06-03</td>
+<td>11 Rue des Bluets, Villeurbanne</td>
+<td align="right">0716321008</td>
+<td>alexis.berbaud@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>POREZ</td>
+<td>Adrian Constantin</td>
+<td>1988-07-04</td>
+<td>1 Rue Flachet, Villeurbanne</td>
+<td align="right">0468726231</td>
+<td>aporez2392@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KLENGSHEIM</td>
+<td>Hugo</td>
+<td>1994-10-03</td>
+<td>19 Rue Jean Voillot, Villeurbanne</td>
+<td align="right">0946742114</td>
+<td>hklengsheim@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOLHODJ AASSA</td>
+<td>Xavier</td>
+<td>1989-01-15</td>
+<td>2 Rue de la Serenite, Villeurbanne</td>
+<td align="right">0432057857</td>
+<td>xavier.bolhodj-aassa@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAUZALO</td>
+<td>Samuel</td>
+<td>1983-02-07</td>
+<td>19 Rue de la Liberté, Villeurbanne</td>
+<td align="right">0488544283</td>
+<td>samuel.mauzalo@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RUTTNIR</td>
+<td>Ji Seong</td>
+<td>1993-11-19</td>
+<td>2 Rue Gérard Maire, Villeurbanne</td>
+<td align="right">0132037960</td>
+<td>jruttnir@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MARTONS</td>
+<td>Mustafa</td>
+<td>1991-04-26</td>
+<td>20 Rue Branly, Villeurbanne</td>
+<td align="right">0579691602</td>
+<td>mmartons@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CIRDONA PONCI</td>
+<td>Sébastien</td>
+<td>1991-04-01</td>
+<td>18 Rue Flachet, Villeurbanne</td>
+<td align="right">0709931810</td>
+<td>scirdonaponci@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JALAVEOU</td>
+<td>Julien</td>
+<td>1994-01-30</td>
+<td>10 Rue Abbe A Firmin, Villeurbanne</td>
+<td align="right">0924648407</td>
+<td>jjalaveou6289@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SAGHBONY</td>
+<td>Arthur</td>
+<td>1988-10-05</td>
+<td>4 Rue du Professeur Calmette, Villeurbanne</td>
+<td align="right">0613063880</td>
+<td>asaghbony3004@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAROET</td>
+<td>Antoine</td>
+<td>1986-04-04</td>
+<td>4 Impasse Lafontaine, Villeurbanne</td>
+<td align="right">0862271654</td>
+<td>antoine.maroet@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PIREVERTEYLA</td>
+<td>Sylvain Alexandre</td>
+<td>1984-06-27</td>
+<td>18 Rue de la Convention, Villeurbanne</td>
+<td align="right">0655582339</td>
+<td>sylvain-alexandre.pireverteyla@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FREUJY</td>
+<td>Cyril</td>
+<td>1972-10-29</td>
+<td>3 Place des Maisons Neuves, Villeurbanne</td>
+<td align="right">0138396880</td>
+<td>cfreujy4581@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>JENAL</td>
+<td>Katharina</td>
+<td>1991-03-22</td>
+<td>3 Rue Victor Subit, Villeurbanne</td>
+<td align="right">0867110884</td>
+<td>katharina.jenal@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAESANNEUVE</td>
+<td>Julien</td>
+<td>1994-08-02</td>
+<td>5 Rue Victor Jara, Villeurbanne</td>
+<td align="right">0245654907</td>
+<td>jmaesanneuve7489@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BERTROND</td>
+<td>Cédric</td>
+<td>1996-07-30</td>
+<td>13 Rue Jean Voillot, Villeurbanne</td>
+<td align="right">0191923866</td>
+<td>cbertrond4304@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LOM</td>
+<td>Katharina</td>
+<td>1985-10-15</td>
+<td>16 Rue du Souvenir Français, Villeurbanne</td>
+<td align="right">0835973226</td>
+<td>katharina.lom@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIBIRAER</td>
+<td>Othmane</td>
+<td>1993-04-10</td>
+<td>10 Rue Marteret, Villeurbanne</td>
+<td align="right">0882547272</td>
+<td>obibiraer8496@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ADATTANO</td>
+<td>Romaric</td>
+<td>1991-11-29</td>
+<td>20 Rue Jacques Brel, Villeurbanne</td>
+<td align="right">0156004721</td>
+<td>radattano342@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>NONE</td>
+<td>Sabine</td>
+<td>1983-07-11</td>
+<td>6 Rue Pierre Loti, Villeurbanne</td>
+<td align="right">0233051727</td>
+<td>sabine.none@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LIZA</td>
+<td>Anne</td>
+<td>1986-03-30</td>
+<td>13 Avenue de Bel Air, Villeurbanne</td>
+<td align="right">0585299588</td>
+<td>aliza9386@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GRIGIARE</td>
+<td>José Nicolas</td>
+<td>1982-11-04</td>
+<td>8 Cours Docteur Jean Damidot, Villeurbanne</td>
+<td align="right">0860836824</td>
+<td>jgrigiare2103@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VIRGAS CASADEAGO</td>
+<td>Mathias</td>
+<td>1972-01-29</td>
+<td>11 Boulevard Honore de Balzac, Villeurbanne</td>
+<td align="right">0835377497</td>
+<td>mvirgascasadeago5664@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CITALENO</td>
+<td>Jonas</td>
+<td>1989-11-10</td>
+<td>5 Rue Schmidt, Villeurbanne</td>
+<td align="right">0116709825</td>
+<td>jcitaleno5638@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>FIRREER</td>
+<td>Maud</td>
+<td>1993-09-19</td>
+<td>6 Rue des Charmettes, Villeurbanne</td>
+<td align="right">0393756157</td>
+<td>mfirreer1469@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUPARTAL</td>
+<td>Romain</td>
+<td>1988-07-13</td>
+<td>2 Rue Chambfort, Villeurbanne</td>
+<td align="right">0394326588</td>
+<td>romain.dupartal@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SCHULZ</td>
+<td>Moises</td>
+<td>1970-09-01</td>
+<td>19 Rue Persoz, Villeurbanne</td>
+<td align="right">0832061997</td>
+<td>mschulz1302@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CERBAAN</td>
+<td>Stanislaw</td>
+<td>1991-07-01</td>
+<td>6 Rue Clos Poncet, Villeurbanne</td>
+<td align="right">0402360011</td>
+<td>scerbaan@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BRIGARD</td>
+<td>Rémi</td>
+<td>1987-04-30</td>
+<td>1 Rue Léon Blum, Villeurbanne</td>
+<td align="right">0404151989</td>
+<td>remi.brigard@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLENCHARD</td>
+<td>Mohamed</td>
+<td>1983-02-17</td>
+<td>9 Rue Geoffray, Villeurbanne</td>
+<td align="right">0734310188</td>
+<td>mblenchard5076@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PHEN</td>
+<td>Ahmed</td>
+<td>1980-07-18</td>
+<td>8 Rue Louis Fort, Villeurbanne</td>
+<td align="right">0976469835</td>
+<td>aphen@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>STEN</td>
+<td>Roy</td>
+<td>1990-12-06</td>
+<td>18 Impasse Richard, Villeurbanne</td>
+<td align="right">0570808324</td>
+<td>roy.sten@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RAYOR</td>
+<td>David Alexander</td>
+<td>1992-01-31</td>
+<td>11 Impasse Bourgchanin, Villeurbanne</td>
+<td align="right">0729248826</td>
+<td>drayor4625@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IRMBRUSTER</td>
+<td>Nicolas</td>
+<td>1982-08-12</td>
+<td>11 Rue Baudin, Villeurbanne</td>
+<td align="right">0135253373</td>
+<td>nicolas.irmbruster@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>JIUMA</td>
+<td>Alexandra</td>
+<td>1977-02-07</td>
+<td>16 Allée des Enfants, Villeurbanne</td>
+<td align="right">0267981097</td>
+<td>alexandra.jiuma@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DOLIPERTE</td>
+<td>Malin Johanna</td>
+<td>1984-05-24</td>
+<td>2 Impasse des Soeurs, Villeurbanne</td>
+<td align="right">0197652785</td>
+<td>mdoliperte1309@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JIINNE</td>
+<td>Thomas</td>
+<td>1982-01-19</td>
+<td>15 Rue Andree Brevet, Villeurbanne</td>
+<td align="right">0653632152</td>
+<td>tjiinne8779@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IUGUSTIN</td>
+<td>Vincent</td>
+<td>1984-04-06</td>
+<td>10 Rue Alexandre Dumas, Villeurbanne</td>
+<td align="right">0872386494</td>
+<td>vincent.iugustin@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>FRANCHAT</td>
+<td>Ganéche</td>
+<td>1993-06-27</td>
+<td>5 Rue Rouget de Lisle, Villeurbanne</td>
+<td align="right">0839305312</td>
+<td>gfranchat8506@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GUILLARY</td>
+<td>Aymeric</td>
+<td>1996-11-12</td>
+<td>12 Rue Léon Fabre, Villeurbanne</td>
+<td align="right">0659987582</td>
+<td>aymeric.guillary@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>EKAN</td>
+<td>Nor</td>
+<td>1977-08-08</td>
+<td>18 Rue de la Bastille, Villeurbanne</td>
+<td align="right">0401305757</td>
+<td>nor.ekan@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RESUTAKEVO</td>
+<td>Etienne</td>
+<td>1988-02-13</td>
+<td>9 Rue d'Alsace, Villeurbanne</td>
+<td align="right">0771599443</td>
+<td>etienne.resutakevo@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NGUYIN</td>
+<td>Sébastien</td>
+<td>1986-07-17</td>
+<td>11 Rue Gervais Bussiere, Villeurbanne</td>
+<td align="right">0902203956</td>
+<td>snguyin8322@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SKEREDJ</td>
+<td>Martin</td>
+<td>1989-11-13</td>
+<td>4 Avenue Henri Barbusse, Villeurbanne</td>
+<td align="right">0174401531</td>
+<td>mskeredj@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MEISINNIUVE</td>
+<td>Alexandre</td>
+<td>1986-11-27</td>
+<td>11 Cours Docteur Jean Damidot, Villeurbanne</td>
+<td align="right">0848408204</td>
+<td>ameisinniuve9661@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SIVES</td>
+<td>Oana-Maria</td>
+<td>1980-11-08</td>
+<td>8 Rue Tranquille, Villeurbanne</td>
+<td align="right">0360928545</td>
+<td>oana-maria.sives@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CUCCHA</td>
+<td>Cyril</td>
+<td>1995-12-12</td>
+<td>2 Rue des Barottieres, Villeurbanne</td>
+<td align="right">0599941887</td>
+<td>ccuccha4844@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>TYL</td>
+<td>Angélique</td>
+<td>1992-09-28</td>
+<td>20 Rue du Luxembourg, Villeurbanne</td>
+<td align="right">0251188792</td>
+<td>atyl6553@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BURGAS HORRERO</td>
+<td>Marie</td>
+<td>1996-09-16</td>
+<td>16 Rue Bat Yam, Villeurbanne</td>
+<td align="right">0849751762</td>
+<td>marie.burgas-horrero@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VELLONUOVA ZACARIAS</td>
+<td>Paul-Rémi</td>
+<td>1984-04-02</td>
+<td>3 Rue Jean Pierre Bredy, Villeurbanne</td>
+<td align="right">0901357174</td>
+<td>pvellonuovazacarias@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PREMIULT</td>
+<td>Quentin</td>
+<td>1988-01-07</td>
+<td>10 Rue Songieu, Villeurbanne</td>
+<td align="right">0688600931</td>
+<td>quentin.premiult@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DIEE PIROS DOS SANTOS</td>
+<td>Loic</td>
+<td>1982-11-30</td>
+<td>6 Rue d'Hanoi, Villeurbanne</td>
+<td align="right">0821791084</td>
+<td>ldieepirosdossantos@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ELILJ</td>
+<td>Amine</td>
+<td>1989-02-11</td>
+<td>18 Avenue Galline, Villeurbanne</td>
+<td align="right">0426628448</td>
+<td>amine.elilj@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>NOGUOORI DE SOUZA</td>
+<td>Marina</td>
+<td>1970-04-12</td>
+<td>15 Rue Dedieu, Villeurbanne</td>
+<td align="right">0236583403</td>
+<td>marina.noguoori-de-souza@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GENZALIZ CASTELO</td>
+<td>Ion</td>
+<td>1978-05-09</td>
+<td>6 Rue du Foyer, Villeurbanne</td>
+<td align="right">0592057161</td>
+<td>ion.genzaliz-castelo@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>AMMENON</td>
+<td>Romain</td>
+<td>1985-07-30</td>
+<td>3 Rue Millon, Villeurbanne</td>
+<td align="right">0674720352</td>
+<td>rammenon4637@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CEFFART</td>
+<td>Marwane</td>
+<td>1992-04-09</td>
+<td>8 Rue de la Baisse, Villeurbanne</td>
+<td align="right">0260331347</td>
+<td>mceffart8082@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIUCHACOT</td>
+<td>Florent</td>
+<td>1986-05-27</td>
+<td>1 Rue Melzet, Villeurbanne</td>
+<td align="right">0763971251</td>
+<td>florent.biuchacot@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GRINDOS</td>
+<td>Ganéche</td>
+<td>1991-12-21</td>
+<td>11 Rue Raspail, Villeurbanne</td>
+<td align="right">0461241948</td>
+<td>ggrindos3492@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LOGUELLE</td>
+<td>Guillaume</td>
+<td>1983-07-13</td>
+<td>13 Rue Victor Subit, Villeurbanne</td>
+<td align="right">0184151755</td>
+<td>guillaume.loguelle@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KERIMNES</td>
+<td>Nawfal</td>
+<td>1993-08-02</td>
+<td>20 Rue Jean Novel, Villeurbanne</td>
+<td align="right">0637586458</td>
+<td>nkerimnes@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SONGH</td>
+<td>Fabienne</td>
+<td>1984-06-27</td>
+<td>3 Rue du Luxembourg, Villeurbanne</td>
+<td align="right">0372660272</td>
+<td>fabienne.songh@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>HEJALI</td>
+<td>Karen</td>
+<td>1988-07-27</td>
+<td>13 Rue Billon, Villeurbanne</td>
+<td align="right">0662941870</td>
+<td>karen.hejali@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MERIIN</td>
+<td>Caroline</td>
+<td>1970-11-16</td>
+<td>17 Avenue de la Rize, Villeurbanne</td>
+<td align="right">0350484852</td>
+<td>caroline.meriin@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BOUARY</td>
+<td>Moises</td>
+<td>1995-11-12</td>
+<td>6 Rue du Docteur Rollet, Villeurbanne</td>
+<td align="right">0647074354</td>
+<td>moises.bouary@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DEUDAN</td>
+<td>Marc</td>
+<td>1981-01-25</td>
+<td>7 Impasse Martin, Villeurbanne</td>
+<td align="right">0741060428</td>
+<td>mdeudan@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RASENDE MOTTIALI</td>
+<td>Kevin</td>
+<td>1992-11-12</td>
+<td>1 Rue Saint Jean, Villeurbanne</td>
+<td align="right">0931216829</td>
+<td>krasendemottiali@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KIHN MORANO</td>
+<td>Marouane</td>
+<td>1980-10-28</td>
+<td>19 Impasse Bourgchanin, Villeurbanne</td>
+<td align="right">0214092502</td>
+<td>marouane.kihn-morano@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THEREND</td>
+<td>Mauricio</td>
+<td>1970-01-29</td>
+<td>16 Rue Prisca, Villeurbanne</td>
+<td align="right">0404995951</td>
+<td>mtherend@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MONDEON</td>
+<td>Roy</td>
+<td>1995-12-05</td>
+<td>1 Rue Jean Baptiste Durand, Villeurbanne</td>
+<td align="right">0666415193</td>
+<td>roy.mondeon@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BATAALLO</td>
+<td>Estelle</td>
+<td>1981-02-05</td>
+<td>3 Avenue Galline, Villeurbanne</td>
+<td align="right">0218476598</td>
+<td>estelle.bataallo@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>KURZA</td>
+<td>Liisa Maria</td>
+<td>1977-12-31</td>
+<td>5 Petite Rue de la Rize, Villeurbanne</td>
+<td align="right">0854319661</td>
+<td>lkurza1197@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VOINIAR</td>
+<td>Thierry</td>
+<td>1983-02-15</td>
+<td>8 Rue Eugene Pottier, Villeurbanne</td>
+<td align="right">0489830301</td>
+<td>thierry.voiniar@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LA</td>
+<td>Yann</td>
+<td>1983-06-05</td>
+<td>12 Rue Robert Desnos, Villeurbanne</td>
+<td align="right">0985377763</td>
+<td>yann.la@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>GORNY</td>
+<td>Soraya</td>
+<td>1971-03-07</td>
+<td>14 Boulevard de Villeurbanne, Villeurbanne</td>
+<td align="right">0314256641</td>
+<td>sgorny@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DOMONGET</td>
+<td>Stanislas</td>
+<td>1996-07-12</td>
+<td>4 Impasse Chevreul, Villeurbanne</td>
+<td align="right">0740432807</td>
+<td>sdomonget7251@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FRONCHET</td>
+<td>Joachim</td>
+<td>1987-06-14</td>
+<td>9 Rue de Milan, Villeurbanne</td>
+<td align="right">0695307159</td>
+<td>joachim.fronchet@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GORNY</td>
+<td>Jean-Andréi</td>
+<td>1987-06-15</td>
+<td>9 Rue Decomberousse, Villeurbanne</td>
+<td align="right">0887388220</td>
+<td>jgorny660@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DACENENCK</td>
+<td>Julien</td>
+<td>1985-11-16</td>
+<td>17 Place Marengo, Villeurbanne</td>
+<td align="right">0925096714</td>
+<td>jdacenenck5830@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BESETILLI</td>
+<td>Paul</td>
+<td>1988-11-09</td>
+<td>17 Boulevard du 11 Novembre 1918, Villeurbanne</td>
+<td align="right">0173965410</td>
+<td>pbesetilli@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>POARREL</td>
+<td>Yannick</td>
+<td>1980-08-07</td>
+<td>20 Allée du Caporal Maupas, Villeurbanne</td>
+<td align="right">0380122365</td>
+<td>yannick.poarrel@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BRUCY</td>
+<td>Daniel</td>
+<td>1977-12-13</td>
+<td>5 Rue de la Liberté, Villeurbanne</td>
+<td align="right">0754118292</td>
+<td>daniel.brucy@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BILEN</td>
+<td>Alejandro Gabriel</td>
+<td>1994-10-21</td>
+<td>18 Rue Gervais Bussiere, Villeurbanne</td>
+<td align="right">0482926446</td>
+<td>abilen@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>COTTELAON</td>
+<td>Guillaume</td>
+<td>1984-06-03</td>
+<td>14 Rue Clos Mon Desir, Villeurbanne</td>
+<td align="right">0287098749</td>
+<td>guillaume.cottelaon@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TORSEN</td>
+<td>Pierre</td>
+<td>1972-08-13</td>
+<td>16 Place Charles Hernu, Villeurbanne</td>
+<td align="right">0599721378</td>
+<td>pierre.torsen@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ASEZA VAGA</td>
+<td>Sébastien</td>
+<td>1984-06-18</td>
+<td>20 Rue Bernard Lecache, Villeurbanne</td>
+<td align="right">0177013785</td>
+<td>sasezavaga156@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TALLONAERE</td>
+<td>Matthieu</td>
+<td>1996-06-11</td>
+<td>5 Rue des Pres, Villeurbanne</td>
+<td align="right">0660115205</td>
+<td>matthieu.tallonaere@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JOENROY</td>
+<td>Paul</td>
+<td>1983-01-16</td>
+<td>17 Rue des Fleurs, Villeurbanne</td>
+<td align="right">0496385279</td>
+<td>paul.joenroy@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BENNORD</td>
+<td>Vincent</td>
+<td>1995-04-17</td>
+<td>16 Rue Antoine Primat, Villeurbanne</td>
+<td align="right">0913686314</td>
+<td>vincent.bennord@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>LACIINTRE</td>
+<td>Servane</td>
+<td>1992-01-12</td>
+<td>1 Rue Georges Melies, Villeurbanne</td>
+<td align="right">0373259593</td>
+<td>servane.laciintre@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FALICES</td>
+<td>Thomas</td>
+<td>1979-06-02</td>
+<td>9 Rue Michel Dupeuble, Villeurbanne</td>
+<td align="right">0438036753</td>
+<td>thomas.falices@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GORMAEN</td>
+<td>Patrick</td>
+<td>1988-07-27</td>
+<td>4 Rue Docteur Frappaz, Villeurbanne</td>
+<td align="right">0530779357</td>
+<td>pgormaen@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PRÜPPOR</td>
+<td>Munbeom</td>
+<td>1978-05-01</td>
+<td>11 Rue Bat Yam, Villeurbanne</td>
+<td align="right">0660576806</td>
+<td>mpruppor8863@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CESTIE</td>
+<td>Ao Chen</td>
+<td>1975-03-26</td>
+<td>10 Rue Michel Servet, Villeurbanne</td>
+<td align="right">0788187500</td>
+<td>ao-chen.cestie@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>OKON</td>
+<td>Walid</td>
+<td>1992-04-22</td>
+<td>19 Rue Max Linder, Villeurbanne</td>
+<td align="right">0146653562</td>
+<td>walid.okon@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PACCELO</td>
+<td>Loic</td>
+<td>1982-12-23</td>
+<td>17 Avenue du Commandant l'Herminier, Villeurbanne</td>
+<td align="right">0246287195</td>
+<td>lpaccelo@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HOCKIR</td>
+<td>Léo</td>
+<td>1977-01-13</td>
+<td>15 Rue de la Famille, Villeurbanne</td>
+<td align="right">0441974867</td>
+<td>leo.hockir@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MOGUET</td>
+<td>Stéphane</td>
+<td>1991-10-19</td>
+<td>15 Rue Louis Bocquet, Villeurbanne</td>
+<td align="right">0986323163</td>
+<td>smoguet503@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BENNIRD</td>
+<td>Ali</td>
+<td>1992-06-04</td>
+<td>5 Rue Geoffray, Villeurbanne</td>
+<td align="right">0620609384</td>
+<td>abennird5722@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PENTON</td>
+<td>François</td>
+<td>1985-04-20</td>
+<td>1 Rue Chambfort, Villeurbanne</td>
+<td align="right">0500481751</td>
+<td>francois.penton@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>POOROT</td>
+<td>Otto</td>
+<td>1989-08-30</td>
+<td>20 Rue Michel Dupeuble, Villeurbanne</td>
+<td align="right">0239420738</td>
+<td>otto.poorot@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BORRY</td>
+<td>Andrew</td>
+<td>1996-08-27</td>
+<td>4 Rue Monge, Villeurbanne</td>
+<td align="right">0764004297</td>
+<td>andrew.borry@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PERRAMON</td>
+<td>Andréi</td>
+<td>1985-09-15</td>
+<td>2 Rue de Bel Air, Villeurbanne</td>
+<td align="right">0884645647</td>
+<td>andrei.perramon@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>VETTIKKO</td>
+<td>Liliana</td>
+<td>1974-11-19</td>
+<td>1 Place Jules Grandclement, Villeurbanne</td>
+<td align="right">0197300937</td>
+<td>liliana.vettikko@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PAURCELOT</td>
+<td>Thibaud</td>
+<td>1986-05-21</td>
+<td>7 Impasse Metral, Villeurbanne</td>
+<td align="right">0702165317</td>
+<td>tpaurcelot954@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DUGUO</td>
+<td>Adjoua</td>
+<td>1982-01-30</td>
+<td>10 Avenue Antoine de Saint Exupery, Villeurbanne</td>
+<td align="right">0789870074</td>
+<td>aduguo6787@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>EAT AUASSARAH</td>
+<td>Jose Luis</td>
+<td>1975-06-13</td>
+<td>16 Rue du Pont des Planches, Villeurbanne</td>
+<td align="right">0996212704</td>
+<td>jeatauassarah9566@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JENSSON</td>
+<td>Olivier</td>
+<td>1990-11-04</td>
+<td>9 Rue Montgolfier, Villeurbanne</td>
+<td align="right">0564094090</td>
+<td>olivier.jensson@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BEN RIHMA</td>
+<td>Marc</td>
+<td>1982-12-13</td>
+<td>15 Rue Etienne Gagnaire, Villeurbanne</td>
+<td align="right">0806172579</td>
+<td>mbenrihma3527@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MENDAEN</td>
+<td>Mathias</td>
+<td>1982-12-18</td>
+<td>18 Rue des Roses, Villeurbanne</td>
+<td align="right">0905011963</td>
+<td>mmendaen@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CINQUOLAIN</td>
+<td>Oana-Maria</td>
+<td>1995-08-23</td>
+<td>8 Rue du Caporal Morange, Villeurbanne</td>
+<td align="right">0871154446</td>
+<td>ocinquolain@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MESSOGE</td>
+<td>Marc</td>
+<td>1989-08-25</td>
+<td>12 Rue des Muriers, Villeurbanne</td>
+<td align="right">0688605853</td>
+<td>mmessoge@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>COMPI-PAYSAA</td>
+<td>Jérémy</td>
+<td>1989-11-17</td>
+<td>7 Cours de la République, Villeurbanne</td>
+<td align="right">0847437364</td>
+<td>jcompi-paysaa1618@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>REMANANANTAANDRO</td>
+<td>Olivia</td>
+<td>1983-09-04</td>
+<td>7 Rue des Acacias, Villeurbanne</td>
+<td align="right">0597003185</td>
+<td>oremananantaandro9067@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>RIN</td>
+<td>Yasmina</td>
+<td>1980-08-12</td>
+<td>7 Rue Frédéric Passy, Villeurbanne</td>
+<td align="right">0926971770</td>
+<td>yrin9309@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MIONE</td>
+<td>Zakaria</td>
+<td>1978-02-11</td>
+<td>4 Rue du Nord, Villeurbanne</td>
+<td align="right">0137972261</td>
+<td>zmione7492@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIHJIUB</td>
+<td>François</td>
+<td>1984-04-18</td>
+<td>9 Rue Poizat, Villeurbanne</td>
+<td align="right">0329820363</td>
+<td>fmihjiub5970@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOVREY</td>
+<td>Julien</td>
+<td>1988-05-11</td>
+<td>16 Rue Colonel Klobb, Villeurbanne</td>
+<td align="right">0996179649</td>
+<td>julien.govrey@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BONNEFFI-MOETY</td>
+<td>Sébastien</td>
+<td>1984-12-09</td>
+<td>8 Rue de l'Amitie, Villeurbanne</td>
+<td align="right">0109986826</td>
+<td>sbonneffi-moety4859@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WOEGNER</td>
+<td>Julien</td>
+<td>1974-12-27</td>
+<td>9 Rue Damon, Villeurbanne</td>
+<td align="right">0927140400</td>
+<td>julien.woegner@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PICH</td>
+<td>Emiliano</td>
+<td>1988-10-20</td>
+<td>19 Rue Antoine Bernoux, Villeurbanne</td>
+<td align="right">0103385693</td>
+<td>epich8049@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PIQUELEER</td>
+<td>Pierre</td>
+<td>1984-02-10</td>
+<td>14 Rue Colonel Klobb, Villeurbanne</td>
+<td align="right">0340846080</td>
+<td>pierre.piqueleer@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TOSSIIR</td>
+<td>Kévin</td>
+<td>1984-06-30</td>
+<td>2 Rue Faillebin, Villeurbanne</td>
+<td align="right">0426783914</td>
+<td>kevin.tossiir@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>REMOGNENO</td>
+<td>Julie</td>
+<td>1987-12-21</td>
+<td>17 Place Jean Chorel, Villeurbanne</td>
+<td align="right">0766302412</td>
+<td>jremogneno@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>NASSER</td>
+<td>Taissia</td>
+<td>1982-02-09</td>
+<td>8 Rue Jean Pierre Bredy, Villeurbanne</td>
+<td align="right">0253598051</td>
+<td>taissia.nasser@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ZHU</td>
+<td>Quentin</td>
+<td>1977-11-14</td>
+<td>19 Rue Etienne Gagnaire, Villeurbanne</td>
+<td align="right">0290521969</td>
+<td>qzhu6773@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LA</td>
+<td>Nicolas</td>
+<td>1985-04-22</td>
+<td>14 Rue Jean Voillot, Villeurbanne</td>
+<td align="right">0768255411</td>
+<td>nicolas.la@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>CRAPET</td>
+<td>Ziqing</td>
+<td>1976-10-19</td>
+<td>11 Avenue Henri Barbusse, Villeurbanne</td>
+<td align="right">0831996525</td>
+<td>zcrapet1660@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIKOUOR</td>
+<td>Daniel</td>
+<td>1991-02-12</td>
+<td>16 Rue Antoine Primat, Villeurbanne</td>
+<td align="right">0101071350</td>
+<td>daniel.mikouor@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PERES FRONCA</td>
+<td>Mihaela</td>
+<td>1985-01-05</td>
+<td>20 Rue Baudelaire, Villeurbanne</td>
+<td align="right">0829804139</td>
+<td>mihaela.peres-fronca@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JESSINIT</td>
+<td>Mohamed</td>
+<td>1988-09-29</td>
+<td>1 Rue Combet, Villeurbanne</td>
+<td align="right">0830980255</td>
+<td>mjessinit@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NOGY</td>
+<td>Edouard</td>
+<td>1985-01-17</td>
+<td>18 Petite Rue de la Rize, Villeurbanne</td>
+<td align="right">0570350031</td>
+<td>enogy@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FIUCHET</td>
+<td>Petr</td>
+<td>1976-11-01</td>
+<td>19 Place Albert Thomas, Villeurbanne</td>
+<td align="right">0814672524</td>
+<td>pfiuchet5224@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DALERUE</td>
+<td>Ronald</td>
+<td>1985-09-11</td>
+<td>12 Rue Baudelaire, Villeurbanne</td>
+<td align="right">0317658982</td>
+<td>ronald.dalerue@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ABBEUR</td>
+<td>Rym</td>
+<td>1985-11-13</td>
+<td>7 Rue de la Soie, Villeurbanne</td>
+<td align="right">0577459411</td>
+<td>rym.abbeur@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BERDY</td>
+<td>Édouard</td>
+<td>1988-06-23</td>
+<td>5 Rue du Luxembourg, Villeurbanne</td>
+<td align="right">0135449241</td>
+<td>edouard.berdy@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>TORDY</td>
+<td>Emilie</td>
+<td>1976-08-16</td>
+<td>2 Rue Jean Baptiste Durand, Villeurbanne</td>
+<td align="right">0376846955</td>
+<td>etordy4899@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BIURGIOOS</td>
+<td>Florent</td>
+<td>1973-04-27</td>
+<td>17 Rue Douaumont, Villeurbanne</td>
+<td align="right">0712788131</td>
+<td>florent.biurgioos@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LUCOS</td>
+<td>Johann</td>
+<td>1986-07-24</td>
+<td>10 Rue Racine, Villeurbanne</td>
+<td align="right">0435647110</td>
+<td>johann.lucos@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUDEUET</td>
+<td>Joachim</td>
+<td>1974-03-11</td>
+<td>16 Rue René Prolongee, Villeurbanne</td>
+<td align="right">0606612603</td>
+<td>jdudeuet2788@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LODURE</td>
+<td>Michaël</td>
+<td>1975-06-08</td>
+<td>20 Impasse Amblard, Villeurbanne</td>
+<td align="right">0161963665</td>
+<td>michael.lodure@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BREGARD</td>
+<td>Stéphane</td>
+<td>1973-04-23</td>
+<td>2 Rue de la Cooperative, Villeurbanne</td>
+<td align="right">0363386932</td>
+<td>sbregard@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VELLONUIVA GINZALEZ</td>
+<td>Fabien</td>
+<td>1986-04-16</td>
+<td>6 Rue Charrin, Villeurbanne</td>
+<td align="right">0643557243</td>
+<td>fvellonuivaginzalez9359@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAUSTANFAI</td>
+<td>Jérémy</td>
+<td>1995-04-13</td>
+<td>9 Rue Phelypeaux, Villeurbanne</td>
+<td align="right">0678416077</td>
+<td>jeremy.maustanfai@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IUTHIOR</td>
+<td>Thomas</td>
+<td>1994-07-15</td>
+<td>9 Rue Michel Dupeuble, Villeurbanne</td>
+<td align="right">0931227026</td>
+<td>tiuthior8509@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FLEERAS</td>
+<td>Jeroen</td>
+<td>1987-06-05</td>
+<td>15 Rue de la Prairie, Villeurbanne</td>
+<td align="right">0261212960</td>
+<td>jfleeras2824@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLINDIAU</td>
+<td>Huan</td>
+<td>1986-01-18</td>
+<td>17 Rue Antoine Bernoux, Villeurbanne</td>
+<td align="right">0444625641</td>
+<td>huan.blindiau@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>NECHALL</td>
+<td>Philippe</td>
+<td>1995-09-14</td>
+<td>17 Rue du 4 Septembre 1797, Villeurbanne</td>
+<td align="right">0421688682</td>
+<td>philippe.nechall@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUGUO</td>
+<td>Mathieu</td>
+<td>1981-04-17</td>
+<td>9 Rue Basile, Villeurbanne</td>
+<td align="right">0178223396</td>
+<td>mduguo6994@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CILERI</td>
+<td>Diego</td>
+<td>1973-10-17</td>
+<td>17 Place de Croix Luizet, Villeurbanne</td>
+<td align="right">0953081134</td>
+<td>diego.cileri@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FAUGORIY</td>
+<td>Thibault</td>
+<td>1991-08-17</td>
+<td>12 Rue Marguerite, Villeurbanne</td>
+<td align="right">0240243323</td>
+<td>thibault.faugoriy@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TREN</td>
+<td>Antoine</td>
+<td>1983-06-22</td>
+<td>13 Impasse Frédéric Fays, Villeurbanne</td>
+<td align="right">0491556794</td>
+<td>atren@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TULEUP</td>
+<td>Li</td>
+<td>1972-07-08</td>
+<td>3 Place Jean Chorel, Villeurbanne</td>
+<td align="right">0263015577</td>
+<td>li.tuleup@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PAOSA</td>
+<td>Henrique</td>
+<td>1988-07-04</td>
+<td>7 Rue Bat Yam, Villeurbanne</td>
+<td align="right">0278779480</td>
+<td>henrique.paosa@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BLIQUAARE</td>
+<td>Damien</td>
+<td>1992-08-11</td>
+<td>9 Rue du Boucheret, Villeurbanne</td>
+<td align="right">0616893072</td>
+<td>damien.bliquaare@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DIRGHAM</td>
+<td>Milena</td>
+<td>1985-11-13</td>
+<td>5 Impasse du Reve, Villeurbanne</td>
+<td align="right">0530504140</td>
+<td>milena.dirgham@hotmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SAUMEELLON</td>
+<td>Meryem</td>
+<td>1986-05-21</td>
+<td>8 Rue du Tonkin, Villeurbanne</td>
+<td align="right">0397445891</td>
+<td>meryem.saumeellon@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CALLODON</td>
+<td>Sergiu</td>
+<td>1980-06-11</td>
+<td>12 Rue de Delle, Villeurbanne</td>
+<td align="right">0541713123</td>
+<td>sergiu.callodon@gmail.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>SCHNOIDER</td>
+<td>Elody</td>
+<td>1990-08-03</td>
+<td>1 Rue Jubin, Villeurbanne</td>
+<td align="right">0475184176</td>
+<td>elody.schnoider@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>DO RAUSAERS</td>
+<td>Yunjie</td>
+<td>1991-03-17</td>
+<td>16 Impasse Richelieu, Villeurbanne</td>
+<td align="right">0272345262</td>
+<td>yunjie.do-rausaers@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FUTEAKA</td>
+<td>Davy</td>
+<td>1982-07-27</td>
+<td>6 Rue Octavie, Villeurbanne</td>
+<td align="right">0794676780</td>
+<td>davy.futeaka@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LUCOS</td>
+<td>Mohamed</td>
+<td>1986-04-05</td>
+<td>20 Rue Alexandre Dumas, Villeurbanne</td>
+<td align="right">0216894522</td>
+<td>mlucos5613@free.fr</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PHIN</td>
+<td>Emilie</td>
+<td>1977-05-09</td>
+<td>20 Rue Monge, Villeurbanne</td>
+<td align="right">0736948757</td>
+<td>emilie.phin@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TALBE</td>
+<td>Walaa</td>
+<td>1990-10-23</td>
+<td>18 Allée du Couchant, Villeurbanne</td>
+<td align="right">0893768311</td>
+<td>walaa.talbe@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>BIRGIS FERREERI GOMES</td>
+<td>Louise</td>
+<td>1989-09-08</td>
+<td>8 Impasse Frédéric Fays, Villeurbanne</td>
+<td align="right">0783982861</td>
+<td>louise.birgis-ferreeri-gomes@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FAUILHA</td>
+<td>Anh duc</td>
+<td>1997-05-21</td>
+<td>17 Rue d'Inkermann, Villeurbanne</td>
+<td align="right">0853152623</td>
+<td>afauilha7154@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>HUING</td>
+<td>Jia-Jing</td>
+<td>1987-09-27</td>
+<td>17 Rue du Foyer, Villeurbanne</td>
+<td align="right">0396522735</td>
+<td>jhuing4812@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HAUILLON</td>
+<td>Emmanuel</td>
+<td>1993-01-13</td>
+<td>19 Rue Wilhelmine, Villeurbanne</td>
+<td align="right">0494333002</td>
+<td>emmanuel.hauillon@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>NETAN</td>
+<td>Lucile</td>
+<td>1991-01-16</td>
+<td>10 Impasse des Lilas, Villeurbanne</td>
+<td align="right">0141228322</td>
+<td>lucile.netan@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>HAJALA</td>
+<td>Stéphane</td>
+<td>1983-08-11</td>
+<td>20 Rue Pierre Loti, Villeurbanne</td>
+<td align="right">0440731190</td>
+<td>shajala7205@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>POQUELOER</td>
+<td>Andréi</td>
+<td>1983-09-08</td>
+<td>5 Rue Hector Berlioz, Villeurbanne</td>
+<td align="right">0461115162</td>
+<td>apoqueloer@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MECHABART</td>
+<td>Jean-Christian</td>
+<td>1996-06-04</td>
+<td>6 Rue Michel Dupeuble, Villeurbanne</td>
+<td align="right">0603083600</td>
+<td>jean-christian.mechabart@yahoo.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>ERNAUD</td>
+<td>Sahra</td>
+<td>1984-05-20</td>
+<td>12 Rue Flachet, Villeurbanne</td>
+<td align="right">0691165809</td>
+<td>sernaud@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BROCHTO</td>
+<td>Lilian</td>
+<td>1977-04-14</td>
+<td>13 Rue George Sand, Villeurbanne</td>
+<td align="right">0409298280</td>
+<td>lbrochto6259@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GONTRAC</td>
+<td>Fernando</td>
+<td>1980-12-04</td>
+<td>17 Rue Pelisson, Villeurbanne</td>
+<td align="right">0467958238</td>
+<td>fernando.gontrac@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>YISHOA KUSSUDA</td>
+<td>Nathalie</td>
+<td>1985-11-27</td>
+<td>1 Impasse Richelieu, Villeurbanne</td>
+<td align="right">0138061582</td>
+<td>nyishoakussuda6419@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FRUGOIR</td>
+<td>Christopher</td>
+<td>1994-12-29</td>
+<td>6 Impasse du Reve, Villeurbanne</td>
+<td align="right">0133931821</td>
+<td>christopher.frugoir@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LUCIS</td>
+<td>Juan Daniel</td>
+<td>1992-02-21</td>
+<td>7 Rue Florian, Villeurbanne</td>
+<td align="right">0936486749</td>
+<td>juan-daniel.lucis@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ABADAO</td>
+<td>Antonin</td>
+<td>1983-05-22</td>
+<td>16 Rue Son Tay, Villeurbanne</td>
+<td align="right">0185527544</td>
+<td>aabadao@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GIDALU</td>
+<td>Romain</td>
+<td>1987-11-23</td>
+<td>1 Rue Berthelot, Villeurbanne</td>
+<td align="right">0391690507</td>
+<td>rgidalu@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PORSANS</td>
+<td>Pierre</td>
+<td>1984-02-26</td>
+<td>18 Impasse Alexandre Dumas, Villeurbanne</td>
+<td align="right">0475567348</td>
+<td>pierre.porsans@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MEDREE</td>
+<td>Sébastien</td>
+<td>1973-05-08</td>
+<td>11 Rue Viret, Villeurbanne</td>
+<td align="right">0628260346</td>
+<td>sebastien.medree@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>WOSTPHEL</td>
+<td>Antoine</td>
+<td>1989-05-21</td>
+<td>9 Rue Aynes, Villeurbanne</td>
+<td align="right">0722637008</td>
+<td>antoine.wostphel@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BRUNAOR</td>
+<td>Cédric</td>
+<td>1997-06-04</td>
+<td>5 Rue Benjamin Constant, Villeurbanne</td>
+<td align="right">0622405174</td>
+<td>cedric.brunaor@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BORTILUS</td>
+<td>Pierre</td>
+<td>1975-04-12</td>
+<td>9 Rue Prisca, Villeurbanne</td>
+<td align="right">0320588613</td>
+<td>pierre.bortilus@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>XHAMBULLO</td>
+<td>Stéphane</td>
+<td>1988-07-09</td>
+<td>12 Rue Jean Baptiste Clement, Villeurbanne</td>
+<td align="right">0810619918</td>
+<td>stephane.xhambullo@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>PAMITESCU</td>
+<td>Olena</td>
+<td>1983-05-06</td>
+<td>6 Rue des Acacias, Villeurbanne</td>
+<td align="right">0368283469</td>
+<td>olena.pamitescu@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PITIET</td>
+<td>Jérémy</td>
+<td>1981-11-21</td>
+<td>4 Impasse Baconnier, Villeurbanne</td>
+<td align="right">0829664559</td>
+<td>jeremy.pitiet@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GOVROLAV</td>
+<td>Adrien</td>
+<td>1970-04-02</td>
+<td>15 Impasse du Boucheret, Villeurbanne</td>
+<td align="right">0144027120</td>
+<td>agovrolav@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>PERROAUX</td>
+<td>Guillaume</td>
+<td>1988-05-06</td>
+<td>13 Rue Jacques Brel, Villeurbanne</td>
+<td align="right">0577263312</td>
+<td>gperroaux1007@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>VI</td>
+<td>Chongguang</td>
+<td>1978-03-03</td>
+<td>3 Rue de Verdun, Villeurbanne</td>
+<td align="right">0279666502</td>
+<td>cvi@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>STEOLY</td>
+<td>Rémy</td>
+<td>1994-01-26</td>
+<td>6 Rue Louis Bocquet, Villeurbanne</td>
+<td align="right">0676300512</td>
+<td>rsteoly@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>SEJILMISSI</td>
+<td>Victor</td>
+<td>1972-12-23</td>
+<td>7 Rue Daniel Llacer, Villeurbanne</td>
+<td align="right">0571091807</td>
+<td>vsejilmissi7378@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MAURAL</td>
+<td>Alexis</td>
+<td>1992-07-17</td>
+<td>15 Place du Commandant Rivière, Villeurbanne</td>
+<td align="right">0943107512</td>
+<td>amaural7801@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>CHEBBORT</td>
+<td>Amine</td>
+<td>1973-03-06</td>
+<td>3 Rue Charles Gounod, Villeurbanne</td>
+<td align="right">0711406355</td>
+<td>amine.chebbort@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>JAETSA KENGNE</td>
+<td>Philipe</td>
+<td>1986-01-03</td>
+<td>1 Rue des Muriers, Villeurbanne</td>
+<td align="right">0716769191</td>
+<td>pjaetsakengne5867@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>THEO THIEN NGHIA</td>
+<td>Sannine</td>
+<td>1973-06-30</td>
+<td>6 Avenue Antoine de Saint Exupery, Villeurbanne</td>
+<td align="right">0400043691</td>
+<td>sannine.theo-thien-nghia@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GORVIOS</td>
+<td>Benjamin</td>
+<td>1971-03-02</td>
+<td>4 Allée du Caporal Maupas, Villeurbanne</td>
+<td align="right">0595081718</td>
+<td>bgorvios5920@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RUTTNAR</td>
+<td>Bertrand</td>
+<td>1985-11-04</td>
+<td>9 Rue Sully Prudhomme, Villeurbanne</td>
+<td align="right">0732177082</td>
+<td>bruttnar8521@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>LA</td>
+<td>Oscar</td>
+<td>1983-08-05</td>
+<td>17 Rue des Bons Amis, Villeurbanne</td>
+<td align="right">0604929989</td>
+<td>oscar.la@outlook.com</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>OICHI</td>
+<td>Li</td>
+<td>1995-05-01</td>
+<td>15 Avenue Piaton, Villeurbanne</td>
+<td align="right">0950656137</td>
+<td>loichi3109@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FEUALHI</td>
+<td>Hendrik</td>
+<td>1997-07-18</td>
+<td>7 Rue du Canada, Villeurbanne</td>
+<td align="right">0799301768</td>
+<td>hfeualhi@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GINZILEZ PISA</td>
+<td>Jérémy</td>
+<td>1988-05-12</td>
+<td>4 Rue Clos Mon Desir, Villeurbanne</td>
+<td align="right">0964365250</td>
+<td>jginzilezpisa@laposte.net</td>
+</tr>
+<tr>
+<td>Mme</td>
+<td>MEUGOL</td>
+<td>Alisson</td>
+<td>1988-10-30</td>
+<td>8 Rue du Docteur Rollet, Villeurbanne</td>
+<td align="right">0268863526</td>
+<td>alisson.meugol@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>IGBANGBI</td>
+<td>Cyril</td>
+<td>1988-08-04</td>
+<td>1 Impasse Richelieu, Villeurbanne</td>
+<td align="right">0699344962</td>
+<td>cyril.igbangbi@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>RIUCHON</td>
+<td>Pierre</td>
+<td>1992-04-19</td>
+<td>7 Impasse des Bienvenus, Villeurbanne</td>
+<td align="right">0910888647</td>
+<td>pierre.riuchon@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>ILOMBE ISOMBACO</td>
+<td>Michaël</td>
+<td>1997-07-02</td>
+<td>8 Rue Francis Chirat, Villeurbanne</td>
+<td align="right">0415660698</td>
+<td>milombeisombaco9992@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>MIGNAN</td>
+<td>Huage</td>
+<td>1971-04-30</td>
+<td>5 Avenue Piaton, Villeurbanne</td>
+<td align="right">0455278563</td>
+<td>huage.mignan@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>KEMARO</td>
+<td>Cédric</td>
+<td>1986-04-10</td>
+<td>17 Rue Racine, Villeurbanne</td>
+<td align="right">0759185427</td>
+<td>cedric.kemaro@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FORNANDEZ FERNANDEZ</td>
+<td>Jose Luis</td>
+<td>1989-02-16</td>
+<td>18 Cours Émile Zola, Villeurbanne</td>
+<td align="right">0972719855</td>
+<td>jose-luis.fornandez-fernandez@gmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BONGOETXEI ORIONDO</td>
+<td>Moctar</td>
+<td>1993-02-08</td>
+<td>15 Rue Faillebin, Villeurbanne</td>
+<td align="right">0228303213</td>
+<td>mbongoetxeioriondo@free.fr</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>TCHIUMAKOVA</td>
+<td>Nicolas</td>
+<td>1994-08-19</td>
+<td>20 Rue de la Ligne de l'Est, Villeurbanne</td>
+<td align="right">0764958504</td>
+<td>ntchiumakova9963@yahoo.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>FERRAER</td>
+<td>Anthony</td>
+<td>1974-05-22</td>
+<td>17 Rue Pelisson, Villeurbanne</td>
+<td align="right">0378987725</td>
+<td>anthony.ferraer@outlook.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>GIREUX</td>
+<td>Zouhair</td>
+<td>1976-08-16</td>
+<td>16 Rue du Docteur Ollier, Villeurbanne</td>
+<td align="right">0431819553</td>
+<td>zouhair.gireux@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DA PISQUALI</td>
+<td>Harshawardhan</td>
+<td>1987-04-26</td>
+<td>12 Rue Billon, Villeurbanne</td>
+<td align="right">0807265795</td>
+<td>hdapisquali5657@hotmail.com</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>BUISSIN</td>
+<td>Paul</td>
+<td>1977-04-01</td>
+<td>16 Rue Pascal, Villeurbanne</td>
+<td align="right">0677812557</td>
+<td>paul.buissin@laposte.net</td>
+</tr>
+<tr>
+<td>M.</td>
+<td>DUSIRT</td>
+<td>Gaëtan</td>
+<td>1984-02-26</td>
+<td>1 Rue Jean Zuber, Villeurbanne</td>
+<td align="right">0786092776</td>
+<td>gdusirt5774@free.fr</td>
+</tr>

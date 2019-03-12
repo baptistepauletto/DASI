@@ -31,6 +31,11 @@ public class Employe extends Personne{
         this.estDisponible = true;
     }
 
+    public Employe(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail) {
+        super(nom, prenom, civilite, date, adresse, numTelephone, adresseMail);
+    }
+
+
     public Employe(String nom, String adresseMail, String motDePasse) {
         super(nom, adresseMail, motDePasse);
     }

@@ -54,6 +54,17 @@ public abstract class Personne implements Serializable {
         this.motDePasse = motDePasse;
     }
 
+    public Personne(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail) {
+        this.nom = nom;
+        this.prenom = prenom;
+        this.civilite = civilite;
+        this.date = date;
+        this.adresse = adresse;
+        this.numTelephone = numTelephone;
+        this.adresseMail = adresseMail;
+    }
+
+
     public Personne(String nom, String adresseMail, String motDePasse) {
         this.nom = nom;
         this.adresseMail = adresseMail;
