@@ -1,4 +1,4 @@
-package util;
+package fr.insalyon.b3246.dasi.util;
 
 import java.io.PrintStream;
 import java.io.PrintWriter;

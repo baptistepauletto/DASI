@@ -17,8 +17,8 @@ public class DemandeInterventionLivraison extends DemandeIntervention {
     private String objet;
     private String entreprise;
 
-    public DemandeInterventionLivraison(String objet, String entreprise, Integer id, Date dateDeb, Date dateFin, String descriptionClient, String descriptionEmployé) {
-        super(id, dateDeb, dateFin, descriptionClient, descriptionEmployé);
+    public DemandeInterventionLivraison(String objet, String entreprise, Date dateDeb, Date dateFin, String descriptionClient) {
+        super(dateDeb, dateFin, descriptionClient);
         this.objet = objet;
         this.entreprise = entreprise;
     }

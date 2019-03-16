@@ -35,7 +35,7 @@ public abstract class DemandeIntervention {
     private Date dateFin;
     
     private String descriptionClient;
-    private String descriptionEmployé;
+    private String descriptionEmploye;
     
     @ManyToOne
     private Client client;
@@ -43,12 +43,10 @@ public abstract class DemandeIntervention {
     @ManyToOne
     private Employe employe;
 
-    public DemandeIntervention(Integer id, Date dateDeb, Date dateFin, String descriptionClient, String descriptionEmployé) {
-        this.id = id;
+    public DemandeIntervention(Date dateDeb, Date dateFin, String descriptionClient) {
         this.dateDeb = dateDeb;
         this.dateFin = dateFin;
         this.descriptionClient = descriptionClient;
-        this.descriptionEmployé = descriptionEmployé;
     }
 
     public DemandeIntervention() {

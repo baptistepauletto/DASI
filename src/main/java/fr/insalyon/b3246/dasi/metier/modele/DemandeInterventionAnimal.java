@@ -16,8 +16,8 @@ import javax.persistence.Entity;
 public class DemandeInterventionAnimal extends DemandeIntervention {
     private String animal;
 
-    public DemandeInterventionAnimal(String animal, Integer id, Date dateDeb, Date dateFin, String descriptionClient, String descriptionEmployé) {
-        super(id, dateDeb, dateFin, descriptionClient, descriptionEmployé);
+    public DemandeInterventionAnimal(String animal, Date dateDeb, Date dateFin, String descriptionClient) {
+        super(dateDeb, dateFin, descriptionClient);
         this.animal = animal;
     }
 

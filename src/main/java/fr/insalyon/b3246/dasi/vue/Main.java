@@ -15,7 +15,12 @@ import fr.insalyon.b3246.dasi.metier.service.ClientService;
 import fr.insalyon.b3246.dasi.metier.service.DemandeInterventionService;
 import fr.insalyon.b3246.dasi.metier.service.EmployeService;
 import fr.insalyon.b3246.dasi.metier.service.PersonneService;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
@@ -27,7 +32,7 @@ import javax.persistence.Persistence;
  */
 public class Main {
     
-     public static void main(String[] args) throws IOException {
+     public static void main(String[] args) throws IOException, FileNotFoundException, ParseException {
         JpaUtil.init();
         
         Client client = new Client("Chungus Jr.","a@b.com","abc");
@@ -36,8 +41,14 @@ public class Main {
         Employe employe = new Employe("Gelus", "abc@mail", "bcd");
         EmployeService.inscrireEmploye(employe);
         
-        DemandeInterventionAnimal DIA = new DemandeInterventionAnimal();
-        DemandeInterventionService.ajouterDemandeInvervention(DIA);
+        String debut = "2019-02-16";
+        String fin = "2019-03-16";
+        DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+        Date dateDeb = df.parse(debut);
+        Date dateFin = df.parse(fin);
+        
+        //DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", dateDeb, dateFin, "blabla");
+        //DemandeInterventionService.ajouterDemandeInvervention(DIA);
 
         /*Personne a = PersonneService.authentifier("a@b.com", "abc");
         System.out.println(a.getNom());*/

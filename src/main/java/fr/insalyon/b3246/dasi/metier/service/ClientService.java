@@ -29,4 +29,5 @@ public class ClientService {
             JpaUtil.fermerEntityManager();
         }
     }
+    
 }

@@ -5,6 +5,7 @@
  */
 package fr.insalyon.b3246.dasi.metier.modele;
 
+import com.google.maps.model.LatLng;
 import java.io.Serializable;
 import java.util.Date;
 import javax.persistence.Entity;
@@ -40,7 +41,9 @@ public abstract class Personne implements Serializable {
     private String numTelephone;
     private String adresseMail;
     private String motDePasse;
-    //TODO : COORDS GPS
+    
+    //Hypothèse : l'employé part toujours de chez lui
+    private LatLng coords;
 
     public Personne(String nom, String prenom, String civilite, Date date, String adresse, String ville, String numTelephone, String adresseMail, String motDePasse) {
         this.nom = nom;
@@ -52,6 +55,7 @@ public abstract class Personne implements Serializable {
         this.numTelephone = numTelephone;
         this.adresseMail = adresseMail;
         this.motDePasse = motDePasse;
+        //this.coords = GeoTest.getLatLng(this.adresse);
     }
 
     public Personne(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail) {
