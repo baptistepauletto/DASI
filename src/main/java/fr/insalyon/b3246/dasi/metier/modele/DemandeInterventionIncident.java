@@ -15,8 +15,8 @@ import javax.persistence.Entity;
 @Entity
 public class DemandeInterventionIncident extends DemandeIntervention {
 
-    public DemandeInterventionIncident(Date dateDeb, Date dateFin, String descriptionClient) {
-        super(dateDeb, dateFin, descriptionClient);
+    public DemandeInterventionIncident(Date dateDeb, String descriptionClient) {
+        super(dateDeb, descriptionClient);
     }
     
     public DemandeInterventionIncident() {

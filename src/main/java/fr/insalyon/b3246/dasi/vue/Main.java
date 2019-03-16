@@ -53,6 +53,8 @@ public class Main {
 
         /*Personne a = PersonneService.authentifier("a@b.com", "abc");
         System.out.println(a.getNom());*/
+        
+        
                 
         JpaUtil.destroy();
      }

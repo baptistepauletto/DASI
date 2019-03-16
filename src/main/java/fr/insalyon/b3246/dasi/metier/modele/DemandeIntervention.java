@@ -26,7 +26,8 @@ public abstract class DemandeIntervention {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
-    private enum Statut {EN_ATTENTE,EN_COURS,FINIE};
+    private enum Statut {REJETEE,EN_COURS,FINIE_SUCCES, FINIE_ECHEC};
+    private Statut statut;
     
     @Temporal(TemporalType.TIMESTAMP)
     private Date dateDeb;
@@ -43,9 +44,8 @@ public abstract class DemandeIntervention {
     @ManyToOne
     private Employe employe;
 
-    public DemandeIntervention(Date dateDeb, Date dateFin, String descriptionClient) {
+    public DemandeIntervention(Date dateDeb, String descriptionClient) {
         this.dateDeb = dateDeb;
-        this.dateFin = dateFin;
         this.descriptionClient = descriptionClient;
     }
 
