@@ -34,6 +34,70 @@ public abstract class DemandeIntervention {
     
     @Temporal(TemporalType.TIMESTAMP)
     private Date dateFin;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public Statut getStatut() {
+        return statut;
+    }
+
+    public void setStatut(Statut statut) {
+        this.statut = statut;
+    }
+
+    public Date getDateDeb() {
+        return dateDeb;
+    }
+
+    public void setDateDeb(Date dateDeb) {
+        this.dateDeb = dateDeb;
+    }
+
+    public Date getDateFin() {
+        return dateFin;
+    }
+
+    public void setDateFin(Date dateFin) {
+        this.dateFin = dateFin;
+    }
+
+    public String getDescriptionClient() {
+        return descriptionClient;
+    }
+
+    public void setDescriptionClient(String descriptionClient) {
+        this.descriptionClient = descriptionClient;
+    }
+
+    public String getDescriptionEmploye() {
+        return descriptionEmploye;
+    }
+
+    public void setDescriptionEmploye(String descriptionEmploye) {
+        this.descriptionEmploye = descriptionEmploye;
+    }
+
+    public Client getClient() {
+        return client;
+    }
+
+    public void setClient(Client client) {
+        this.client = client;
+    }
+
+    public Employe getEmploye() {
+        return employe;
+    }
+
+    public void setEmploye(Employe employe) {
+        this.employe = employe;
+    }
     
     private String descriptionClient;
     private String descriptionEmploye;

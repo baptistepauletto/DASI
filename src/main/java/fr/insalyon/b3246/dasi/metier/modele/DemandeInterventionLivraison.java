@@ -25,6 +25,22 @@ public class DemandeInterventionLivraison extends DemandeIntervention {
 
     public DemandeInterventionLivraison() {
     }
+
+    public String getObjet() {
+        return objet;
+    }
+
+    public void setObjet(String objet) {
+        this.objet = objet;
+    }
+
+    public String getEntreprise() {
+        return entreprise;
+    }
+
+    public void setEntreprise(String entreprise) {
+        this.entreprise = entreprise;
+    }
     
     
 }

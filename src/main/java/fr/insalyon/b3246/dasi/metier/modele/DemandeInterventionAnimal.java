@@ -21,6 +21,14 @@ public class DemandeInterventionAnimal extends DemandeIntervention {
         this.animal = animal;
     }
 
+    public String getAnimal() {
+        return animal;
+    }
+
+    public void setAnimal(String animal) {
+        this.animal = animal;
+    }
+
     public DemandeInterventionAnimal() {
     }
     
