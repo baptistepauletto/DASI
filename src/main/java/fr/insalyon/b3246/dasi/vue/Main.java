@@ -34,6 +34,7 @@ public class Main {
     
      public static void main(String[] args) throws IOException, FileNotFoundException, ParseException {
         JpaUtil.init();
+        InitDonnees.peuplementBase();
         
         Client client = new Client("Chungus Jr.","a@b.com","abc");
         ClientService.inscrireClient(client);
@@ -47,14 +48,12 @@ public class Main {
         Date dateDeb = df.parse(debut);
         Date dateFin = df.parse(fin);
         
-        //DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", dateDeb, dateFin, "blabla");
-        //DemandeInterventionService.ajouterDemandeInvervention(DIA);
+        DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", dateDeb, dateFin, "blabla");
+        DemandeInterventionService.ajouterDemandeInvervention(DIA);
 
         /*Personne a = PersonneService.authentifier("a@b.com", "abc");
         System.out.println(a.getNom());*/
-        
-        InitDonnees.peuplementBase();
-        
+                
         JpaUtil.destroy();
      }
 }
