@@ -71,6 +71,7 @@ public abstract class Personne implements Serializable {
         this.coords = GeoTest.getLatLng(this.adresse);
 
     }
+    
 
     public LatLng getCoords() {
         return coords;

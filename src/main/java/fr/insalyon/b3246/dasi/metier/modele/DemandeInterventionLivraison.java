@@ -28,12 +28,11 @@ public class DemandeInterventionLivraison extends DemandeIntervention {
         this.objet = objet;
         this.entreprise = entreprise;
     }
-    
-    
 
     public DemandeInterventionLivraison() {
     }
 
+    
     public String getObjet() {
         return objet;
     }

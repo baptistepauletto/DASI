@@ -7,6 +7,8 @@ package fr.insalyon.b3246.dasi.metier.service;
 
 import fr.insalyon.b3246.dasi.dao.JpaUtil;
 import fr.insalyon.b3246.dasi.dao.PersonneDAO;
+import fr.insalyon.b3246.dasi.metier.modele.Client;
+import fr.insalyon.b3246.dasi.metier.modele.Employe;
 import fr.insalyon.b3246.dasi.metier.modele.Personne;
 import javax.persistence.Query;
 
@@ -16,11 +18,19 @@ import javax.persistence.Query;
  */
 public class PersonneService {
     
-    public static Personne authentifier(String adresseMail, String motDePasse){
+    public static Personne authentifier(String adresseMail, String motDePasse, boolean estEmploye){
         JpaUtil.creerEntityManager();
-        String jpql = "select p from Personne p where p.adresseMail = :adresseMail and p.motDePasse = :motDePasse";
-        JpaUtil.ouvrirTransaction();
         Personne utilisateurCourant = null;
+        String jpql = null;
+        if (estEmploye){
+            jpql = "select e from Employe e where e.adresseMail = :adresseMail and e.motDePasse = :motDePasse";
+            utilisateurCourant = (Employe) utilisateurCourant;
+        }
+        else {
+            jpql = "select c from Client c where c.adresseMail = :adresseMail and c.motDePasse = :motDePasse";
+            utilisateurCourant = (Client) utilisateurCourant;
+        }
+        JpaUtil.ouvrirTransaction();
         
         try {
             utilisateurCourant = PersonneDAO.verifUtilisateur(jpql, adresseMail, motDePasse);

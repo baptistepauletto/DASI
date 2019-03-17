@@ -9,6 +9,7 @@ import fr.insalyon.b3246.dasi.dao.InitDonnees;
 import fr.insalyon.b3246.dasi.dao.JpaUtil;
 import fr.insalyon.b3246.dasi.metier.modele.Client;
 import fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionAnimal;
+import fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionIncident;
 import fr.insalyon.b3246.dasi.metier.modele.Employe;
 import fr.insalyon.b3246.dasi.metier.modele.Personne;
 import fr.insalyon.b3246.dasi.metier.service.ClientService;
@@ -36,27 +37,33 @@ public class Main {
         JpaUtil.init();
         InitDonnees.peuplementBase();
         
-        String naiss = "2000-02-16";
         DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+
+        
+        String naiss = "2000-02-16";
         Date dateNaiss = df.parse(naiss); 
         Client client = new Client("Bro", "Mario", "Monsieur", dateNaiss, "40 rue de Bruxelles, Villeurbanne", "0601545864", "agb@d", "root");
         ClientService.inscrireClient(client);
         
-        Employe employe = new Employe("Gelus", "abc@mail", "bcd");
-        EmployeService.inscrireEmploye(employe);
+        Date dateNaiss2 = df.parse(naiss); 
+        Client client2 = new Client("Bro", "Luigi", "Monsieur", dateNaiss2, "20 avenue Albert Einstein, Villeurbanne", "0601545863", "agy@d", "root");
+        ClientService.inscrireClient(client2);
+        
+        /*Employe employe = new Employe("Gelus", "abc@mail", "bcd");
+        EmployeService.inscrireEmploye(employe);*/
         
         DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", "blabla");
         ClientService.faireDemandeIntervention(DIA, client);
         
-        /*
-        String debut = "2019-02-16";
-        DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
-        Date dateDeb = df.parse(debut);        
-        DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", dateDeb, "blabla");
-        DemandeInterventionService.ajouterDemandeInvervention(DIA);*/
+        DemandeInterventionIncident DII = new DemandeInterventionIncident("blabla");
+        ClientService.faireDemandeIntervention(DII, client2);
+        
+        Employe e = (Employe) PersonneService.authentifier("nolmeadamarais1551@gmail.com", "root", true);
+        //System.out.println("e : "+e.getAdresseMail());
+        /*Client c = (Client) PersonneService.authentifier("agb@d", "root", false);
+        System.out.println("c : "+c.getAdresseMail());*/
+        EmployeService.cloreDemandeIntervention(e, true, "RAS");
 
-        /*Personne a = PersonneService.authentifier("a@b.com", "abc");
-        System.out.println(a.getNom());*/
                 
         JpaUtil.destroy();
      }

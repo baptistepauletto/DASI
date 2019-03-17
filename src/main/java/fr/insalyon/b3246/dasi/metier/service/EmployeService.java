@@ -6,11 +6,16 @@
 package fr.insalyon.b3246.dasi.metier.service;
 
 import com.google.maps.model.LatLng;
+import fr.insalyon.b3246.dasi.dao.DemandeInterventionDAO;
 import fr.insalyon.b3246.dasi.dao.EmployeDAO;
 import fr.insalyon.b3246.dasi.dao.JpaUtil;
 import fr.insalyon.b3246.dasi.dao.PersonneDAO;
+import fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention;
+import fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention.Statut;
 import fr.insalyon.b3246.dasi.metier.modele.Employe;
 import fr.insalyon.b3246.dasi.metier.modele.Personne;
+import fr.insalyon.b3246.dasi.util.Message;
+import java.util.Date;
 
 /**
  *
@@ -46,10 +51,23 @@ public class EmployeService {
         } finally {
             JpaUtil.fermerEntityManager();
         }
-        if (resultat != null){
-            //PersonneService.persister(resultat);
-        }
+
         return resultat;
+    }
+    
+    public static void cloreDemandeIntervention (Employe emp, boolean succes, String descriptionEmp){
+        JpaUtil.creerEntityManager();
+        JpaUtil.ouvrirTransaction();
+        
+        try {
+            DemandeInterventionDAO.cloreDemandeIntervention(emp, succes, descriptionEmp);
+            JpaUtil.validerTransaction();
+        } catch (Exception e) {
+            JpaUtil.annulerTransaction();
+            e.printStackTrace();
+        } finally {
+            JpaUtil.fermerEntityManager();
+        }        
     }
     
 }
