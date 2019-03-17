@@ -14,8 +14,8 @@ import javax.persistence.EntityManager;
  */
 public class DemandeInterventionDAO {
     
-    public static void persister(DemandeIntervention p){
+    public static void persister(DemandeIntervention demande){
         EntityManager em = JpaUtil.obtenirEntityManager();
-        em.persist(p);
+        em.persist(demande);
     }
 }

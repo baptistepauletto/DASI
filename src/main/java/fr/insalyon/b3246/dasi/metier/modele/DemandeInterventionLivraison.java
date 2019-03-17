@@ -23,6 +23,14 @@ public class DemandeInterventionLivraison extends DemandeIntervention {
         this.entreprise = entreprise;
     }
 
+    public DemandeInterventionLivraison(String objet, String entreprise, String descriptionClient) {
+        super(descriptionClient);
+        this.objet = objet;
+        this.entreprise = entreprise;
+    }
+    
+    
+
     public DemandeInterventionLivraison() {
     }
 

@@ -59,7 +59,7 @@ public abstract class Personne implements Serializable {
         this.coords = GeoTest.getLatLng(this.adresse);
     }
 
-    public Personne(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail) {
+    public Personne(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail, String motDePasse) {
         this.nom = nom;
         this.prenom = prenom;
         this.civilite = civilite;
@@ -67,6 +67,17 @@ public abstract class Personne implements Serializable {
         this.adresse = adresse;
         this.numTelephone = numTelephone;
         this.adresseMail = adresseMail;
+        this.motDePasse = motDePasse;
+        this.coords = GeoTest.getLatLng(this.adresse);
+
+    }
+
+    public LatLng getCoords() {
+        return coords;
+    }
+
+    public void setCoords(LatLng coords) {
+        this.coords = coords;
     }
 
 

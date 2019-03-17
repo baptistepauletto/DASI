@@ -5,9 +5,12 @@
  */
 package fr.insalyon.b3246.dasi.metier.service;
 
+import com.google.maps.model.LatLng;
+import fr.insalyon.b3246.dasi.dao.EmployeDAO;
 import fr.insalyon.b3246.dasi.dao.JpaUtil;
 import fr.insalyon.b3246.dasi.dao.PersonneDAO;
 import fr.insalyon.b3246.dasi.metier.modele.Employe;
+import fr.insalyon.b3246.dasi.metier.modele.Personne;
 
 /**
  *
@@ -28,4 +31,25 @@ public class EmployeService {
             JpaUtil.fermerEntityManager();
         }
     }
+    
+    public static Employe rechercheEmployeDispo(LatLng coordClient, Integer heureDemande){
+        JpaUtil.creerEntityManager();
+        Employe resultat = null;
+        JpaUtil.ouvrirTransaction();
+        
+        try {
+            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);
+            JpaUtil.validerTransaction();
+        } catch (Exception e) {
+            JpaUtil.annulerTransaction();
+            e.printStackTrace();
+        } finally {
+            JpaUtil.fermerEntityManager();
+        }
+        if (resultat != null){
+            PersonneService.persister(resultat);
+        }
+        return resultat;
+    }
+    
 }

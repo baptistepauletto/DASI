@@ -36,25 +36,27 @@ public class Main {
         JpaUtil.init();
         InitDonnees.peuplementBase();
         
-        Client client = new Client("Chungus Jr.","a@b.com","abc");
+        String naiss = "2000-02-16";
+        DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+        Date dateNaiss = df.parse(naiss); 
+        Client client = new Client("Bro", "Mario", "Monsieur", dateNaiss, "20 avenue Albert Einstein, Villeurbanne", "0601545864", "agb@d", "root");
         ClientService.inscrireClient(client);
         
         Employe employe = new Employe("Gelus", "abc@mail", "bcd");
         EmployeService.inscrireEmploye(employe);
         
-        String debut = "2019-02-16";
-        String fin = "2019-03-16";
-        DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
-        Date dateDeb = df.parse(debut);
-        Date dateFin = df.parse(fin);
+        DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", "blabla");
+        ClientService.faireDemandeIntervention(DIA, client);
         
-        DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", dateDeb, dateFin, "blabla");
-        DemandeInterventionService.ajouterDemandeInvervention(DIA);
+        /*
+        String debut = "2019-02-16";
+        DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+        Date dateDeb = df.parse(debut);        
+        DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", dateDeb, "blabla");
+        DemandeInterventionService.ajouterDemandeInvervention(DIA);*/
 
         /*Personne a = PersonneService.authentifier("a@b.com", "abc");
         System.out.println(a.getNom());*/
-        
-        
                 
         JpaUtil.destroy();
      }

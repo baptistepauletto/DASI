@@ -5,6 +5,7 @@
  */
 package fr.insalyon.b3246.dasi.metier.modele;
 
+import java.time.LocalDateTime;
 import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -26,7 +27,7 @@ public abstract class DemandeIntervention {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
-    private enum Statut {REJETEE,EN_COURS,FINIE_SUCCES, FINIE_ECHEC};
+    public enum Statut {REJETEE,EN_COURS,FINIE_SUCCES, FINIE_ECHEC};
     private Statut statut;
     
     @Temporal(TemporalType.TIMESTAMP)
@@ -35,6 +36,30 @@ public abstract class DemandeIntervention {
     @Temporal(TemporalType.TIMESTAMP)
     private Date dateFin;
 
+    private String descriptionClient;
+    private String descriptionEmploye;
+    
+    @ManyToOne
+    private Client client;
+    
+    @ManyToOne
+    private Employe employe;
+
+    public DemandeIntervention(Date dateDeb, String descriptionClient) {
+        this.dateDeb = dateDeb;
+        this.descriptionClient = descriptionClient;
+        this.statut = Statut.EN_COURS;
+    }
+    
+    public DemandeIntervention(String descriptionClient) {
+        this.dateDeb = new Date();
+        this.descriptionClient = descriptionClient;
+        this.statut = Statut.EN_COURS;
+    }
+
+    public DemandeIntervention() {
+    }
+    
     public Integer getId() {
         return id;
     }
@@ -98,23 +123,4 @@ public abstract class DemandeIntervention {
     public void setEmploye(Employe employe) {
         this.employe = employe;
     }
-    
-    private String descriptionClient;
-    private String descriptionEmploye;
-    
-    @ManyToOne
-    private Client client;
-    
-    @ManyToOne
-    private Employe employe;
-
-    public DemandeIntervention(Date dateDeb, String descriptionClient) {
-        this.dateDeb = dateDeb;
-        this.descriptionClient = descriptionClient;
-    }
-
-    public DemandeIntervention() {
-    }
-    
-    
 }

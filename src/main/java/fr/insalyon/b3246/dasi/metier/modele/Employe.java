@@ -18,8 +18,8 @@ import javax.persistence.Transient;
  */
 @Entity
 public class Employe extends Personne{
-    @Transient
-    private boolean estDisponible;
+    //@Transient
+    private boolean estDisponible = true;
     
     private Integer heureDebTravail;
     private Integer heureFinTravail;
@@ -28,11 +28,12 @@ public class Employe extends Personne{
         super(nom, prenom, civilite, date, adresse, ville, numTelephone, adresseMail, motDePasse);
         this.heureDebTravail = heureDebTravail;
         this.heureFinTravail = heureFinTravail;
-        this.estDisponible = true;
     }
 
-    public Employe(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail) {
-        super(nom, prenom, civilite, date, adresse, numTelephone, adresseMail);
+    public Employe(String nom, String prenom, String civilite, Date date, String adresse, String numTelephone, String adresseMail, Integer heureDebTravail, Integer heureFinTravail, String motDePasse){
+        super(nom, prenom, civilite, date, adresse, numTelephone, adresseMail, motDePasse);
+        this.heureDebTravail = heureDebTravail;
+        this.heureFinTravail = heureFinTravail;
     }
 
 
@@ -45,6 +46,30 @@ public class Employe extends Personne{
     }
     
     public Employe() {
+    }
+
+    public boolean isEstDisponible() {
+        return estDisponible;
+    }
+
+    public void setEstDisponible(boolean estDisponible) {
+        this.estDisponible = estDisponible;
+    }
+
+    public Integer getHeureDebTravail() {
+        return heureDebTravail;
+    }
+
+    public void setHeureDebTravail(Integer heureDebTravail) {
+        this.heureDebTravail = heureDebTravail;
+    }
+
+    public Integer getHeureFinTravail() {
+        return heureFinTravail;
+    }
+
+    public void setHeureFinTravail(Integer heureFinTravail) {
+        this.heureFinTravail = heureFinTravail;
     }
     
 }

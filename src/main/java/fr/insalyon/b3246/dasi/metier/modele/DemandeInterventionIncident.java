@@ -18,6 +18,12 @@ public class DemandeInterventionIncident extends DemandeIntervention {
     public DemandeInterventionIncident(Date dateDeb, String descriptionClient) {
         super(dateDeb, descriptionClient);
     }
+
+    public DemandeInterventionIncident(String descriptionClient) {
+        super(descriptionClient);
+    }
+    
+    
     
     public DemandeInterventionIncident() {
     }
