@@ -52,7 +52,7 @@ public class ClientService {
             Message.envoyerNotification(c.getNumTelephone(), "Pas d'employé disponible. Nous vous prions de réessayer ultérieurement");        }
         else {
             demande.setEmploye(emp);
-            Message.envoyerNotification(emp.getNumTelephone(), "Vous avez une intervention à faire");
+            Message.envoyerNotification(emp.getNumTelephone(), emp.getNom() + " Vous avez une intervention à faire");
         }
         
         DemandeInterventionService.ajouterDemandeInvervention(demande);

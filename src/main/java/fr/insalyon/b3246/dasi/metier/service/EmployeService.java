@@ -47,7 +47,7 @@ public class EmployeService {
             JpaUtil.fermerEntityManager();
         }
         if (resultat != null){
-            PersonneService.persister(resultat);
+            //PersonneService.persister(resultat);
         }
         return resultat;
     }

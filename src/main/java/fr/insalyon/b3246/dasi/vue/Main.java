@@ -39,7 +39,7 @@ public class Main {
         String naiss = "2000-02-16";
         DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
         Date dateNaiss = df.parse(naiss); 
-        Client client = new Client("Bro", "Mario", "Monsieur", dateNaiss, "20 avenue Albert Einstein, Villeurbanne", "0601545864", "agb@d", "root");
+        Client client = new Client("Bro", "Mario", "Monsieur", dateNaiss, "40 rue de Bruxelles, Villeurbanne", "0601545864", "agb@d", "root");
         ClientService.inscrireClient(client);
         
         Employe employe = new Employe("Gelus", "abc@mail", "bcd");
