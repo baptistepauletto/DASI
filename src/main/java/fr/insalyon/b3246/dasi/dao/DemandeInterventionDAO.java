@@ -25,32 +25,11 @@ public class DemandeInterventionDAO {
         em.persist(demande);
     }
     
-    public static void cloreDemandeIntervention(Employe emp, boolean succes, String descriptionEmp ){
+    public static DemandeIntervention executerRequete(Employe emp, String jpql ){
         EntityManager em = JpaUtil.obtenirEntityManager();
-        String jpql = "select d from DemandeIntervention d where d.statut = fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention.Statut.EN_COURS";
-        //String jpql = "select d from DemandeIntervention d";
         Query query = em.createQuery(jpql);
-        List<DemandeIntervention> resultat = (List<DemandeIntervention>) query.getResultList();
-        DemandeIntervention demande = null;
-        
-        for (int i = 0; i<resultat.size(); i++){
-            if (resultat.get(i).getEmploye().getAdresseMail() == emp.getAdresseMail() ){
-                demande = resultat.get(i);
-                break;
-            }
-        }
-        
-        demande.setDateFin(new Date());
-        if (succes){
-            demande.setStatut(DemandeIntervention.Statut.FINIE_SUCCES);
-            demande.setDescriptionEmploye(descriptionEmp);
-            Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé est accomplie.");
-        }
-        else {
-            demande.setStatut(DemandeIntervention.Statut.FINIE_ECHEC);
-            Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé a échoué. Veuillez nous recontacter pour plus d'informations.");
-        }
-        emp.setEstDisponible(true);
-        em.persist(demande);
+        query.setParameter("employe",emp);
+        DemandeIntervention demande = (DemandeIntervention) query.getSingleResult();
+        return demande;
     }
 }

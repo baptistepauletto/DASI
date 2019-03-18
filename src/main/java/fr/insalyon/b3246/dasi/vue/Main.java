@@ -16,6 +16,7 @@ import fr.insalyon.b3246.dasi.metier.service.ClientService;
 import fr.insalyon.b3246.dasi.metier.service.DemandeInterventionService;
 import fr.insalyon.b3246.dasi.metier.service.EmployeService;
 import fr.insalyon.b3246.dasi.metier.service.PersonneService;
+import fr.insalyon.b3246.dasi.metier.service.Service;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.DateFormat;
@@ -43,26 +44,26 @@ public class Main {
         String naiss = "2000-02-16";
         Date dateNaiss = df.parse(naiss); 
         Client client = new Client("Bro", "Mario", "Monsieur", dateNaiss, "40 rue de Bruxelles, Villeurbanne", "0601545864", "agb@d", "root");
-        ClientService.inscrireClient(client);
+        Service.inscrireClient(client);
         
         Date dateNaiss2 = df.parse(naiss); 
         Client client2 = new Client("Bro", "Luigi", "Monsieur", dateNaiss2, "20 avenue Albert Einstein, Villeurbanne", "0601545863", "agy@d", "root");
-        ClientService.inscrireClient(client2);
+        Service.inscrireClient(client2);
         
         /*Employe employe = new Employe("Gelus", "abc@mail", "bcd");
         EmployeService.inscrireEmploye(employe);*/
         
         DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", "blabla");
-        ClientService.faireDemandeIntervention(DIA, client);
+        Service.faireDemandeIntervention(DIA, client);
         
         DemandeInterventionIncident DII = new DemandeInterventionIncident("blabla");
-        ClientService.faireDemandeIntervention(DII, client2);
+        Service.faireDemandeIntervention(DII, client2);
         
-        Employe e = (Employe) PersonneService.authentifier("nolmeadamarais1551@gmail.com", "root", true);
+        Employe e = (Employe) Service.authentifier("nolmeadamarais1551@gmail.com", "root", true);
         //System.out.println("e : "+e.getAdresseMail());
         /*Client c = (Client) PersonneService.authentifier("agb@d", "root", false);
         System.out.println("c : "+c.getAdresseMail());*/
-        EmployeService.cloreDemandeIntervention(e, true, "RAS");
+        Service.cloreDemandeIntervention(e, true, "RAS");
 
                 
         JpaUtil.destroy();

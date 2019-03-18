@@ -14,16 +14,18 @@ import fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention;
 import fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention.Statut;
 import fr.insalyon.b3246.dasi.metier.modele.Employe;
 import fr.insalyon.b3246.dasi.metier.modele.Personne;
+import fr.insalyon.b3246.dasi.util.GeoTest;
 import fr.insalyon.b3246.dasi.util.Message;
 import java.util.Date;
+import java.util.List;
 
 /**
  *
  * @author bpauletto
  */
 public class EmployeService {
-    
-    public static void inscrireEmploye(Employe emp){
+
+    public static void inscrireEmploye(Employe emp) {
         JpaUtil.creerEntityManager();
         JpaUtil.ouvrirTransaction();
         try {
@@ -36,14 +38,25 @@ public class EmployeService {
             JpaUtil.fermerEntityManager();
         }
     }
-    
-    public static Employe rechercheEmployeDispo(LatLng coordClient, Integer heureDemande){
+
+    public static void cloreDemandeIntervention(Employe emp, boolean succes, String descriptionEmp) {
         JpaUtil.creerEntityManager();
-        Employe resultat = null;
         JpaUtil.ouvrirTransaction();
-        
+
+        String jpql = "select d from DemandeIntervention d where d.employe =:employe and d.statut = fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention.Statut.EN_COURS";
+        DemandeIntervention demande = null;
         try {
-            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);
+            demande = DemandeInterventionDAO.executerRequete(emp, jpql);
+            demande.setDateFin(new Date());
+            if (succes) {
+                demande.setStatut(DemandeIntervention.Statut.FINIE_SUCCES);
+                demande.setDescriptionEmploye(descriptionEmp);
+                Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé est accomplie." + descriptionEmp);
+            } else {
+                demande.setStatut(DemandeIntervention.Statut.FINIE_ECHEC);
+                Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé a échoué. Veuillez nous recontacter pour plus d'informations." + descriptionEmp);
+            }
+            emp.setEstDisponible(true);
             JpaUtil.validerTransaction();
         } catch (Exception e) {
             JpaUtil.annulerTransaction();
@@ -51,23 +64,6 @@ public class EmployeService {
         } finally {
             JpaUtil.fermerEntityManager();
         }
+    }
 
-        return resultat;
-    }
-    
-    public static void cloreDemandeIntervention (Employe emp, boolean succes, String descriptionEmp){
-        JpaUtil.creerEntityManager();
-        JpaUtil.ouvrirTransaction();
-        
-        try {
-            DemandeInterventionDAO.cloreDemandeIntervention(emp, succes, descriptionEmp);
-            JpaUtil.validerTransaction();
-        } catch (Exception e) {
-            JpaUtil.annulerTransaction();
-            e.printStackTrace();
-        } finally {
-            JpaUtil.fermerEntityManager();
-        }        
-    }
-    
 }

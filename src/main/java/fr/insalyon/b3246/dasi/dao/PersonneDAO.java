@@ -28,9 +28,14 @@ public class PersonneDAO {
         Query query = em.createQuery(jpql);
         query.setParameter("adresseMail", adresseMail);
         query.setParameter("motDePasse", motDePasse);
-        List<Personne> resultat = (List<Personne>) query.getResultList();
-        Personne pCherchee = resultat.get(0);
-        return pCherchee;
+        Personne resultat = (Personne) query.getSingleResult();
+        return resultat;
+    }
+
+    public static Personne trouver(Integer id) {
+        EntityManager em = JpaUtil.obtenirEntityManager();
+        Personne pTrouvee = em.find(Personne.class, id);
+        return pTrouvee;
     }
 
 

@@ -18,27 +18,18 @@ import javax.persistence.Query;
  */
 public class EmployeDAO {
     
-    public static Employe rechercheEmployeDispo(LatLng adresseClient, Integer heureDemande){
-        String jpql = "select e from Employe e where e.estDisponible = true and e.heureDebTravail <= :heureDemande and e.heureFinTravail > :heureDemande";
+    public static void modifierDisponibiliteEmploye(Employe emp) {
+        emp.setEstDisponible(!emp.isEstDisponible());
+    }
+    
+    public static List<Employe> rechercheEmployeDispo(LatLng adresseClient, Integer heureDemande, String jpql){
+        
         EntityManager em = JpaUtil.obtenirEntityManager();
         Query query = em.createQuery(jpql);
         query.setParameter("heureDemande", heureDemande);
         List<Employe> resultat = (List<Employe>) query.getResultList();
-        
-        if (resultat.isEmpty()){
-            return null;
-        }
-        
-        Employe empRetenu = resultat.get(0);
-        Double dureeTrajet = GeoTest.getTripDurationByBicycleInMinute(empRetenu.getCoords(), adresseClient);
-        for (int i = 1; i<resultat.size(); i++){
-            if (GeoTest.getTripDurationByBicycleInMinute(resultat.get(i).getCoords(), adresseClient) < dureeTrajet){
-                dureeTrajet = GeoTest.getTripDurationByBicycleInMinute(resultat.get(i).getCoords(), adresseClient);
-                empRetenu = resultat.get(i);
-            }
-        }
-        empRetenu.setEstDisponible(false);
-        
-        return empRetenu;
+        return resultat;
     }
+
+    
 }

@@ -45,17 +45,4 @@ public class PersonneService {
         return utilisateurCourant;
     }
     
-    public static void persister(Personne p){
-        JpaUtil.creerEntityManager();
-        JpaUtil.ouvrirTransaction();
-        try {
-            PersonneDAO.persister(p);
-            JpaUtil.validerTransaction();
-        } catch (Exception e) {
-            JpaUtil.annulerTransaction();
-            e.printStackTrace();
-        } finally {
-            JpaUtil.fermerEntityManager();
-        }
-    }
 }
