@@ -6,7 +6,7 @@
 package fr.insalyon.b3246.dasi.dao;
 
 import fr.insalyon.b3246.dasi.metier.modele.Employe;
-import fr.insalyon.b3246.dasi.metier.service.EmployeService;
+import fr.insalyon.b3246.dasi.metier.service.Service;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -43,7 +43,7 @@ public class InitDonnees {
                         DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
                         Date paramDate = df.parse(params.get(3));
                         Employe emp = new Employe(params.get(1), params.get(2),params.get(0),paramDate, params.get(4), params.get(5), params.get(6), new Integer(8), new Integer(18), "root");
-                        EmployeService.inscrireEmploye(emp);
+                        Service.inscrireEmploye(emp);
                     }
                     else {
                         break;

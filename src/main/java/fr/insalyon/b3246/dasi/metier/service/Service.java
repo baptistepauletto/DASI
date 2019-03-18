@@ -6,6 +6,7 @@
 package fr.insalyon.b3246.dasi.metier.service;
 
 import com.google.maps.model.LatLng;
+import fr.insalyon.b3246.dasi.dao.ClientDAO;
 import fr.insalyon.b3246.dasi.dao.DemandeInterventionDAO;
 import fr.insalyon.b3246.dasi.dao.EmployeDAO;
 import fr.insalyon.b3246.dasi.dao.JpaUtil;
@@ -58,8 +59,7 @@ public class Service {
         JpaUtil.ouvrirTransaction();
 
         try {
-            String jpql = "select e from Employe e where e.estDisponible = true and e.heureDebTravail <= :heureDemande and e.heureFinTravail > :heureDemande";
-            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande, jpql);
+            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);
             // recherche de l'employe le plus proche geographiquement du client
             if (!resultat.isEmpty()) {
                 empRetenu = resultat.get(0);
@@ -124,10 +124,10 @@ public class Service {
         JpaUtil.creerEntityManager();
         JpaUtil.ouvrirTransaction();
 
-        String jpql = "select d from DemandeIntervention d where d.employe =:employe and d.statut = fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention.Statut.EN_COURS";
         DemandeIntervention demande = null;
+        Employe EMP = EmployeDAO.trouver(emp.getId());
         try {
-            demande = DemandeInterventionDAO.executerRequete(emp, jpql);
+            demande = DemandeInterventionDAO.interventionEmployeEnCours(EMP);
             demande.setDateFin(new Date());
             if (succes) {
                 demande.setStatut(DemandeIntervention.Statut.FINIE_SUCCES);
@@ -137,7 +137,7 @@ public class Service {
                 demande.setStatut(DemandeIntervention.Statut.FINIE_ECHEC);
                 Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé a échoué. Veuillez nous recontacter pour plus d'informations." + descriptionEmp);
             }
-            emp.setEstDisponible(true);
+            EMP.setEstDisponible(true);
             JpaUtil.validerTransaction();
         } catch (Exception e) {
             JpaUtil.annulerTransaction();
@@ -147,22 +147,14 @@ public class Service {
         }
     }
     
-    public static Personne authentifier(String adresseMail, String motDePasse, boolean estEmploye){
+    public static Employe authentifierEmploye(String adresseMail, String motDePasse){
         JpaUtil.creerEntityManager();
-        Personne utilisateurCourant = null;
-        String jpql = null;
-        if (estEmploye){
-            jpql = "select e from Employe e where e.adresseMail = :adresseMail and e.motDePasse = :motDePasse";
-            utilisateurCourant = (Employe) utilisateurCourant;
-        }
-        else {
-            jpql = "select c from Client c where c.adresseMail = :adresseMail and c.motDePasse = :motDePasse";
-            utilisateurCourant = (Client) utilisateurCourant;
-        }
-        JpaUtil.ouvrirTransaction();
+        Employe utilisateurCourant = null;
         
+        JpaUtil.ouvrirTransaction();
+
         try {
-            utilisateurCourant = PersonneDAO.verifUtilisateur(jpql, adresseMail, motDePasse);
+            utilisateurCourant = EmployeDAO.verifUtilisateur( adresseMail, motDePasse);
             JpaUtil.validerTransaction();
         } catch (Exception e) {
             JpaUtil.annulerTransaction();
@@ -173,5 +165,81 @@ public class Service {
         
         return utilisateurCourant;
     }
+    
+    public static Client authentifierClient(String adresseMail, String motDePasse){
+        JpaUtil.creerEntityManager();
+        Client utilisateurCourant = null;
+        
+        JpaUtil.ouvrirTransaction();
+
+        try {
+            utilisateurCourant = ClientDAO.verifUtilisateur( adresseMail, motDePasse);
+            JpaUtil.validerTransaction();
+        } catch (Exception e) {
+            JpaUtil.annulerTransaction();
+            e.printStackTrace();
+        } finally {
+            JpaUtil.fermerEntityManager();
+        }
+        
+        return utilisateurCourant;
+    }
+    
+    public static DemandeIntervention interventionEmployeEnCours ( Employe emp){
+        JpaUtil.creerEntityManager();
+        DemandeIntervention intervention = null;
+        
+        JpaUtil.ouvrirTransaction();  
+        
+         try {
+            intervention = DemandeInterventionDAO.interventionEmployeEnCours(emp);
+            JpaUtil.validerTransaction();
+        } catch (Exception e) {
+            JpaUtil.annulerTransaction();
+            e.printStackTrace();
+        } finally {
+            JpaUtil.fermerEntityManager();
+        }
+        
+        return intervention;
+    }
+    
+    public static List <DemandeIntervention> historiqueClient (Client c){
+        JpaUtil.creerEntityManager();
+        List <DemandeIntervention> intervention = null;
+        
+        JpaUtil.ouvrirTransaction();  
+        
+         try {
+            intervention = DemandeInterventionDAO.historiqueClient(c);
+            JpaUtil.validerTransaction();
+        } catch (Exception e) {
+            JpaUtil.annulerTransaction();
+            e.printStackTrace();
+        } finally {
+            JpaUtil.fermerEntityManager();
+        }
+        
+        return intervention;
+    }
+    /*
+    public static List <DemandeIntervention> tableauDeBordEmploye (){
+        JpaUtil.creerEntityManager();
+        List <DemandeIntervention> intervention = null;
+        
+        JpaUtil.ouvrirTransaction();  
+        
+         try {
+            intervention = DemandeInterventionDAO.tableauDeBordEmploye();
+            JpaUtil.validerTransaction();
+        } catch (Exception e) {
+            JpaUtil.annulerTransaction();
+            e.printStackTrace();
+        } finally {
+            JpaUtil.fermerEntityManager();
+        }
+        
+        return intervention;
+    }*/
     
 }

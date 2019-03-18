@@ -23,14 +23,6 @@ public class PersonneDAO {
         em.persist(p);
     }
     
-    public static Personne verifUtilisateur(String jpql, String adresseMail, String motDePasse){
-        EntityManager em = JpaUtil.obtenirEntityManager();
-        Query query = em.createQuery(jpql);
-        query.setParameter("adresseMail", adresseMail);
-        query.setParameter("motDePasse", motDePasse);
-        Personne resultat = (Personne) query.getSingleResult();
-        return resultat;
-    }
 
     public static Personne trouver(Integer id) {
         EntityManager em = JpaUtil.obtenirEntityManager();
