@@ -26,7 +26,7 @@ import java.util.List;
  * @author bpauletto
  */
 public class Service {
-    
+
     public static void inscrireClient(Client c) {
         JpaUtil.creerEntityManager();
         JpaUtil.ouvrirTransaction();
@@ -59,7 +59,8 @@ public class Service {
         JpaUtil.ouvrirTransaction();
 
         try {
-            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);
+            //resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);
+            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, 15);
             // recherche de l'employe le plus proche geographiquement du client
             if (!resultat.isEmpty()) {
                 empRetenu = resultat.get(0);
@@ -91,8 +92,8 @@ public class Service {
             JpaUtil.fermerEntityManager();
         }
     }
-    
-    public static void ajouterDemandeInvervention(DemandeIntervention demande){
+
+    public static void ajouterDemandeInvervention(DemandeIntervention demande) {
         JpaUtil.creerEntityManager();
         JpaUtil.ouvrirTransaction();
         try {
@@ -105,7 +106,7 @@ public class Service {
             JpaUtil.fermerEntityManager();
         }
     }
-    
+
     public static void inscrireEmploye(Employe emp) {
         JpaUtil.creerEntityManager();
         JpaUtil.ouvrirTransaction();
@@ -146,15 +147,15 @@ public class Service {
             JpaUtil.fermerEntityManager();
         }
     }
-    
-    public static Employe authentifierEmploye(String adresseMail, String motDePasse){
+
+    public static Employe authentifierEmploye(String adresseMail, String motDePasse) {
         JpaUtil.creerEntityManager();
         Employe utilisateurCourant = null;
-        
+
         JpaUtil.ouvrirTransaction();
 
         try {
-            utilisateurCourant = EmployeDAO.verifUtilisateur( adresseMail, motDePasse);
+            utilisateurCourant = EmployeDAO.verifUtilisateur(adresseMail, motDePasse);
             JpaUtil.validerTransaction();
         } catch (Exception e) {
             JpaUtil.annulerTransaction();
@@ -162,18 +163,18 @@ public class Service {
         } finally {
             JpaUtil.fermerEntityManager();
         }
-        
+
         return utilisateurCourant;
     }
-    
-    public static Client authentifierClient(String adresseMail, String motDePasse){
+
+    public static Client authentifierClient(String adresseMail, String motDePasse) {
         JpaUtil.creerEntityManager();
         Client utilisateurCourant = null;
-        
+
         JpaUtil.ouvrirTransaction();
 
         try {
-            utilisateurCourant = ClientDAO.verifUtilisateur( adresseMail, motDePasse);
+            utilisateurCourant = ClientDAO.verifUtilisateur(adresseMail, motDePasse);
             JpaUtil.validerTransaction();
         } catch (Exception e) {
             JpaUtil.annulerTransaction();
@@ -181,17 +182,17 @@ public class Service {
         } finally {
             JpaUtil.fermerEntityManager();
         }
-        
+
         return utilisateurCourant;
     }
-    
-    public static DemandeIntervention interventionEmployeEnCours ( Employe emp){
+
+    public static DemandeIntervention interventionEmployeEnCours(Employe emp) {
         JpaUtil.creerEntityManager();
         DemandeIntervention intervention = null;
-        
-        JpaUtil.ouvrirTransaction();  
-        
-         try {
+
+        JpaUtil.ouvrirTransaction();
+
+        try {
             intervention = DemandeInterventionDAO.interventionEmployeEnCours(emp);
             JpaUtil.validerTransaction();
         } catch (Exception e) {
@@ -200,17 +201,17 @@ public class Service {
         } finally {
             JpaUtil.fermerEntityManager();
         }
-        
+
         return intervention;
     }
-    
-    public static List <DemandeIntervention> historiqueClient (Client c){
+
+    public static List<DemandeIntervention> historiqueClient(Client c) {
         JpaUtil.creerEntityManager();
-        List <DemandeIntervention> intervention = null;
-        
-        JpaUtil.ouvrirTransaction();  
-        
-         try {
+        List<DemandeIntervention> intervention = null;
+
+        JpaUtil.ouvrirTransaction();
+
+        try {
             intervention = DemandeInterventionDAO.historiqueClient(c);
             JpaUtil.validerTransaction();
         } catch (Exception e) {
@@ -219,7 +220,7 @@ public class Service {
         } finally {
             JpaUtil.fermerEntityManager();
         }
-        
+
         return intervention;
     }
     /*
@@ -241,5 +242,5 @@ public class Service {
         
         return intervention;
     }*/
-    
+
 }

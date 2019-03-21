@@ -54,6 +54,9 @@ public class Main {
         DemandeInterventionAnimal DIA = new DemandeInterventionAnimal("panda", "blabla");
         Service.faireDemandeIntervention(DIA, client);
         
+        DemandeInterventionAnimal DIA2 = new DemandeInterventionAnimal("ours", "blabla");
+        Service.faireDemandeIntervention(DIA2, client);
+        
         DemandeInterventionIncident DII = new DemandeInterventionIncident("blabla");
         Service.faireDemandeIntervention(DII, client2);
         
@@ -61,14 +64,15 @@ public class Main {
         //System.out.println("e : "+e.getAdresseMail());
         /*Client c = (Client) PersonneService.authentifier("agb@d", "root", false);
         System.out.println("c : "+c.getAdresseMail());*/
-       // Service.cloreDemandeIntervention(e, true, "RAS");
         
-       //DemandeInterventionAnimal d = (DemandeInterventionAnimal) Service.interventionEmployeEnCours(e);
-        // System.out.println(d.getAnimal());
-       
-       /* List <DemandeIntervention> historique = Service.historiqueClient(client);
+        DemandeInterventionAnimal d = (DemandeInterventionAnimal) Service.interventionEmployeEnCours(e);
+        System.out.println(d.getAnimal());
         
-         System.out.println(historique.get(0).getId()+" "+historique.get(1).getId());*/
+        Service.cloreDemandeIntervention(e, true, "RAS");
+
+        List <DemandeIntervention> historique = Service.historiqueClient(client);
+        System.out.println(historique.get(0).getId()+" "+historique.get(1).getId());
+        
         JpaUtil.destroy();
      }
 }

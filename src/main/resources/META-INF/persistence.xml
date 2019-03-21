@@ -10,7 +10,7 @@
     <class>fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionIncident</class>
     <class>fr.insalyon.b3246.dasi.metier.modele.DemandeInterventionLivraison</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/DASI_TP1"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/DASI_BD_TP1"/>
       <property name="javax.persistence.jdbc.user" value="route"/>
       <property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.ClientDriver"/>
       <property name="javax.persistence.jdbc.password" value="route"/>
