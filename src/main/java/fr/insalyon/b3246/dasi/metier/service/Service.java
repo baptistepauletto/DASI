@@ -61,6 +61,7 @@ public class Service {
         try {
             //resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);
             resultat = EmployeDAO.rechercheEmployeDispo(coordClient, 15);
+            
             // recherche de l'employe le plus proche geographiquement du client
             if (!resultat.isEmpty()) {
                 empRetenu = resultat.get(0);
@@ -93,20 +94,8 @@ public class Service {
         }
     }
 
-    public static void ajouterDemandeInvervention(DemandeIntervention demande) {
-        JpaUtil.creerEntityManager();
-        JpaUtil.ouvrirTransaction();
-        try {
-            DemandeInterventionDAO.persister(demande);
-            JpaUtil.validerTransaction();
-        } catch (Exception e) {
-            JpaUtil.annulerTransaction();
-            e.printStackTrace();
-        } finally {
-            JpaUtil.fermerEntityManager();
-        }
-    }
-
+    // Cette méthode existe uniquement pour tester le fonctionnement correct de la base de données
+    // sinon elle ne doit pas être utilisée en tant que service pour les employés
     public static void inscrireEmploye(Employe emp) {
         JpaUtil.creerEntityManager();
         JpaUtil.ouvrirTransaction();
@@ -223,6 +212,7 @@ public class Service {
 
         return intervention;
     }
+    
     /*
     public static List <DemandeIntervention> tableauDeBordEmploye (){
         JpaUtil.creerEntityManager();

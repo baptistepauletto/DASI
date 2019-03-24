@@ -44,10 +44,11 @@ public class DemandeInterventionDAO {
         List<DemandeIntervention> demande = (List<DemandeIntervention>) query.getResultList();
         return demande;
     }
-/*
+
+    /*
     public static List<DemandeIntervention> tableauDeBordEmploye() {
         Date now = new Date();
-       String jpql = "select d from DemandeIntervention d where d.date = :today";
+        String jpql = "select d from DemandeIntervention d where d.date = :today";
         EntityManager em = JpaUtil.obtenirEntityManager();
         Query query = em.createQuery(jpql);
         query.setParameter("today",now);
