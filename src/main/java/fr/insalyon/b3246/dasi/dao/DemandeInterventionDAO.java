@@ -7,14 +7,14 @@ package fr.insalyon.b3246.dasi.dao;
 
 import fr.insalyon.b3246.dasi.metier.modele.Client;
 import fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention;
-import fr.insalyon.b3246.dasi.metier.modele.DemandeIntervention.Statut;
 import fr.insalyon.b3246.dasi.metier.modele.Employe;
-import fr.insalyon.b3246.dasi.util.Message;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 import javax.persistence.TemporalType;
+
 
 /**
  *
@@ -45,15 +45,21 @@ public class DemandeInterventionDAO {
         return demande;
     }
 
-    /*
+    
     public static List<DemandeIntervention> tableauDeBordEmploye() {
         Date now = new Date();
-        String jpql = "select d from DemandeIntervention d where d.date = :today";
+        Calendar cal = Calendar.getInstance();
+        cal.setTime(now);
+        cal.set(Calendar.HOUR_OF_DAY, 0);
+        cal.set(Calendar.MINUTE, 0);
+        cal.set(Calendar.SECOND, 0);
+        Date startTime = cal.getTime();
+        String jpql = "select d from DemandeIntervention d where d.dateDeb >= :today";
         EntityManager em = JpaUtil.obtenirEntityManager();
         Query query = em.createQuery(jpql);
-        query.setParameter("today",now);
+        query.setParameter("today",startTime,TemporalType.DATE);
         List<DemandeIntervention> demande = (List<DemandeIntervention>) query.getResultList();
         return demande;
-    }*/
+    }
 
 }

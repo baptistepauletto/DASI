@@ -213,13 +213,11 @@ public class Service {
         return intervention;
     }
     
-    /*
+    
     public static List <DemandeIntervention> tableauDeBordEmploye (){
         JpaUtil.creerEntityManager();
         List <DemandeIntervention> intervention = null;
-        
         JpaUtil.ouvrirTransaction();  
-        
          try {
             intervention = DemandeInterventionDAO.tableauDeBordEmploye();
             JpaUtil.validerTransaction();
@@ -229,8 +227,7 @@ public class Service {
         } finally {
             JpaUtil.fermerEntityManager();
         }
-        
         return intervention;
-    }*/
-
+    }
+    
 }

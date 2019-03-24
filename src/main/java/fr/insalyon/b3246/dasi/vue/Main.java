@@ -21,10 +21,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.EntityTransaction;
-import javax.persistence.Persistence;
+
 
 /**
  *
@@ -72,6 +69,9 @@ public class Main {
 
         List <DemandeIntervention> historique = Service.historiqueClient(client);
         System.out.println(historique.get(0).getId()+" "+historique.get(1).getId());
+        
+        List <DemandeIntervention> tab = Service.tableauDeBordEmploye();
+        System.out.println(tab.get(0).getId());
         
         JpaUtil.destroy();
      }
