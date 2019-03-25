@@ -17,6 +17,7 @@ import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
+import javax.persistence.Version;
 
 /**
  *
@@ -42,6 +43,9 @@ public abstract class Personne implements Serializable {
     private String numTelephone;
     private String adresseMail;
     private String motDePasse;
+    
+    @Version
+    private Integer version;
     
     //Hypothèse : l'employé part toujours de chez lui
     private LatLng coords;

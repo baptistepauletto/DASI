@@ -10,6 +10,7 @@ import fr.insalyon.b3246.dasi.metier.modele.Employe;
 import fr.insalyon.b3246.dasi.util.GeoTest;
 import java.util.List;
 import javax.persistence.EntityManager;
+import javax.persistence.LockModeType;
 import javax.persistence.Query;
 
 /**
@@ -38,6 +39,9 @@ public class EmployeDAO {
         Query query = em.createQuery(jpql);
         query.setParameter("heureDemande", heureDemande);
         List<Employe> resultat = (List<Employe>) query.getResultList();
+        if(!resultat.isEmpty()){ // Si au moins un employé est disponible :
+                em.lock(resultat.get(0), LockModeType.OPTIMISTIC); // Verouillage de la première entité pour empêcher les accès concurrents
+        }   
         return resultat;
     }
     

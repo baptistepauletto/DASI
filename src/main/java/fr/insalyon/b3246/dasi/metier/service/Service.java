@@ -37,7 +37,7 @@ public class Service {
             Message.envoyerMail("noreply@proactif.com", c.getAdresseMail(), "Confirmation d'inscription sur Proact'if", "L'équipe Proact'if vous confirme que votre inscription s'est bien déroulée.");
         } catch (Exception e) {
             JpaUtil.annulerTransaction();
-            Message.envoyerMail("noreply@proactif.com", c.getAdresseMail(), "Echer de l'inscription sur Proact'if", "Un problème a eu lieu lors de l'inscription sur Proact'if. Veuillez réessayer ultérieurement.");
+            Message.envoyerMail("noreply@proactif.com", c.getAdresseMail(), "Echec de l'inscription sur Proact'if", "Un problème a eu lieu lors de l'inscription sur Proact'if. Veuillez réessayer ultérieurement.");
             e.printStackTrace();
         } finally {
             JpaUtil.fermerEntityManager();
@@ -59,10 +59,8 @@ public class Service {
         JpaUtil.ouvrirTransaction();
 
         try {
-            //resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);
-            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, 15);
-            
-            // recherche de l'employe le plus proche geographiquement du client
+            resultat = EmployeDAO.rechercheEmployeDispo(coordClient, heureDemande);  
+            // Recherche de l'employe le plus proche geographiquement du client
             if (!resultat.isEmpty()) {
                 empRetenu = resultat.get(0);
                 Double dureeTrajet = GeoTest.getTripDurationByBicycleInMinute(empRetenu.getCoords(), coordClient);
@@ -122,7 +120,7 @@ public class Service {
             if (succes) {
                 demande.setStatut(DemandeIntervention.Statut.FINIE_SUCCES);
                 demande.setDescriptionEmploye(descriptionEmp);
-                Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé est accomplie." + descriptionEmp);
+                Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé est accomplie. " + descriptionEmp);
             } else {
                 demande.setStatut(DemandeIntervention.Statut.FINIE_ECHEC);
                 Message.envoyerNotification(demande.getClient().getNumTelephone(), "L'intervention que vous avez demandé a échoué. Veuillez nous recontacter pour plus d'informations." + descriptionEmp);
