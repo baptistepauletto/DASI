@@ -39,7 +39,7 @@ public class InitDonnees {
                 if (ligne.equals("</tr>")) {
                     numPersonne += 1;
                     
-                    if (numPersonne <=16){
+                    if (numPersonne <=2){
                         DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
                         Date paramDate = df.parse(params.get(3));
                         Employe emp = new Employe(params.get(1), params.get(2),params.get(0),paramDate, params.get(4), params.get(5), params.get(6), new Integer(8), new Integer(18), "root");

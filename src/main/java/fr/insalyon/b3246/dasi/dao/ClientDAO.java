@@ -6,6 +6,7 @@
 package fr.insalyon.b3246.dasi.dao;
 
 import fr.insalyon.b3246.dasi.metier.modele.Client;
+import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 
@@ -22,6 +23,19 @@ public class ClientDAO {
         query.setParameter("adresseMail", adresseMail);
         query.setParameter("motDePasse", motDePasse);
         Client resultat = (Client) query.getSingleResult();
+        return resultat;
+    }
+    
+    public static Client trouver(Integer id){
+        EntityManager em = JpaUtil.obtenirEntityManager();
+        return em.find(Client.class, id);
+    }
+    
+    public static List<Client> trouverTous(){
+        EntityManager em = JpaUtil.obtenirEntityManager();
+        String jpql = "select c from Client c";
+        Query query = em.createQuery(jpql);
+        List<Client> resultat = (List<Client>) query.getResultList();
         return resultat;
     }
 }

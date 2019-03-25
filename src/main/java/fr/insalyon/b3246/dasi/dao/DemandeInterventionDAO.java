@@ -61,5 +61,17 @@ public class DemandeInterventionDAO {
         List<DemandeIntervention> demande = (List<DemandeIntervention>) query.getResultList();
         return demande;
     }
+    
+    public static DemandeIntervention trouver(Integer id){
+        EntityManager em = JpaUtil.obtenirEntityManager();
+        return em.find(DemandeIntervention.class, id);
+    }
 
+    public static List<DemandeIntervention> trouverTous(){
+        EntityManager em = JpaUtil.obtenirEntityManager();
+        String jpql = "select d from DemandeIntervention d";
+        Query query = em.createQuery(jpql);
+        List<DemandeIntervention> resultat = (List<DemandeIntervention>) query.getResultList();
+        return resultat;
+    }
 }

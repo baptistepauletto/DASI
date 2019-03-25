@@ -23,12 +23,17 @@ public class PersonneDAO {
         em.persist(p);
     }
     
-
     public static Personne trouver(Integer id) {
         EntityManager em = JpaUtil.obtenirEntityManager();
         Personne pTrouvee = em.find(Personne.class, id);
         return pTrouvee;
     }
-
-
+    
+    public static List<Personne> trouverTous(){
+        EntityManager em = JpaUtil.obtenirEntityManager();
+        String jpql = "select p from Personne p";
+        Query query = em.createQuery(jpql);
+        List<Personne> resultat = (List<Personne>) query.getResultList();
+        return resultat;
+    }
 }

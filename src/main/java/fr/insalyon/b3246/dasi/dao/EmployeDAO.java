@@ -11,6 +11,7 @@ import fr.insalyon.b3246.dasi.util.GeoTest;
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.LockModeType;
+import javax.persistence.OptimisticLockException;
 import javax.persistence.Query;
 
 /**
@@ -33,14 +34,14 @@ public class EmployeDAO {
         emp.setEstDisponible(!emp.isEstDisponible());
     }
     
-    public static List<Employe> rechercheEmployeDispo(LatLng adresseClient, Integer heureDemande){
+    public static List<Employe> rechercheEmployeDispo(LatLng adresseClient, Integer heureDemande) throws OptimisticLockException{
         String jpql = "select e from Employe e where e.estDisponible = true and e.heureDebTravail <= :heureDemande and e.heureFinTravail > :heureDemande";
         EntityManager em = JpaUtil.obtenirEntityManager();
         Query query = em.createQuery(jpql);
         query.setParameter("heureDemande", heureDemande);
         List<Employe> resultat = (List<Employe>) query.getResultList();
         if(!resultat.isEmpty()){ // Si au moins un employé est disponible :
-                em.lock(resultat.get(0), LockModeType.OPTIMISTIC); // Verouillage de la première entité pour empêcher les accès concurrents
+            em.lock(resultat.get(0), LockModeType.OPTIMISTIC); // Verrouillage de la première entité pour empêcher les accès concurrents
         }   
         return resultat;
     }
@@ -50,5 +51,11 @@ public class EmployeDAO {
         return em.find(Employe.class, id);
     }
 
-    
+    public static List<Employe> trouverTous(){
+        EntityManager em = JpaUtil.obtenirEntityManager();
+        String jpql = "select e from Employe e";
+        Query query = em.createQuery(jpql);
+        List<Employe> resultat = (List<Employe>) query.getResultList();
+        return resultat;
+    }
 }
